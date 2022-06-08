@@ -502,5 +502,53 @@
     "name": "Fahrenheit and Celsius",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Volpes",
+    "name": "More Mutagenic Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "tinywhitecat",
+    "name": "More Mod Wave Rewards",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Anomalous",
+    "name": "Dynamic Population",
+    "steamId": "1658712035",
+    "version": "1.1"
+  },
+  {
+    "author": "Horologium",
+    "name": "Beyond the End of the World",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "2.3.2.0"
+  },
+  {
+    "author": "TheHolyEpicPenguin",
+    "name": "StunWeapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
+    "name": "[KV] More Trait Slots",
+    "steamId": "1508292711",
+    "version": "1.0.7862.37403"
+  },
+  {
+    "author": "Udon",
+    "name": "Animal Weapon",
+    "steamId": "2497919470",
+    "version": "1.0.0.0"
   }
 ]

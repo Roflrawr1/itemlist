@@ -1181,7 +1181,7 @@
       "mod": "Unknown"
     },
     "description": null,
-    "name": "Pawn",
+    "name": null,
     "usage": "!pawn",
     "userLevel": "Anyone",
     "shortcut": false,

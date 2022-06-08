@@ -9090,6 +9090,624 @@
 		"category": "Furniture",
 		"defname": "BnC_Xylophone"
 	},
+	{
+		"abr": "advancedchargerifle",
+		"price": 2567,
+		"category": "Ranged weapons",
+		"defname": "Gun_BeyondChargeRifle"
+	},
+	{
+		"abr": "apexlongsword",
+		"price": 3150,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_BeyondLongSword"
+	},
+	{
+		"abr": "beyondmachiningtable",
+		"price": 1433,
+		"category": "Production",
+		"defname": "BeyondMachining"
+	},
+	{
+		"abr": "beyondpowerarmor",
+		"price": 2933,
+		"category": "Apparel",
+		"defname": "Apparel_BeyondPowerArmor"
+	},
+	{
+		"abr": "greatlybetterbattery",
+		"price": 675,
+		"category": "Power",
+		"defname": "4thBattery"
+	},
+	{
+		"abr": "icesculpture",
+		"price": 121,
+		"category": "Art",
+		"defname": "IceSculpture"
+	},
+	{
+		"abr": "medicalcryopod",
+		"price": 3200,
+		"category": "Furniture",
+		"defname": "HospitalPod"
+	},
+	{
+		"abr": "moderatelybetterbattery",
+		"price": 508,
+		"category": "Power",
+		"defname": "3rdBattery"
+	},
+	{
+		"abr": "mutalauncher",
+		"price": 1150,
+		"category": "Ranged weapons",
+		"defname": "Gun_MutaLauncher"
+	},
+	{
+		"abr": "mutagenicsniperrifle",
+		"price": 1133,
+		"category": "Ranged weapons",
+		"defname": "Gun_MutaSniperRifle"
+	},
+	{
+		"abr": "muta-minigun",
+		"price": 2767,
+		"category": "Ranged weapons",
+		"defname": "Gun_muta_Minigun"
+	},
+	{
+		"abr": "quantumbattery",
+		"price": 2267,
+		"category": "Power",
+		"defname": "QuantumBattery"
+	},
+	{
+		"abr": "riftmattercondensor",
+		"price": 3200,
+		"category": "Production",
+		"defname": "RiftHarvester"
+	},
+	{
+		"abr": "automaticstunrifle",
+		"price": 4167,
+		"category": "Ranged weapons",
+		"defname": "Gun_StunRifle"
+	},
+	{
+		"abr": "salvagedstunrifle",
+		"price": 1167,
+		"category": "Ranged weapons",
+		"defname": "Gun_StunRifleSalvaged"
+	},
+	{
+		"abr": "semi-autosniperrifle",
+		"price": 625,
+		"category": "Ranged weapons",
+		"defname": "Gun_SemiAutoSniperRifle"
+	},
+	{
+		"abr": "slightlybetterbattery",
+		"price": 417,
+		"category": "Power",
+		"defname": "2ndBattery"
+	},
+	{
+		"abr": "spectre",
+		"price": 83333,
+		"category": "Animals",
+		"defname": "Spectre"
+	},
+	{
+		"abr": "spectremeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_Spectre"
+	},
+	{
+		"abr": "stunbaton",
+		"price": 2417,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_StunBaton"
+	},
+	{
+		"abr": "stuninfuser",
+		"price": 367,
+		"category": "Manufactured",
+		"defname": "StunComponent"
+	},
+	{
+		"abr": "stunpistol",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "Gun_StunPistol"
+	},
+	{
+		"abr": "stunrifle",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "Gun_StunRifleOld"
+	},
+	{
+		"abr": "stunturret",
+		"price": 1500,
+		"category": "Security",
+		"defname": "Turret_StunTurret"
+	},
+	{
+		"abr": "timefragment",
+		"price": 33,
+		"category": "Raw resources",
+		"defname": "TimeElement"
+	},
+	{
+		"abr": "xayhirberry",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "XayhirBerries"
+	},
+	{
+		"abr": "analysisrecord",
+		"price": 52,
+		"category": "Manufactured",
+		"defname": "MR_Record"
+	},
+	{
+		"abr": "analysisworkbench",
+		"price": 667,
+		"category": "Production",
+		"defname": "MR_AnalyzerS"
+	},
+	{
+		"abr": "auxiliaryanalyzer",
+		"price": 458,
+		"category": "Misc",
+		"defname": "MR_SubAnalyzer"
+	},
+	{
+		"abr": "beacon",
+		"price": 783,
+		"category": "Security",
+		"defname": "MR_Turretbeacon"
+	},
+	{
+		"abr": "bio-analyzer",
+		"price": 2433,
+		"category": "Misc",
+		"defname": "MR_BiometricAnalyzer"
+	},
+	{
+		"abr": "blackopsdefaultcombathelmet",
+		"price": 1400,
+		"category": "Headgear",
+		"defname": "BLOPS_Helmet_Default"
+	},
+	{
+		"abr": "blackopsengineercombatgear",
+		"price": 3042,
+		"category": "Armor",
+		"defname": "BLOPS_Gear_EC"
+	},
+	{
+		"abr": "blackopsheavyassaultcombatgear",
+		"price": 3150,
+		"category": "Armor",
+		"defname": "BLOPS_Gear_HAC"
+	},
+	{
+		"abr": "blackopsheavycombathelmet",
+		"price": 1658,
+		"category": "Headgear",
+		"defname": "BLOPS_Helmet_Heavy"
+	},
+	{
+		"abr": "blackopsinfiltratorcombatgear",
+		"price": 2967,
+		"category": "Armor",
+		"defname": "BLOPS_Gear_IC"
+	},
+	{
+		"abr": "blackopslightassaultcombatgear",
+		"price": 3042,
+		"category": "Armor",
+		"defname": "BLOPS_Gear_LAC"
+	},
+	{
+		"abr": "blackopsmediccombatgear",
+		"price": 3042,
+		"category": "Armor",
+		"defname": "BLOPS_Gear_MED"
+	},
+	{
+		"abr": "bluelens",
+		"price": 1000,
+		"category": "Manufactured",
+		"defname": "MR_rentiq"
+	},
+	{
+		"abr": "caltrop",
+		"price": 19,
+		"category": "Security",
+		"defname": "Trap_MRBA"
+	},
+	{
+		"abr": "caltropbox",
+		"price": 132,
+		"category": "Maru Apparel",
+		"defname": "MR_Apparel_TrapA"
+	},
+	{
+		"abr": "cleaver",
+		"price": 194,
+		"category": "Melee weapons",
+		"defname": "MR_C_O"
+	},
+	{
+		"abr": "cleaver:crystallization",
+		"price": 875,
+		"category": "Melee weapons",
+		"defname": "MR_C_AT"
+	},
+	{
+		"abr": "cleaver:cutting",
+		"price": 425,
+		"category": "Melee weapons",
+		"defname": "MR_C_BO"
+	},
+	{
+		"abr": "cleaver:hardening",
+		"price": 492,
+		"category": "Melee weapons",
+		"defname": "MR_C_AO"
+	},
+	{
+		"abr": "cleaver:smoke",
+		"price": 1192,
+		"category": "Melee weapons",
+		"defname": "MR_C_BT"
+	},
+	{
+		"abr": "compoundbow",
+		"price": 492,
+		"category": "Ranged weapons",
+		"defname": "MR_CPB_O"
+	},
+	{
+		"abr": "compoundbow:explosive",
+		"price": 1058,
+		"category": "Ranged weapons",
+		"defname": "MR_CPB_BO"
+	},
+	{
+		"abr": "compoundbow:haze",
+		"price": 2775,
+		"category": "Ranged weapons",
+		"defname": "MR_CPB_AT"
+	},
+	{
+		"abr": "compoundbow:highmass",
+		"price": 1025,
+		"category": "Ranged weapons",
+		"defname": "MR_CPB_AO"
+	},
+	{
+		"abr": "compoundbow:propulsion",
+		"price": 2858,
+		"category": "Ranged weapons",
+		"defname": "MR_CPB_BT"
+	},
+	{
+		"abr": "decipherslifecap",
+		"price": 163,
+		"category": "Maru Headgear",
+		"defname": "MR_DeciphersLC"
+	},
+	{
+		"abr": "dyedleather",
+		"price": 35,
+		"category": "Manufactured",
+		"defname": "MR_dyedleather"
+	},
+	{
+		"abr": "dyeingtable",
+		"price": 320,
+		"category": "Production",
+		"defname": "MR_dyeingworkbench"
+	},
+	{
+		"abr": "externalbulletprooffibers",
+		"price": 425,
+		"category": "Maru Apparel",
+		"defname": "MR_EBF"
+	},
+	{
+		"abr": "handaxe",
+		"price": 264,
+		"category": "Ranged weapons",
+		"defname": "MR_HA_O"
+	},
+	{
+		"abr": "handaxe:delay",
+		"price": 617,
+		"category": "Ranged weapons",
+		"defname": "MR_HA_AO"
+	},
+	{
+		"abr": "handaxe:hunting",
+		"price": 1900,
+		"category": "Ranged weapons",
+		"defname": "MR_HA_BT"
+	},
+	{
+		"abr": "handaxe:throwing",
+		"price": 1767,
+		"category": "Ranged weapons",
+		"defname": "MR_HA_AT"
+	},
+	{
+		"abr": "handaxe:tracking",
+		"price": 558,
+		"category": "Ranged weapons",
+		"defname": "MR_HA_BO"
+	},
+	{
+		"abr": "lenticularanalyzer",
+		"price": 833,
+		"category": "Misc",
+		"defname": "MR_LenticularAnalyzer"
+	},
+	{
+		"abr": "lighthouse(test)",
+		"price": 1100,
+		"category": "Misc",
+		"defname": "MR_Lenticularrentiq"
+	},
+	{
+		"abr": "maru",
+		"price": 5000,
+		"category": "Animal",
+		"defname": "Maru"
+	},
+	{
+		"abr": "marucaravanclothes",
+		"price": 265,
+		"category": "Maru Apparel",
+		"defname": "MR_merchantsclothes"
+	},
+	{
+		"abr": "marucaravanhat",
+		"price": 247,
+		"category": "Maru Headgear",
+		"defname": "MR_thermalhat"
+	},
+	{
+		"abr": "marucookoutfit",
+		"price": 281,
+		"category": "Maru Apparel",
+		"defname": "MR_cookclothes"
+	},
+	{
+		"abr": "marudeciphersheaddress",
+		"price": 200,
+		"category": "Maru Headgear",
+		"defname": "MR_DeciphersHD"
+	},
+	{
+		"abr": "marudecipher'slifeclothes",
+		"price": 247,
+		"category": "Maru Apparel",
+		"defname": "MR_Decipherslifeclothes"
+	},
+	{
+		"abr": "marudecipher'slifecoat",
+		"price": 303,
+		"category": "Maru Apparel",
+		"defname": "MR_Decipherslifecoat"
+	},
+	{
+		"abr": "marudecipher'srobe",
+		"price": 358,
+		"category": "Maru Apparel",
+		"defname": "MR_Deciphersrobes"
+	},
+	{
+		"abr": "marudurumagi",
+		"price": 327,
+		"category": "Maru Apparel",
+		"defname": "MR_durumagi"
+	},
+	{
+		"abr": "maruengineeringoutfit",
+		"price": 265,
+		"category": "Maru Apparel",
+		"defname": "MR_engineeringclothes"
+	},
+	{
+		"abr": "maruforager'soutfit",
+		"price": 292,
+		"category": "Maru Apparel",
+		"defname": "MR_farmclothes"
+	},
+	{
+		"abr": "maruheavyreinforcementsuit",
+		"price": 2317,
+		"category": "Maru Apparel",
+		"defname": "MR_MeleeCombatSuit"
+	},
+	{
+		"abr": "maruhuntingcoat",
+		"price": 450,
+		"category": "Maru Apparel",
+		"defname": "MR_HuntingCoat"
+	},
+	{
+		"abr": "maruhuntingmask",
+		"price": 300,
+		"category": "Maru Headgear",
+		"defname": "MR_huntingmask"
+	},
+	{
+		"abr": "maruhuntingsuit",
+		"price": 328,
+		"category": "Maru Apparel",
+		"defname": "MR_huntingsuit"
+	},
+	{
+		"abr": "marulightweightreinforcementsuit",
+		"price": 2425,
+		"category": "Maru Apparel",
+		"defname": "MR_RangedCombatSuit"
+	},
+	{
+		"abr": "marumeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Maru"
+	},
+	{
+		"abr": "marumodifiedhuntingmask",
+		"price": 675,
+		"category": "Maru Headgear",
+		"defname": "MR_huntingmaskR"
+	},
+	{
+		"abr": "marumountainranger'smask",
+		"price": 1775,
+		"category": "Maru Headgear",
+		"defname": "MR_huntingmaskM"
+	},
+	{
+		"abr": "marumusicianhat",
+		"price": 247,
+		"category": "Maru Headgear",
+		"defname": "MR_Musicianhat"
+	},
+	{
+		"abr": "marumusicianoutfit",
+		"price": 281,
+		"category": "Maru Apparel",
+		"defname": "MR_Musicianclo"
+	},
+	{
+		"abr": "marumusician'scoat",
+		"price": 303,
+		"category": "Maru Apparel",
+		"defname": "MR_Musiciancoat"
+	},
+	{
+		"abr": "marusanitaryclothing",
+		"price": 300,
+		"category": "Maru Apparel",
+		"defname": "MR_sanitaryclothing"
+	},
+	{
+		"abr": "marusanitarycoat",
+		"price": 383,
+		"category": "Maru Apparel",
+		"defname": "MR_sanitarycoat"
+	},
+	{
+		"abr": "maruwintercoat",
+		"price": 433,
+		"category": "Maru Apparel",
+		"defname": "MR_wintercoat"
+	},
+	{
+		"abr": "maruworkoutfit",
+		"price": 265,
+		"category": "Maru Apparel",
+		"defname": "MR_workclothes"
+	},
+	{
+		"abr": "mechanicaltrap",
+		"price": 19,
+		"category": "Security",
+		"defname": "Trap_MRB"
+	},
+	{
+		"abr": "negativefieldgenerator",
+		"price": 1975,
+		"category": "Maru Apparel",
+		"defname": "MR_NFG"
+	},
+	{
+		"abr": "researchtree",
+		"price": 1158,
+		"category": "Misc",
+		"defname": "MR_ResearchBench"
+	},
+	{
+		"abr": "retrofittable",
+		"price": 900,
+		"category": "Production",
+		"defname": "MR_retrofittable"
+	},
+	{
+		"abr": "sarira",
+		"price": 35,
+		"category": "Manufactured",
+		"defname": "MR_Sarira"
+	},
+	{
+		"abr": "techprint(appliedresearch-bulletprooffiber)",
+		"price": 1333,
+		"category": "Techprints",
+		"defname": "Techprint_MaruRB"
+	},
+	{
+		"abr": "techprint(appliedresearch-negativefield)",
+		"price": 2000,
+		"category": "Techprints",
+		"defname": "Techprint_MaruRC"
+	},
+	{
+		"abr": "trapholder",
+		"price": 183,
+		"category": "Maru Apparel",
+		"defname": "MR_Apparel_Trap"
+	},
+	{
+		"abr": "weaponrebuildworkbench",
+		"price": 1508,
+		"category": "Production",
+		"defname": "MR_Rebuildtable"
+	},
+	{
+		"abr": "whalingharpoon",
+		"price": 261,
+		"category": "Ranged weapons",
+		"defname": "MR_WH_O"
+	},
+	{
+		"abr": "whalingharpoon:abduct",
+		"price": 1567,
+		"category": "Ranged weapons",
+		"defname": "MR_WH_AT"
+	},
+	{
+		"abr": "whalingharpoon:externalanti-gravity",
+		"price": 1567,
+		"category": "Ranged weapons",
+		"defname": "MR_WH_BT"
+	},
+	{
+		"abr": "whalingharpoon:improvement",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "MR_WH_AO"
+	},
+	{
+		"abr": "whalingharpoon:internalanti-gravity",
+		"price": 617,
+		"category": "Ranged weapons",
+		"defname": "MR_WH_BO"
+	},
+	{
+		"abr": "whitetwigs",
+		"price": 500,
+		"category": "Manufactured",
+		"defname": "MR_whitetwigs"
+	}
 	],
-	"total": 1576
+	"total": 1618
 }

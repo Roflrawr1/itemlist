@@ -9091,743 +9091,161 @@
       "price": 281
     },
     {
-      "abr": "alpacamorph",
-      "category": "Animal",
-      "defname": "AlpacaMorphRace_Implied",
-      "price": 1750
+      "abr": "advancedchargerifle",
+      "category": "Ranged weapons",
+      "defname": "Gun_BeyondChargeRifle",
+      "price": 2567
     },
     {
-      "abr": "alphabeavermorph",
-      "category": "Animal",
-      "defname": "AlphabeaverMorphRace_Implied",
+      "abr": "apexlongsword",
+      "category": "Melee weapons",
+      "defname": "MeleeWeapon_BeyondLongSword",
+      "price": 3150
+    },
+    {
+      "abr": "beyondmachiningtable",
+      "category": "Production",
+      "defname": "BeyondMachining",
+      "price": 1433
+    },
+    {
+      "abr": "beyondpowerarmor",
+      "category": "Apparel",
+      "defname": "Apparel_BeyondPowerArmor",
+      "price": 2933
+    },
+    {
+      "abr": "greatlybetterbattery",
+      "category": "Power",
+      "defname": "4thBattery",
+      "price": 675
+    },
+    {
+      "abr": "icesculpture",
+      "category": "Art",
+      "defname": "IceSculpture",
+      "price": 121
+    },
+    {
+      "abr": "medicalcryopod",
+      "category": "Furniture",
+      "defname": "HospitalPod",
+      "price": 3200
+    },
+    {
+      "abr": "moderatelybetterbattery",
+      "category": "Power",
+      "defname": "3rdBattery",
+      "price": 508
+    },
+    {
+      "abr": "mutalauncher",
+      "category": "Ranged weapons",
+      "defname": "Gun_MutaLauncher",
+      "price": 1150
+    },
+    {
+      "abr": "mutagenicsniperrifle",
+      "category": "Ranged weapons",
+      "defname": "Gun_MutaSniperRifle",
+      "price": 1133
+    },
+    {
+      "abr": "muta-minigun",
+      "category": "Ranged weapons",
+      "defname": "Gun_muta_Minigun",
+      "price": 2767
+    },
+    {
+      "abr": "quantumbattery",
+      "category": "Power",
+      "defname": "QuantumBattery",
+      "price": 2267
+    },
+    {
+      "abr": "riftmattercondensor",
+      "category": "Production",
+      "defname": "RiftHarvester",
+      "price": 3200
+    },
+    {
+      "abr": "automaticstunrifle",
+      "category": "Ranged weapons",
+      "defname": "Gun_StunRifle",
+      "price": 4167
+    },
+    {
+      "abr": "salvagedstunrifle",
+      "category": "Ranged weapons",
+      "defname": "Gun_StunRifleSalvaged",
+      "price": 1167
+    },
+    {
+      "abr": "semi-autosniperrifle",
+      "category": "Ranged weapons",
+      "defname": "Gun_SemiAutoSniperRifle",
+      "price": 625
+    },
+    {
+      "abr": "slightlybetterbattery",
+      "category": "Power",
+      "defname": "2ndBattery",
+      "price": 417
+    },
+    {
+      "abr": "spectre",
+      "category": "Animals",
+      "defname": "Spectre",
+      "price": 83333
+    },
+    {
+      "abr": "spectremeat",
+      "category": "Meat",
+      "defname": "Meat_Spectre",
+      "price": 1
+    },
+    {
+      "abr": "stunbaton",
+      "category": "Melee weapons",
+      "defname": "MeleeWeapon_StunBaton",
+      "price": 2417
+    },
+    {
+      "abr": "stuninfuser",
+      "category": "Manufactured",
+      "defname": "StunComponent",
+      "price": 367
+    },
+    {
+      "abr": "stunpistol",
+      "category": "Ranged weapons",
+      "defname": "Gun_StunPistol",
       "price": 1667
     },
     {
-      "abr": "grizzlybearmorph",
-      "category": "Animal",
-      "defname": "BearMorphRace_Implied",
-      "price": 2042
+      "abr": "stunrifle",
+      "category": "Ranged weapons",
+      "defname": "Gun_StunRifleOld",
+      "price": 2333
     },
     {
-      "abr": "polarbearmorph",
-      "category": "Animal",
-      "defname": "PolarBearMorphRace_Implied",
-      "price": 2042
-    },
-    {
-      "abr": "bisonmorph",
-      "category": "Animal",
-      "defname": "BisonMorphRace_Implied",
-      "price": 1750
-    },
-    {
-      "abr": "boarmorph",
-      "category": "Animal",
-      "defname": "BoarMorphRace_Implied",
-      "price": 1625
-    },
-    {
-      "abr": "boomamorph",
-      "category": "Animal",
-      "defname": "BoomalopeMorphRace_Implied",
-      "price": 1750
-    },
-    {
-      "abr": "capybaramorph",
-      "category": "Animal",
-      "defname": "CapybaraMorphRace_Implied",
-      "price": 1583
-    },
-    {
-      "abr": "cariboumorph",
-      "category": "Animal",
-      "defname": "CaribouMorphRace_Implied",
-      "price": 1708
-    },
-    {
-      "abr": "cassowarymorph",
-      "category": "Animal",
-      "defname": "CassowaryMorphRace_Implied",
-      "price": 1625
-    },
-    {
-      "abr": "catmorph",
-      "category": "Animal",
-      "defname": "CatMorphRace_Implied",
-      "price": 1542
-    },
-    {
-      "abr": "chaocowmorph",
-      "category": "Animal",
-      "defname": "ChaocowMorphRace_Implied",
-      "price": 2292
-    },
-    {
-      "abr": "chaoboommorph",
-      "category": "Animal",
-      "defname": "ChaoboomMorphRace_Implied",
-      "price": 2292
-    },
-    {
-      "abr": "chaofoxmorph",
-      "category": "Animal",
-      "defname": "ChaofoxMorphRace_Implied",
-      "price": 2458
-    },
-    {
-      "abr": "chaodinomorph",
-      "category": "Animal",
-      "defname": "ChaodinoMorphRace_Implied",
-      "price": 2708
-    },
-    {
-      "abr": "chookmorph",
-      "category": "Animal",
-      "defname": "ChookMorphRace_Implied",
+      "abr": "stunturret",
+      "category": "Security",
+      "defname": "Turret_StunTurret",
       "price": 1500
     },
     {
-      "abr": "chinchillamorph",
-      "category": "Animal",
-      "defname": "ChinchillaMorphRace_Implied",
-      "price": 1583
-    },
-    {
-      "abr": "cobramorph",
-      "category": "Animal",
-      "defname": "SnakeMorphRace_Implied",
-      "price": 1583
-    },
-    {
-      "abr": "hellhoundmorph",
-      "category": "Animal",
-      "defname": "PM_HellhoundMorphRace_Implied",
-      "price": 1833
-    },
-    {
-      "abr": "cougarmorph",
-      "category": "Animal",
-      "defname": "CougarMorphRace_Implied",
-      "price": 1792
-    },
-    {
-      "abr": "cowmorph",
-      "category": "Animal",
-      "defname": "CowMorphRace_Implied",
-      "price": 1708
-    },
-    {
-      "abr": "deermorph",
-      "category": "Animal",
-      "defname": "DeerMorphRace_Implied",
-      "price": 1667
-    },
-    {
-      "abr": "donkeymorph",
-      "category": "Animal",
-      "defname": "DonkeyMorphRace_Implied",
-      "price": 1725
-    },
-    {
-      "abr": "camelmorph",
-      "category": "Animal",
-      "defname": "DromedaryMorphRace_Implied",
-      "price": 1708
-    },
-    {
-      "abr": "duckmorph",
-      "category": "Animal",
-      "defname": "DuckMorphRace_Implied",
-      "price": 1508
-    },
-    {
-      "abr": "elephantmorph",
-      "category": "Animal",
-      "defname": "ElephantMorphRace_Implied",
-      "price": 1958
-    },
-    {
-      "abr": "emumorph",
-      "category": "Animal",
-      "defname": "EmuMorphRace_Implied",
-      "price": 1625
-    },
-    {
-      "abr": "arcticfoxmorph",
-      "category": "Animal",
-      "defname": "ArcticFoxMorphRace_Implied",
-      "price": 1625
-    },
-    {
-      "abr": "fennecfoxmorph",
-      "category": "Animal",
-      "defname": "FennecFoxMorphRace_Implied",
-      "price": 1625
-    },
-    {
-      "abr": "redfoxmorph",
-      "category": "Animal",
-      "defname": "FoxMorphRace_Implied",
-      "price": 1625
-    },
-    {
-      "abr": "gazellemorph",
-      "category": "Animal",
-      "defname": "GazelleMorphRace_Implied",
-      "price": 1583
-    },
-    {
-      "abr": "goatmorph",
-      "category": "Animal",
-      "defname": "GoatMorphRace_Implied",
-      "price": 1625
-    },
-    {
-      "abr": "goosemorph",
-      "category": "Animal",
-      "defname": "GooseMorphRace_Implied",
-      "price": 1533
-    },
-    {
-      "abr": "haremorph",
-      "category": "Animal",
-      "defname": "HareMorphRace_Implied",
-      "price": 1500
-    },
-    {
-      "abr": "snowharemorph",
-      "category": "Animal",
-      "defname": "SnowhareMorphRace_Implied",
-      "price": 1500
-    },
-    {
-      "abr": "horsemorph",
-      "category": "Animal",
-      "defname": "HorseMorphRace_Implied",
-      "price": 1917
-    },
-    {
-      "abr": "huskymorph",
-      "category": "Animal",
-      "defname": "HuskyMorphRace_Implied",
-      "price": 1667
-    },
-    {
-      "abr": "ibexmorph",
-      "category": "Animal",
-      "defname": "IbexMorphRace_Implied",
-      "price": 1667
-    },
-    {
-      "abr": "iguanamorph",
-      "category": "Animal",
-      "defname": "IguanaMorphRace_Implied",
-      "price": 1542
-    },
-    {
-      "abr": "labmorph",
-      "category": "Animal",
-      "defname": "LabradorRetrieverMorphRace_Implied",
-      "price": 1667
-    },
-    {
-      "abr": "lynxmorph",
-      "category": "Animal",
-      "defname": "LynxMorphRace_Implied",
-      "price": 1667
-    },
-    {
-      "abr": "slothmorph",
-      "category": "Animal",
-      "defname": "MegaslothMorphRace_Implied",
-      "price": 2042
-    },
-    {
-      "abr": "monkeymorph",
-      "category": "Animal",
-      "defname": "MonkeyMorphRace_Implied",
-      "price": 1542
-    },
-    {
-      "abr": "muffalomorph",
-      "category": "Animal",
-      "defname": "MuffaloMorphRace_Implied",
-      "price": 1708
-    },
-    {
-      "abr": "ostrichmorph",
-      "category": "Animal",
-      "defname": "OstrichMorphRace_Implied",
-      "price": 1667
-    },
-    {
-      "abr": "panthermorph",
-      "category": "Animal",
-      "defname": "PantherMorphRace_Implied",
-      "price": 1792
-    },
-    {
-      "abr": "pigmorph",
-      "category": "Animal",
-      "defname": "PigMorphRace_Implied",
-      "price": 1625
-    },
-    {
-      "abr": "raccoonmorph",
-      "category": "Animal",
-      "defname": "RaccoonMorphRace_Implied",
-      "price": 1542
-    },
-    {
-      "abr": "ratmorph",
-      "category": "Animal",
-      "defname": "RatMorphRace_Implied",
-      "price": 1483
-    },
-    {
-      "abr": "rhinomorph",
-      "category": "Animal",
-      "defname": "RhinocerosMorphRace_Implied",
-      "price": 2042
-    },
-    {
-      "abr": "sheepmorph",
-      "category": "Animal",
-      "defname": "SheepMorphRace_Implied",
-      "price": 1633
-    },
-    {
-      "abr": "squirrelmorph",
-      "category": "Animal",
-      "defname": "SquirrelMorphRace_Implied",
-      "price": 1483
-    },
-    {
-      "abr": "terriermorph",
-      "category": "Animal",
-      "defname": "TerrierMorphRace_Implied",
-      "price": 1542
-    },
-    {
-      "abr": "thrumbomorph",
-      "category": "Animal",
-      "defname": "ThrumboMorphRace_Implied",
-      "price": 4792
-    },
-    {
-      "abr": "tortoisemorph",
-      "category": "Animal",
-      "defname": "TortoiseMorphRace_Implied",
-      "price": 1625
-    },
-    {
-      "abr": "turkeymorph",
-      "category": "Animal",
-      "defname": "TurkeyMorphRace_Implied",
-      "price": 1542
-    },
-    {
-      "abr": "wargmorph",
-      "category": "Animal",
-      "defname": "WargMorphRace_Implied",
-      "price": 1833
-    },
-    {
-      "abr": "arcticwolfmorph",
-      "category": "Animal",
-      "defname": "ArcticWolfMorphRace_Implied",
-      "price": 1750
-    },
-    {
-      "abr": "timberwolfmorph",
-      "category": "Animal",
-      "defname": "WolfMorphRace_Implied",
-      "price": 1750
-    },
-    {
-      "abr": "yakmorph",
-      "category": "Animal",
-      "defname": "YakMorphRace_Implied",
-      "price": 1725
-    },
-    {
-      "abr": "minorgenome",
-      "category": "Genomes",
-      "defname": "PM_Genome_Minor_Implicit",
-      "price": 183
-    },
-    {
-      "abr": "majorgenome",
-      "category": "Genomes",
-      "defname": "PM_Genome_Major_Implicit",
-      "price": 183
-    },
-    {
-      "abr": "extremegenome",
-      "category": "Genomes",
-      "defname": "PM_Genome_Extreme_Implicit",
-      "price": 183
-    },
-    {
-      "abr": "combatgenome",
-      "category": "Genomes",
-      "defname": "PM_Genome_Combat_Implicit",
-      "price": 183
-    },
-    {
-      "abr": "craftergenome",
-      "category": "Genomes",
-      "defname": "PM_Genome_Crafter_Implicit",
-      "price": 183
-    },
-    {
-      "abr": "socialgenome",
-      "category": "Genomes",
-      "defname": "PM_Genome_Social_Implicit",
-      "price": 183
-    },
-    {
-      "abr": "productivegenome",
-      "category": "Genomes",
-      "defname": "PM_Genome_Productive_Implicit",
-      "price": 183
-    },
-    {
-      "abr": "powerfulgenome",
-      "category": "Genomes",
-      "defname": "PM_Genome_Powerful_Implicit",
-      "price": 187
-    },
-    {
-      "abr": "chaocowgenome",
-      "category": "Genomes",
-      "defname": "PM_Genome_Chaocow_Implicit",
-      "price": 1833
-    },
-    {
-      "abr": "chaoboomgenome",
-      "category": "Genomes",
-      "defname": "PM_Genome_Chaoboom_Implicit",
-      "price": 1833
-    },
-    {
-      "abr": "chaofoxgenome",
-      "category": "Genomes",
-      "defname": "PM_Genome_Chaofox_Implicit",
-      "price": 2167
-    },
-    {
-      "abr": "chaodinogenome",
-      "category": "Genomes",
-      "defname": "PM_Genome_Chaodino_Implicit",
-      "price": 2667
-    },
-    {
-      "abr": "mutasyringe,alpaca",
-      "category": "Injector",
-      "defname": "AlpacaMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,alphabeaver",
-      "category": "Injector",
-      "defname": "AlphabeaverMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,grizzlybear",
-      "category": "Injector",
-      "defname": "BearMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,polarbear",
-      "category": "Injector",
-      "defname": "PolarBearMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,bison",
-      "category": "Injector",
-      "defname": "BisonMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,wildboar",
-      "category": "Injector",
-      "defname": "BoarMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,boomalope",
-      "category": "Injector",
-      "defname": "BoomalopeMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,capybara",
-      "category": "Injector",
-      "defname": "CapybaraMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,caribou",
-      "category": "Injector",
-      "defname": "CaribouMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,cassowary",
-      "category": "Injector",
-      "defname": "CassowaryMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,cat",
-      "category": "Injector",
-      "defname": "CatMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,chicken",
-      "category": "Injector",
-      "defname": "ChookMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,chinchilla",
-      "category": "Injector",
-      "defname": "ChinchillaMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,cobra",
-      "category": "Injector",
-      "defname": "SnakeMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,cougar",
-      "category": "Injector",
-      "defname": "CougarMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,cow",
-      "category": "Injector",
-      "defname": "CowMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,deer",
-      "category": "Injector",
-      "defname": "DeerMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,donkey",
-      "category": "Injector",
-      "defname": "DonkeyMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,dromedary",
-      "category": "Injector",
-      "defname": "DromedaryMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,duck",
-      "category": "Injector",
-      "defname": "DuckMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,emu",
-      "category": "Injector",
-      "defname": "EmuMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,arcticfox",
-      "category": "Injector",
-      "defname": "ArcticFoxMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,fennecfox",
-      "category": "Injector",
-      "defname": "FennecFoxMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,redfox",
-      "category": "Injector",
-      "defname": "FoxMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,gazelle",
-      "category": "Injector",
-      "defname": "GazelleMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,goat",
-      "category": "Injector",
-      "defname": "GoatMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,goose",
-      "category": "Injector",
-      "defname": "GooseMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,hare",
-      "category": "Injector",
-      "defname": "HareMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,snowhare",
-      "category": "Injector",
-      "defname": "SnowhareMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,horse",
-      "category": "Injector",
-      "defname": "HorseMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,husky",
-      "category": "Injector",
-      "defname": "HuskyMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,ibex",
-      "category": "Injector",
-      "defname": "IbexMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,iguana",
-      "category": "Injector",
-      "defname": "IguanaMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,labradorretriever",
-      "category": "Injector",
-      "defname": "LabradorRetrieverMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,lynx",
-      "category": "Injector",
-      "defname": "LynxMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,monkey",
-      "category": "Injector",
-      "defname": "MonkeyMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,muffalo",
-      "category": "Injector",
-      "defname": "MuffaloMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,ostrich",
-      "category": "Injector",
-      "defname": "OstrichMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,panther",
-      "category": "Injector",
-      "defname": "PantherMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,pig",
-      "category": "Injector",
-      "defname": "PigMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,raccoon",
-      "category": "Injector",
-      "defname": "RaccoonMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,rat",
-      "category": "Injector",
-      "defname": "RatMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,sheep",
-      "category": "Injector",
-      "defname": "SheepMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,squirrel",
-      "category": "Injector",
-      "defname": "SquirrelMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,yorkshireterrier",
-      "category": "Injector",
-      "defname": "TerrierMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,tortoise",
-      "category": "Injector",
-      "defname": "TortoiseMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,turkey",
-      "category": "Injector",
-      "defname": "TurkeyMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,warg",
-      "category": "Injector",
-      "defname": "WargMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,arcticwolf",
-      "category": "Injector",
-      "defname": "ArcticWolfMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,timberwolf",
-      "category": "Injector",
-      "defname": "WolfMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,yak",
-      "category": "Injector",
-      "defname": "YakMorphTransformer",
-      "price": 667
+      "abr": "timefragment",
+      "category": "Raw resources",
+      "defname": "TimeElement",
+      "price": 33
+    },
+    {
+      "abr": "xayhirberry",
+      "category": "Vegetarian",
+      "defname": "XayhirBerries",
+      "price": 2
     }
   ],
-  "total": 1638
+  "total": 1541
 }
