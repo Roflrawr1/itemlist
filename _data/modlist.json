@@ -6,6 +6,12 @@
     "version": "1.3.0.0"
   },
   {
+    "author": "Samboy063",
+    "name": "BetterLoading",
+    "steamId": "1999454301",
+    "version": "3.3.0.0"
+  },
+  {
     "author": "erdelf",
     "name": "Humanoid Alien Races",
     "steamId": "839005762",
@@ -16,6 +22,12 @@
     "name": "JecsTools",
     "steamId": "932008009",
     "version": "1.3.0.4"
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
+    "version": "1.3.7862.41411"
   },
   {
     "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
@@ -194,8 +206,8 @@
   {
     "author": "Oskar Potocki and  Trunken",
     "name": "Vanilla Apparel Expanded",
-    "steamId": "1814987817",
-    "version": "1.2.0"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
@@ -270,12 +282,6 @@
     "version": null
   },
   {
-    "author": "Linq",
-    "name": "Psychology (unofficial) v1.1-1.3",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "D4egon",
     "name": "Melody Mystical",
     "steamId": null,
@@ -315,7 +321,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.5.7.4"
+    "version": "2.5.7.5"
   },
   {
     "author": "SirRandoo",
@@ -546,12 +552,6 @@
     "version": "1.0.7862.37403"
   },
   {
-    "author": "Udon",
-    "name": "Animal Weapon",
-    "steamId": "2497919470",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "m00nl1ght-dev",
     "name": "Geological Landforms",
     "steamId": "2773943594",
@@ -576,8 +576,86 @@
     "version": "1.0.7875.31864"
   },
   {
-    "author": "VAMV",
-    "name": "Maru Race",
+    "author": "LoggerC4 and  Taranchuk",
+    "name": "ProxyHeat",
+    "steamId": "2365526329",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Yanzihko",
+    "name": "Feles - Felines of the Rim [1.3]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kure",
+    "name": "Kure's Rimworld of Magic Class Expansion Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Solid E. Wires",
+    "name": "Pawnkind Race Diversification",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sinnamon",
+    "name": "More Ritual Rewards",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "TheCavan",
+    "name": "Identity",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NetzachSloth",
+    "name": "A RimWorld of Magic - Blackguard Class",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "22",
+    "name": "RW of Magic---GuiYi(WIP)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NetzachSloth",
+    "name": "A RimWorld of Magic - Dread Shadow Class",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Filth Vanishes With Rain And Time",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "1trickPonyta",
+    "name": "Visible Raid Points",
+    "steamId": "2562730174",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Wyatt Mingji Lim aka WalkingProblem",
+    "name": "[1.3] Wild Animal Sex + Behaviors V6.2",
+    "steamId": "1224175982",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Evil Tactician",
+    "name": "Evil Tactician's RimWorld Tweaks",
     "steamId": null,
     "version": null
   }
