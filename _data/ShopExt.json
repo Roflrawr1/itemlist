@@ -25,9 +25,9 @@
       "defName": "Nudist",
       "name": "nudist",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -77,9 +77,9 @@
       "defName": "Bloodlust",
       "name": "bloodlust",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -109,9 +109,9 @@
       "defName": "Kind",
       "name": "kind",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -143,9 +143,9 @@
       "defName": "Psychopath",
       "name": "psychopath",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -173,9 +173,9 @@
       "defName": "Cannibal",
       "name": "cannibal",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -229,9 +229,9 @@
       "defName": "Abrasive",
       "name": "abrasive",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -271,9 +271,9 @@
       "defName": "TooSmart",
       "name": "toosmart",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -315,9 +315,9 @@
       "defName": "Brawler",
       "name": "brawler",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -345,9 +345,9 @@
       "defName": "Masochist",
       "name": "masochist",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -375,9 +375,9 @@
       "defName": "NightOwl",
       "name": "nightowl",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -407,9 +407,9 @@
       "defName": "Greedy",
       "name": "greedy",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -439,9 +439,9 @@
       "defName": "Jealous",
       "name": "jealous",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -477,9 +477,9 @@
       "defName": "Ascetic",
       "name": "ascetic",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -488,17 +488,21 @@
 
       ],
       "conflicts": [
-
+        "asexual",
+        "bisexual",
+        "straight"
       ],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "Rational Romance 2 (Continued)",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "asexual",
+          "bisexual",
+          "straight"
         ],
         "stats": [
 
@@ -507,28 +511,32 @@
       "defName": "Gay",
       "name": "gay",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
-      "description": "Timmy is romantically attracted to both men and women.",
+      "description": "Timmy is romantically attracted to people regardless of gender.",
       "stats": [
 
       ],
       "conflicts": [
-
+        "asexual",
+        "gay",
+        "straight"
       ],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "Rational Romance 2 (Continued)",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "asexual",
+          "gay",
+          "straight"
         ],
         "stats": [
 
@@ -537,28 +545,34 @@
       "defName": "Bisexual",
       "name": "bisexual",
       "canAdd": true,
-      "canRemove": false,
-      "addPrice": 3000,
-      "removePrice": 2000,
+      "canRemove": true,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0
     },
     {
-      "description": "Timmy has no sexual attraction to anyone at all.",
+      "description": "Timmy is uninterested in romantic entanglements.",
       "stats": [
 
       ],
       "conflicts": [
-
+        "bisexual",
+        "gay",
+        "straight",
+        "polyamorous"
       ],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "Rational Romance 2 (Continued)",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "bisexual",
+          "gay",
+          "straight",
+          "polyamorous"
         ],
         "stats": [
 
@@ -567,9 +581,9 @@
       "defName": "Asexual",
       "name": "asexual",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -613,9 +627,9 @@
       "defName": "AnnoyingVoice",
       "name": "annoyingvoice",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -651,9 +665,9 @@
       "defName": "CreepyBreathing",
       "name": "creepybreathing",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -683,9 +697,9 @@
       "defName": "Pyromaniac",
       "name": "pyromaniac",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -717,9 +731,9 @@
       "defName": "Wimp",
       "name": "wimp",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -749,9 +763,9 @@
       "defName": "Nimble",
       "name": "nimble",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -781,9 +795,9 @@
       "defName": "SlowLearner",
       "name": "slowlearner",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -811,9 +825,9 @@
       "defName": "Undergrounder",
       "name": "undergrounder",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -841,9 +855,9 @@
       "defName": "Transhumanist",
       "name": "bodymodder",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -871,9 +885,9 @@
       "defName": "BodyPurist",
       "name": "bodypurist",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -901,9 +915,9 @@
       "defName": "DislikesMen",
       "name": "misandrist",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -931,9 +945,9 @@
       "defName": "DislikesWomen",
       "name": "misogynist",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -961,9 +975,9 @@
       "defName": "GreatMemory",
       "name": "greatmemory",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -991,9 +1005,9 @@
       "defName": "Tough",
       "name": "tough",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -1021,9 +1035,9 @@
       "defName": "TorturedArtist",
       "name": "torturedartist",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -1053,9 +1067,9 @@
       "defName": "Gourmand",
       "name": "gourmand",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -1083,9 +1097,9 @@
       "defName": "QuickSleeper",
       "name": "quicksleeper",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -1125,9 +1139,9 @@
       "defName": "SpeedOffset",
       "name": "slowpoke",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -1165,9 +1179,9 @@
       "defName": "SpeedOffset",
       "name": "fastwalker",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -1205,9 +1219,9 @@
       "defName": "SpeedOffset",
       "name": "jogger",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -1235,9 +1249,9 @@
       "defName": "DrugDesire",
       "name": "chemicalfascination",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -1265,9 +1279,9 @@
       "defName": "DrugDesire",
       "name": "chemicalinterest",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -1297,9 +1311,9 @@
       "defName": "DrugDesire",
       "name": "teetotaler",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -1327,9 +1341,9 @@
       "defName": "NaturalMood",
       "name": "sanguine",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -1357,9 +1371,9 @@
       "defName": "NaturalMood",
       "name": "optimist",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -1387,9 +1401,9 @@
       "defName": "NaturalMood",
       "name": "pessimist",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -1417,9 +1431,9 @@
       "defName": "NaturalMood",
       "name": "depressive",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": -2
     },
     {
@@ -1453,9 +1467,9 @@
       "defName": "Nerves",
       "name": "iron-willed",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -1489,9 +1503,9 @@
       "defName": "Nerves",
       "name": "steadfast",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -1525,9 +1539,9 @@
       "defName": "Nerves",
       "name": "nervous",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -1561,9 +1575,9 @@
       "defName": "Nerves",
       "name": "volatile",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": -2
     },
     {
@@ -1593,9 +1607,9 @@
       "defName": "Neurotic",
       "name": "neurotic",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -1625,9 +1639,9 @@
       "defName": "Neurotic",
       "name": "veryneurotic",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -1667,9 +1681,9 @@
       "defName": "Industriousness",
       "name": "industrious",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -1709,9 +1723,9 @@
       "defName": "Industriousness",
       "name": "hardworker",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -1751,9 +1765,9 @@
       "defName": "Industriousness",
       "name": "lazy",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -1793,9 +1807,9 @@
       "defName": "Industriousness",
       "name": "slothful",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": -2
     },
     {
@@ -1823,9 +1837,9 @@
       "defName": "PsychicSensitivity",
       "name": "psychicallyhypersensitive",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -1853,9 +1867,9 @@
       "defName": "PsychicSensitivity",
       "name": "psychicallysensitive",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -1883,9 +1897,9 @@
       "defName": "PsychicSensitivity",
       "name": "psychicallydull",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -1913,9 +1927,9 @@
       "defName": "PsychicSensitivity",
       "name": "psychicallydeaf",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": -2
     },
     {
@@ -1947,9 +1961,9 @@
       "defName": "ShootingAccuracy",
       "name": "carefulshooter",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -1979,9 +1993,9 @@
       "defName": "ShootingAccuracy",
       "name": "trigger-happy",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -2009,9 +2023,9 @@
       "defName": "Beauty",
       "name": "beautiful",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -2039,9 +2053,9 @@
       "defName": "Beauty",
       "name": "pretty",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -2069,9 +2083,9 @@
       "defName": "Beauty",
       "name": "ugly",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -2099,9 +2113,9 @@
       "defName": "Beauty",
       "name": "staggeringlyugly",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": -2
     },
     {
@@ -2129,9 +2143,9 @@
       "defName": "Immunity",
       "name": "super-immune",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -2159,9 +2173,9 @@
       "defName": "Immunity",
       "name": "sickly",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -2189,9 +2203,9 @@
       "defName": "Xenophobia",
       "name": "xenophobe",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -2219,9 +2233,9 @@
       "defName": "Xenophobia",
       "name": "xenophile",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -2249,9 +2263,9 @@
       "defName": "VME_Elder",
       "name": "elder",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -2279,9 +2293,9 @@
       "defName": "AM_Ahimsa",
       "name": "vowofnonviolence",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -2313,9 +2327,9 @@
       "defName": "FastLearner",
       "name": "fastlearner",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -2349,9 +2363,9 @@
       "defName": "Conservative",
       "name": "conservative",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -2381,9 +2395,9 @@
       "defName": "Mercantile",
       "name": "mercantile",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -2411,9 +2425,9 @@
       "defName": "Athletic",
       "name": "athletic",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -2441,9 +2455,9 @@
       "defName": "Valuable",
       "name": "valuable",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -2471,9 +2485,9 @@
       "defName": "Worthless",
       "name": "worthless",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -2509,9 +2523,9 @@
       "defName": "ExperiencedCombatant",
       "name": "experiencedcombatant",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -2541,9 +2555,9 @@
       "defName": "ShotAccuracy",
       "name": "badshot",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": -2
     },
     {
@@ -2573,9 +2587,9 @@
       "defName": "ShotAccuracy",
       "name": "sniper",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -2603,9 +2617,9 @@
       "defName": "Intellectual",
       "name": "genius",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -2633,9 +2647,9 @@
       "defName": "Intellectual",
       "name": "intelligent",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -2663,9 +2677,9 @@
       "defName": "Intellectual",
       "name": "unintelligent",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -2697,9 +2711,9 @@
       "defName": "Intellectual",
       "name": "brainless",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": -2
     },
     {
@@ -2731,9 +2745,9 @@
       "defName": "Strengh",
       "name": "weak",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -2765,9 +2779,9 @@
       "defName": "Strengh",
       "name": "indestructable",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -2795,9 +2809,9 @@
       "defName": "Violent",
       "name": "violent",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -2827,9 +2841,9 @@
       "defName": "VeryNimble",
       "name": "verynimble",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -2859,9 +2873,9 @@
       "defName": "PickyEater",
       "name": "pickyeater",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -2891,9 +2905,9 @@
       "defName": "Insomnia",
       "name": "insomnia",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -2921,9 +2935,9 @@
       "defName": "Forgetful",
       "name": "forgetful",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -2965,9 +2979,9 @@
       "defName": "NaturallySelected",
       "name": "naturallyselected",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -3007,9 +3021,9 @@
       "defName": "Chosen",
       "name": "chosen",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -3057,9 +3071,9 @@
       "defName": "God-Like",
       "name": "god-like",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -3087,9 +3101,9 @@
       "defName": "LightImmunity",
       "name": "healthy",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -3117,9 +3131,9 @@
       "defName": "LightImmunity",
       "name": "unhealthy",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -3149,9 +3163,9 @@
       "defName": "Socialite",
       "name": "socialite",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -3183,9 +3197,9 @@
       "defName": "FT_StrongBack",
       "name": "strongback",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -3217,9 +3231,9 @@
       "defName": "FT_StrongBack",
       "name": "verystrongback",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -3269,9 +3283,9 @@
       "defName": "FT_Charisma",
       "name": "charismatic",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -3321,9 +3335,9 @@
       "defName": "FT_Charisma",
       "name": "verycharismatic",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -3369,9 +3383,9 @@
       "defName": "FT_Intimidation",
       "name": "intimidating",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -3417,9 +3431,9 @@
       "defName": "FT_Intimidation",
       "name": "veryintimidating",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -3453,9 +3467,9 @@
       "defName": "FT_AimOffset",
       "name": "pooraim",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -3487,9 +3501,9 @@
       "defName": "FT_AimOffset",
       "name": "steadyaim",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -3521,9 +3535,9 @@
       "defName": "FT_AimOffset",
       "name": "greataim",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -3567,9 +3581,9 @@
       "defName": "FT_Artisan",
       "name": "artisan",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -3605,9 +3619,9 @@
       "defName": "FT_IronStomach",
       "name": "ironstomach",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -3639,9 +3653,9 @@
       "defName": "FT_Packing",
       "name": "packin'light",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -3671,9 +3685,9 @@
       "defName": "FT_Packing",
       "name": "packrat",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -3729,9 +3743,9 @@
       "defName": "FT_Agility",
       "name": "agile",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -3789,9 +3803,9 @@
       "defName": "FT_Agility",
       "name": "ninja",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -3843,9 +3857,9 @@
       "defName": "FT_Intelligence",
       "name": "intelligent",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -3897,9 +3911,9 @@
       "defName": "FT_Intelligence",
       "name": "veryintelligent",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -3951,9 +3965,9 @@
       "defName": "FT_Perception",
       "name": "perceptive",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -4005,9 +4019,9 @@
       "defName": "FT_Perception",
       "name": "veryperceptive",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -4049,9 +4063,9 @@
       "defName": "FT_Evasion",
       "name": "dodgy",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -4093,9 +4107,9 @@
       "defName": "FT_Evasion",
       "name": "evasive",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -4135,9 +4149,9 @@
       "defName": "FT_Adventuring",
       "name": "traveler",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -4177,9 +4191,9 @@
       "defName": "FT_Adventuring",
       "name": "explorer",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -4219,9 +4233,9 @@
       "defName": "FT_Adventuring",
       "name": "adventurer",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 3
     },
     {
@@ -4261,9 +4275,9 @@
       "defName": "FT_Bandolier",
       "name": "bandolier",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -4303,9 +4317,9 @@
       "defName": "FT_Scientific",
       "name": "scientific",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -4345,9 +4359,9 @@
       "defName": "FT_Scientific",
       "name": "veryscientific",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -4393,9 +4407,9 @@
       "defName": "FT_Endurance",
       "name": "enduring",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -4441,9 +4455,9 @@
       "defName": "FT_Endurance",
       "name": "veryenduring",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -4491,9 +4505,9 @@
       "defName": "FT_Bargaining",
       "name": "bargainer",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -4541,9 +4555,9 @@
       "defName": "FT_Bargaining",
       "name": "hardbargainer",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -4591,9 +4605,9 @@
       "defName": "FT_Inspiration",
       "name": "uninspiring",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -4643,9 +4657,9 @@
       "defName": "FT_Inspiration",
       "name": "inspirational",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -4695,9 +4709,9 @@
       "defName": "FT_Inspiration",
       "name": "veryinspirational",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -4745,9 +4759,9 @@
       "defName": "FT_Generosity",
       "name": "generous",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -4795,9 +4809,9 @@
       "defName": "FT_Generosity",
       "name": "overlygenerous",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -4839,9 +4853,9 @@
       "defName": "FT_Scrapper",
       "name": "scrapper",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -4889,9 +4903,9 @@
       "defName": "FT_NaturalLeader",
       "name": "naturalleader",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -4921,9 +4935,9 @@
       "defName": "FT_RadResistant",
       "name": "radresistant",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -4953,9 +4967,9 @@
       "defName": "FT_RadResistant",
       "name": "radtolerant",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -5005,9 +5019,9 @@
       "defName": "FT_ActionBoy",
       "name": "actionboy",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -5057,9 +5071,9 @@
       "defName": "FT_ActionGirl",
       "name": "actiongirl",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -5097,9 +5111,9 @@
       "defName": "FT_QuickHands",
       "name": "quickhands",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -5137,9 +5151,9 @@
       "defName": "FT_GunNut",
       "name": "gunnut",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -5179,9 +5193,9 @@
       "defName": "FT_Scrounger",
       "name": "scrounger",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -5215,9 +5229,9 @@
       "defName": "FT_SturdyFrame",
       "name": "sturdyframe",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -5255,9 +5269,9 @@
       "defName": "FT_Survivalist",
       "name": "survivalist",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -5311,9 +5325,9 @@
       "defName": "FT_Blitz",
       "name": "blitz",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -5367,9 +5381,9 @@
       "defName": "FT_Philanthropist",
       "name": "philanthropist",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -5413,9 +5427,9 @@
       "defName": "FT_HealingHands",
       "name": "healinghands",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -5481,9 +5495,9 @@
       "defName": "FT_Rooted",
       "name": "rooted",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -5515,9 +5529,9 @@
       "defName": "FT_LeadBelly",
       "name": "leadbelly",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -5563,9 +5577,9 @@
       "defName": "FT_BearArms",
       "name": "beararms",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -5607,9 +5621,9 @@
       "defName": "FT_Serendipitous",
       "name": "serendipitous",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -5649,9 +5663,9 @@
       "defName": "FT_GreenThumb",
       "name": "greenthumb",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -5699,9 +5713,9 @@
       "defName": "FT_Tenderizer",
       "name": "tenderizer",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -5741,9 +5755,9 @@
       "defName": "FT_FortuneFinder",
       "name": "fortunefinder",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -5785,9 +5799,9 @@
       "defName": "FT_BountifulButcher",
       "name": "bountifulbutcher",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -5833,9 +5847,9 @@
       "defName": "FT_AnimalFriend",
       "name": "animalfriend",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -5899,9 +5913,9 @@
       "defName": "FT_Magnetic",
       "name": "magnetic",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -5945,9 +5959,9 @@
       "defName": "FT_LifeGiver",
       "name": "lifegiver",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -5995,9 +6009,9 @@
       "defName": "FT_SpiritualHealer",
       "name": "spiritualhealer",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -6045,9 +6059,9 @@
       "defName": "FT_FrailBack",
       "name": "frailback",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -6107,9 +6121,9 @@
       "defName": "FT_Ghoulish",
       "name": "ghoulish",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -6173,9 +6187,9 @@
       "defName": "FT_IdiotSavant",
       "name": "idiotsavant",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -6237,9 +6251,9 @@
       "defName": "FT_Stupid",
       "name": "stupid",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -6307,9 +6321,9 @@
       "defName": "FT_Oblivious",
       "name": "oblivious",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -6351,9 +6365,9 @@
       "defName": "FT_Woodchucker",
       "name": "woodchucker",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -6405,9 +6419,9 @@
       "defName": "FT_WreckingBall",
       "name": "wreckingball",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -6453,9 +6467,9 @@
       "defName": "FT_Perfectionist",
       "name": "perfectionist",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -6517,9 +6531,9 @@
       "defName": "FT_IronFist",
       "name": "ironfist",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -6549,9 +6563,9 @@
       "defName": "TM_ArcaneConduitTD",
       "name": "arcaneconduit",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -6581,9 +6595,9 @@
       "defName": "TM_ManaWellTD",
       "name": "manawell",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -6613,9 +6627,9 @@
       "defName": "TM_BoundlessTD",
       "name": "boundless",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -6643,9 +6657,9 @@
       "defName": "TM_FaeBloodTD",
       "name": "faeblood",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -6673,9 +6687,9 @@
       "defName": "TM_GiantsBloodTD",
       "name": "giantsblood",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -6703,9 +6717,9 @@
       "defName": "TM_EnlightenedTD",
       "name": "enlightened",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -6733,9 +6747,9 @@
       "defName": "TM_CursedTD",
       "name": "cursed",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -6763,9 +6777,9 @@
       "defName": "TM_OKWithDeath",
       "name": "unaffectedbydeath",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -6905,9 +6919,9 @@
       "defName": "Undead",
       "name": "undead",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -7041,9 +7055,9 @@
       "defName": "TM_Gifted",
       "name": "magicallygifted",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -7313,9 +7327,9 @@
       "defName": "TM_Empath",
       "name": "empath",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -7467,9 +7481,9 @@
       "defName": "TM_Wanderer",
       "name": "wanderer",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -7623,9 +7637,9 @@
       "defName": "InnerFire",
       "name": "firemage",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -7777,9 +7791,9 @@
       "defName": "HeartOfFrost",
       "name": "icemage",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -7927,9 +7941,9 @@
       "defName": "StormBorn",
       "name": "lightningmage",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -8085,9 +8099,9 @@
       "defName": "Arcanist",
       "name": "arcanemage",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -8241,9 +8255,9 @@
       "defName": "Druid",
       "name": "druid",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -8393,9 +8407,9 @@
       "defName": "Paladin",
       "name": "paladin",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -8543,9 +8557,9 @@
       "defName": "Summoner",
       "name": "summoner",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -8699,9 +8713,9 @@
       "defName": "Necromancer",
       "name": "necromancer",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -8879,9 +8893,9 @@
       "defName": "Lich",
       "name": "lich",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -9039,9 +9053,9 @@
       "defName": "Priest",
       "name": "priest",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -9185,9 +9199,9 @@
       "defName": "TM_Bard",
       "name": "entertainer",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -9331,9 +9345,9 @@
       "defName": "TM_Bard",
       "name": "performer",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -9477,9 +9491,9 @@
       "defName": "TM_Bard",
       "name": "minstrel",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -9623,9 +9637,9 @@
       "defName": "TM_Bard",
       "name": "bard",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 3
     },
     {
@@ -9789,9 +9803,9 @@
       "defName": "Succubus",
       "name": "succubus",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -9955,9 +9969,9 @@
       "defName": "Warlock",
       "name": "warlock",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -10117,9 +10131,9 @@
       "defName": "Geomancer",
       "name": "geomancer",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -10283,9 +10297,9 @@
       "defName": "Technomancer",
       "name": "technomancer",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -10439,9 +10453,9 @@
       "defName": "BloodMage",
       "name": "bloodmage",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -10597,9 +10611,9 @@
       "defName": "Enchanter",
       "name": "enchanter",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -10747,9 +10761,9 @@
       "defName": "Chronomancer",
       "name": "chronomancer",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -10897,9 +10911,9 @@
       "defName": "ChaosMage",
       "name": "chaosmage",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -11175,9 +11189,9 @@
       "defName": "TM_TheShadow",
       "name": "shadow",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -11451,9 +11465,9 @@
       "defName": "TM_Brightmage",
       "name": "brightmage",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -11725,9 +11739,9 @@
       "defName": "TM_Shaman",
       "name": "shaman",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -11995,9 +12009,9 @@
       "defName": "TM_Golemancer",
       "name": "golemancer",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -12131,9 +12145,9 @@
       "defName": "PhysicalProdigy",
       "name": "physicallyadept",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -12285,9 +12299,9 @@
       "defName": "TM_Wayfarer",
       "name": "wayfarer",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -12563,9 +12577,9 @@
       "defName": "TM_Apothecary",
       "name": "apothecary",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -12729,9 +12743,9 @@
       "defName": "Gladiator",
       "name": "gladiator",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -12887,9 +12901,9 @@
       "defName": "Ranger",
       "name": "woodsman",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -13045,9 +13059,9 @@
       "defName": "Ranger",
       "name": "hunter",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -13203,9 +13217,9 @@
       "defName": "Ranger",
       "name": "scout",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -13361,9 +13375,9 @@
       "defName": "Ranger",
       "name": "ranger",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 3
     },
     {
@@ -13509,9 +13523,9 @@
       "defName": "TM_Sniper",
       "name": "sharpshooter",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -13657,9 +13671,9 @@
       "defName": "TM_Sniper",
       "name": "sniper",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -13805,9 +13819,9 @@
       "defName": "TM_Sniper",
       "name": "mastersniper",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -13953,9 +13967,9 @@
       "defName": "TM_Sniper",
       "name": "legendarysniper",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 3
     },
     {
@@ -14099,9 +14113,9 @@
       "defName": "Bladedancer",
       "name": "bladesman",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -14245,9 +14259,9 @@
       "defName": "Bladedancer",
       "name": "blademaster",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -14393,9 +14407,9 @@
       "defName": "Bladedancer",
       "name": "bladedancer",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -14541,9 +14555,9 @@
       "defName": "Bladedancer",
       "name": "legendarybladedancer",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 3
     },
     {
@@ -14701,9 +14715,9 @@
       "defName": "Faceless",
       "name": "faceless",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -14857,9 +14871,9 @@
       "defName": "TM_Psionic",
       "name": "psionic",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -15007,9 +15021,9 @@
       "defName": "DeathKnight",
       "name": "deathknight",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -15163,9 +15177,9 @@
       "defName": "TM_Monk",
       "name": "monk",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -15313,9 +15327,9 @@
       "defName": "TM_Commander",
       "name": "commander",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -15471,9 +15485,9 @@
       "defName": "TM_SuperSoldier",
       "name": "supersoldier",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -15503,9 +15517,9 @@
       "defName": "BOT_Misanthrope",
       "name": "misanthrope",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -15537,9 +15551,9 @@
       "defName": "BOT_Dysgeusia",
       "name": "dysgeuisia",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -15569,9 +15583,9 @@
       "defName": "BOT_Eclectic_Palate",
       "name": "eclecticpalate",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -15617,9 +15631,9 @@
       "defName": "BOT_Pacifist",
       "name": "pacifist",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -15647,9 +15661,9 @@
       "defName": "BOT_Narcoleptic",
       "name": "narcoleptic",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -15677,9 +15691,9 @@
       "defName": "BOT_Pyrophobia",
       "name": "pyrophobia",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -15709,9 +15723,9 @@
       "defName": "BOT_Nyctophobia",
       "name": "nyctophobia",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -15739,9 +15753,9 @@
       "defName": "BOT_Sleepyhead",
       "name": "sleepyhead",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -15769,9 +15783,9 @@
       "defName": "BOT_Loves_Sleeping",
       "name": "lovessleeping",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -15809,9 +15823,9 @@
       "defName": "BOT_StrongBody",
       "name": "strongbody",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -15849,9 +15863,9 @@
       "defName": "BOT_WeakBody",
       "name": "weakbody",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -15897,9 +15911,9 @@
       "defName": "BOT_Apathetic",
       "name": "apathetic",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -15927,9 +15941,9 @@
       "defName": "BOT_Entomophobia",
       "name": "entomophobia",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -15959,9 +15973,9 @@
       "defName": "BOT_Entomophagous",
       "name": "entomophagous",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -15989,9 +16003,9 @@
       "defName": "BOT_Gregarious",
       "name": "gregarious",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -16019,9 +16033,9 @@
       "defName": "BOT_Pluviophile",
       "name": "pluviophile",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -16053,9 +16067,9 @@
       "defName": "BOT_Chionophile",
       "name": "chionophile",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -16093,9 +16107,9 @@
       "defName": "BOT_Moody",
       "name": "moody",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -16123,9 +16137,9 @@
       "defName": "BOT_EarlyBird",
       "name": "earlybird",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -16155,9 +16169,9 @@
       "defName": "BOT_Communal",
       "name": "communal",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -16187,9 +16201,9 @@
       "defName": "BOT_Sadist",
       "name": "sadist",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -16221,9 +16235,9 @@
       "defName": "BOT_Vulgar",
       "name": "vulgar",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -16253,9 +16267,9 @@
       "defName": "BOT_Comedian",
       "name": "comedian",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -16283,9 +16297,9 @@
       "defName": "BOT_Claustrophobic",
       "name": "claustrophobic",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -16323,9 +16337,9 @@
       "defName": "BOT_CongenitalAnalgesia",
       "name": "congenitalanalgesia",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -16365,9 +16379,9 @@
       "defName": "BOT_GunCrazy",
       "name": "guncrazy",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -16395,9 +16409,9 @@
       "defName": "BOT_Metabolism",
       "name": "fastmetabolism",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -16425,9 +16439,9 @@
       "defName": "BOT_Metabolism",
       "name": "slowmetabolism",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -16455,9 +16469,9 @@
       "defName": "BOT_Temperature_Love",
       "name": "thermophile",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -16485,74 +16499,10 @@
       "defName": "BOT_Temperature_Love",
       "name": "cryophile",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 1
-    },
-    {
-      "description": "Timmy is now a natural hunter.",
-      "stats": [
-        "+1 shooting",
-        "+1 animals"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Pawnmorpher",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+1 shooting",
-          "+1 animals"
-        ]
-      },
-      "defName": "NaturalHunter",
-      "name": "naturalhunter",
-      "canAdd": true,
-      "canRemove": false,
-      "addPrice": 3000,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is intrigued by the idea of becoming something other than human.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "bodymodder",
-        "bodypurist"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Pawnmorpher",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "bodymodder",
-          "bodypurist"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "MutationAffinity",
-      "name": "mutationaffinity",
-      "canAdd": true,
-      "canRemove": false,
-      "addPrice": 3000,
-      "removePrice": 2000,
-      "degree": 0
     },
     {
       "description": "Timmy's heart has innocence. Maybe it's because you've never experienced a tough world before.\nthis pawn will be more traumatized by violent acts such as cannibalism, organ harvesting and sight of dead bodies.",
@@ -16583,9 +16533,9 @@
       "defName": "Innocent",
       "name": "innocence",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -16619,9 +16569,9 @@
       "defName": "Newtype",
       "name": "newtype",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -16659,9 +16609,9 @@
       "defName": "RT_Nearsighted",
       "name": "nearsighted",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -16699,9 +16649,9 @@
       "defName": "RT_Farsighted",
       "name": "farsighted",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -16731,9 +16681,9 @@
       "defName": "RT_Athletic",
       "name": "athletic",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -16763,9 +16713,9 @@
       "defName": "RT_Stiff",
       "name": "stiff",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -16793,9 +16743,9 @@
       "defName": "RT_GoodHygiene",
       "name": "goodhygiene",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -16823,9 +16773,9 @@
       "defName": "RT_PoorHygiene",
       "name": "poorhygiene",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -16855,9 +16805,9 @@
       "defName": "RT_Persuasive",
       "name": "persuasive",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -16887,9 +16837,9 @@
       "defName": "RT_Unconvincing",
       "name": "unconvincing",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -16921,9 +16871,9 @@
       "defName": "RT_Resilient",
       "name": "resilient",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -16957,9 +16907,9 @@
       "defName": "RT_Fragile",
       "name": "fragile",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -16989,9 +16939,9 @@
       "defName": "RT_Energetic",
       "name": "energetic",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -17021,9 +16971,9 @@
       "defName": "RT_Sluggish",
       "name": "sluggish",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -17051,9 +17001,9 @@
       "defName": "RT_Restful",
       "name": "restful",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -17081,9 +17031,9 @@
       "defName": "RT_Restless",
       "name": "restless",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -17113,9 +17063,9 @@
       "defName": "RT_Efficient",
       "name": "efficient",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -17145,9 +17095,9 @@
       "defName": "RT_Inefficient",
       "name": "inefficient",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -17177,9 +17127,9 @@
       "defName": "RT_Valiant",
       "name": "valiant",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -17209,9 +17159,9 @@
       "defName": "RT_Craven",
       "name": "craven",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -17239,9 +17189,9 @@
       "defName": "RT_Rowdy",
       "name": "rowdy",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -17269,9 +17219,9 @@
       "defName": "RT_Composed",
       "name": "composed",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -17299,9 +17249,9 @@
       "defName": "RT_HeatTolerant",
       "name": "heattolerant",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -17329,9 +17279,9 @@
       "defName": "RT_HeatIntolerant",
       "name": "heatintolerant",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -17359,9 +17309,9 @@
       "defName": "RT_ColdTolerant",
       "name": "coldtolerant",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -17389,9 +17339,9 @@
       "defName": "RT_ColdIntolerant",
       "name": "coldintolerant",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -17421,9 +17371,9 @@
       "defName": "RT_Muscular",
       "name": "muscular",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -17453,9 +17403,9 @@
       "defName": "RT_Frail",
       "name": "frail",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -17483,9 +17433,9 @@
       "defName": "RT_Abstinent",
       "name": "abstinent",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -17513,9 +17463,9 @@
       "defName": "RT_Ravenous",
       "name": "ravenous",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -17542,10 +17492,10 @@
       },
       "defName": "RT_DemoCommon",
       "name": "traitdemo:common",
-      "canAdd": true,
-      "canRemove": false,
+      "canAdd": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -17572,10 +17522,10 @@
       },
       "defName": "RT_DemoUncommon",
       "name": "traitdemo:uncommon",
-      "canAdd": true,
-      "canRemove": false,
+      "canAdd": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -17602,10 +17552,10 @@
       },
       "defName": "RT_DemoRare",
       "name": "traitdemo:rare",
-      "canAdd": true,
-      "canRemove": false,
+      "canAdd": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -17632,10 +17582,10 @@
       },
       "defName": "RT_DemoEpic",
       "name": "traitdemo:epic",
-      "canAdd": true,
-      "canRemove": false,
+      "canAdd": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -17662,10 +17612,10 @@
       },
       "defName": "RT_DemoLegendary",
       "name": "traitdemo:legendary",
-      "canAdd": true,
-      "canRemove": false,
+      "canAdd": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -17715,9 +17665,9 @@
       "defName": "RT_Gifted",
       "name": "gifted",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -17767,9 +17717,9 @@
       "defName": "RT_Incompetent",
       "name": "incompetent",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -17799,9 +17749,9 @@
       "defName": "RT_PatientCook",
       "name": "patientcook",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -17831,9 +17781,9 @@
       "defName": "RT_ImpatientCook",
       "name": "impatientcook",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -17869,9 +17819,9 @@
       "defName": "RT_Healthy",
       "name": "healthy",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -17907,9 +17857,9 @@
       "defName": "RT_ChronicallyIll",
       "name": "chronicallyill",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -17939,9 +17889,9 @@
       "defName": "RT_TemperatureTolerant",
       "name": "temperaturetolerant",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -17971,9 +17921,9 @@
       "defName": "RT_TemperatureIntolerant",
       "name": "temperatureintolerant",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -18005,9 +17955,9 @@
       "defName": "RT_Coordinated",
       "name": "coordinated",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -18039,9 +17989,9 @@
       "defName": "RT_Clumsy",
       "name": "clumsy",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -18079,9 +18029,9 @@
       "defName": "RT_Hardy",
       "name": "hardy",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -18121,9 +18071,9 @@
       "defName": "RT_Feeble",
       "name": "feeble",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -18151,9 +18101,9 @@
       "defName": "RT_EasilyAmused",
       "name": "easilyamused",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -18181,9 +18131,9 @@
       "defName": "RT_ConstantlyBemused",
       "name": "constantlybemused",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -18213,9 +18163,9 @@
       "defName": "RT_Inquisitive",
       "name": "inquisitive",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -18245,9 +18195,9 @@
       "defName": "RT_Ignorant",
       "name": "ignorant",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -18299,9 +18249,9 @@
       "defName": "CrystalIncarnateGood",
       "name": "quantumaberration",
       "canAdd": true,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2000,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -18355,40 +18305,10 @@
       "defName": "CrystalIncarnateBad",
       "name": "quantumaberration",
       "canAdd": true,
-      "canRemove": false,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 2
-    },
-    {
-      "description": "Timmy's sees themself as the natural leader of their pride and as a consequence looks down on others and is easily offended.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Pawnmorpher",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "PM_PridefulTrait",
-      "name": "prideful",
-      "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
+      "removePrice": 1,
+      "degree": 2
     },
     {
       "description": "Timmy is a Cheetah. Timmy is a great runner with a sharp sight. However, just like most Feline species, this pawn is not a very Social being.",
@@ -18429,7 +18349,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -18467,7 +18387,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -18509,7 +18429,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -18551,7 +18471,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -18593,7 +18513,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -18623,7 +18543,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -19159,7 +19079,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -19687,7 +19607,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -20209,7 +20129,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -20729,7 +20649,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -21257,7 +21177,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -21787,7 +21707,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -22319,7 +22239,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -22849,7 +22769,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -23385,7 +23305,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -23909,7 +23829,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -24437,7 +24357,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -24965,7 +24885,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -25509,7 +25429,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -26037,7 +25957,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -26563,7 +26483,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -27087,7 +27007,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -27615,7 +27535,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -28139,7 +28059,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -28667,7 +28587,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -29195,7 +29115,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -29727,7 +29647,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -30261,7 +30181,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -30811,7 +30731,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -31361,7 +31281,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -31883,7 +31803,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -32409,7 +32329,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -32943,7 +32863,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -33477,7 +33397,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -34007,7 +33927,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -34537,7 +34457,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -35065,7 +34985,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -35589,7 +35509,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -36119,7 +36039,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -36647,7 +36567,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -37175,7 +37095,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -37703,7 +37623,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -38241,7 +38161,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -38773,7 +38693,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -39301,7 +39221,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -39823,7 +39743,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -40361,7 +40281,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -40889,7 +40809,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -41415,7 +41335,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -41939,7 +41859,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -42469,7 +42389,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -42997,7 +42917,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -43523,7 +43443,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -44053,7 +43973,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -44581,7 +44501,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -45105,7 +45025,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -45637,7 +45557,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -46157,7 +46077,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -46679,7 +46599,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -47203,7 +47123,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -47731,7 +47651,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -48257,7 +48177,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -48785,7 +48705,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
     },
     {
@@ -48814,8 +48734,8 @@
       "name": "transmale",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -48844,8 +48764,8 @@
       "name": "transfemale",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -48874,8 +48794,8 @@
       "name": "trans:androgyne",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -48905,7 +48825,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -48935,7 +48855,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -49505,1952 +49425,8 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
-    },
-    {
-      "description": "Timmy is Mana devourer.this pawn dedicat to devour all kinds power of magic.whenever this pawn devoured a kind power of magic,this pawn will get new abilities or buff from the devoured",
-      "stats": [
-        "+0.20 move speed"
-      ],
-      "conflicts": [
-        "physicallyadept",
-        "firemage",
-        "icemage",
-        "arcanemage",
-        "lightningmage",
-        "undead",
-        "summoner",
-        "magicallygifted",
-        "paladin",
-        "gladiator",
-        "druid",
-        "sharpshooter",
-        "sniper",
-        "mastersniper",
-        "legendarysniper",
-        "necromancer",
-        "priest",
-        "bladesman",
-        "blademaster",
-        "bladedancer",
-        "legendarybladedancer",
-        "lich",
-        "woodsman",
-        "hunter",
-        "scout",
-        "ranger",
-        "faceless",
-        "succubus",
-        "warlock",
-        "psionic",
-        "geomancer",
-        "technomancer",
-        "deathknight",
-        "enchanter",
-        "bloodmage",
-        "chronomancer",
-        "monk",
-        "wanderer",
-        "wayfarer",
-        "chaosmage",
-        "supersoldier",
-        "commander",
-        "shadow",
-        "brightmage",
-        "shaman",
-        "devourerapostle",
-        "elementalapostle",
-        "bladesman",
-        "blademaster",
-        "bladedancer",
-        "legendarybladedancer",
-        "deathknight",
-        "gladiator",
-        "faceless",
-        "sharpshooter",
-        "sniper",
-        "mastersniper",
-        "legendarysniper",
-        "woodsman",
-        "hunter",
-        "scout",
-        "ranger",
-        "psionic",
-        "monk",
-        "commander",
-        "supersoldier",
-        "wayfarer",
-        "shadow",
-        "apothecary",
-        "redmage",
-        "ninja",
-        "elementalgunner",
-        "bombardier",
-        "railbreaker",
-        "samurai",
-        "gadgeteer",
-        "medic",
-        "reaper",
-        "berserker",
-        "scion",
-        "plaguedoctor",
-        "chainwarden",
-        "ambusher",
-        "saboteur",
-        "pridestalker",
-        "aspirant",
-        "hawkeye",
-        "supportspecialist",
-        "scrapper",
-        "mystic",
-        "spellbreaker",
-        "duskbringer",
-        "thunderblessed",
-        "deadeye",
-        "spellthief",
-        "dragoon",
-        "gunbreaker",
-        "gunner",
-        "warrior",
-        "nomad",
-        "guardian",
-        "holosmith",
-        "troubadour",
-        "gambler",
-        "chef",
-        "miner",
-        "striker",
-        "blossomblader",
-        "ravenous",
-        "mechhunter",
-        "gunslinger",
-        "shadowbringer",
-        "warden",
-        "chempunk",
-        "blackguard",
-        "dreadshadow",
-        "arcanemage",
-        "firemage",
-        "icemage",
-        "lightningmage",
-        "druid",
-        "priest",
-        "necromancer",
-        "technomancer",
-        "geomancer",
-        "warlock",
-        "succubus",
-        "chaosmage",
-        "paladin",
-        "summoner",
-        "lich",
-        "entertainer",
-        "performer",
-        "minstrel",
-        "bard",
-        "chronomancer",
-        "enchanter",
-        "bloodmage",
-        "wanderer",
-        "brightmage",
-        "shaman",
-        "golemancer",
-        "shadow",
-        "empath",
-        "redmage",
-        "ninja",
-        "elementalgunner",
-        "windmage",
-        "chromamage",
-        "harbinger",
-        "reaper",
-        "cleric",
-        "arbormancer",
-        "keeper",
-        "pridestalker",
-        "starseeker",
-        "atronach",
-        "oracle",
-        "duskbringer",
-        "deadeye",
-        "spellthief",
-        "blackmage",
-        "scholar",
-        "guardian",
-        "troubadour",
-        "gambler",
-        "runeknight",
-        "ravenous",
-        "shadowbringer",
-        "warden",
-        "blackguard",
-        "manadevourer",
-        "devourerapostle",
-        "elementalapostle",
-        "dreadshadow",
-        "shadow",
-        "brightmage",
-        "shaman",
-        "golemancer",
-        "apothecary",
-        "empath",
-        "redmage",
-        "ninja",
-        "elementalgunner",
-        "bombardier",
-        "railbreaker",
-        "samurai",
-        "gadgeteer",
-        "windmage",
-        "medic",
-        "chromamage",
-        "harbinger",
-        "reaper",
-        "berserker",
-        "scion",
-        "plaguedoctor",
-        "cleric",
-        "arbormancer",
-        "chainwarden",
-        "ambusher",
-        "saboteur",
-        "keeper",
-        "pridestalker",
-        "starseeker",
-        "aspirant",
-        "hawkeye",
-        "atronach",
-        "supportspecialist",
-        "scrapper",
-        "oracle",
-        "mystic",
-        "spellbreaker",
-        "duskbringer",
-        "thunderblessed",
-        "deadeye",
-        "spellthief",
-        "dragoon",
-        "blackmage",
-        "scholar",
-        "gunbreaker",
-        "gunner",
-        "warrior",
-        "nomad",
-        "guardian",
-        "holosmith",
-        "troubadour",
-        "gambler",
-        "chef",
-        "miner",
-        "striker",
-        "runeknight",
-        "blossomblader",
-        "ravenous",
-        "mechhunter",
-        "gunslinger",
-        "shadowbringer",
-        "warden",
-        "chempunk",
-        "blackguard",
-        "manadevourer",
-        "devourerapostle",
-        "elementalapostle",
-        "dreadshadow",
-        "shadow",
-        "brightmage",
-        "shaman",
-        "golemancer",
-        "apothecary",
-        "empath",
-        "redmage",
-        "ninja",
-        "elementalgunner",
-        "bombardier",
-        "railbreaker",
-        "samurai",
-        "gadgeteer",
-        "windmage",
-        "medic",
-        "chromamage",
-        "harbinger",
-        "reaper",
-        "berserker",
-        "scion",
-        "plaguedoctor",
-        "cleric",
-        "arbormancer",
-        "chainwarden",
-        "ambusher",
-        "saboteur",
-        "keeper",
-        "pridestalker",
-        "starseeker",
-        "aspirant",
-        "hawkeye",
-        "atronach",
-        "supportspecialist",
-        "scrapper",
-        "oracle",
-        "mystic",
-        "spellbreaker",
-        "duskbringer",
-        "thunderblessed",
-        "deadeye",
-        "spellthief",
-        "dragoon",
-        "blackmage",
-        "scholar",
-        "gunbreaker",
-        "gunner",
-        "warrior",
-        "nomad",
-        "guardian",
-        "holosmith",
-        "troubadour",
-        "gambler",
-        "chef",
-        "miner",
-        "striker",
-        "runeknight",
-        "blossomblader",
-        "ravenous",
-        "mechhunter",
-        "gunslinger",
-        "shadowbringer",
-        "warden",
-        "chempunk",
-        "blackguard",
-        "devourerapostle",
-        "elementalapostle",
-        "dreadshadow"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RW of Magic---GuiYi(WIP)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "physicallyadept",
-          "firemage",
-          "icemage",
-          "arcanemage",
-          "lightningmage",
-          "undead",
-          "summoner",
-          "magicallygifted",
-          "paladin",
-          "gladiator",
-          "druid",
-          "sharpshooter",
-          "sniper",
-          "mastersniper",
-          "legendarysniper",
-          "necromancer",
-          "priest",
-          "bladesman",
-          "blademaster",
-          "bladedancer",
-          "legendarybladedancer",
-          "lich",
-          "woodsman",
-          "hunter",
-          "scout",
-          "ranger",
-          "faceless",
-          "succubus",
-          "warlock",
-          "psionic",
-          "geomancer",
-          "technomancer",
-          "deathknight",
-          "enchanter",
-          "bloodmage",
-          "chronomancer",
-          "monk",
-          "wanderer",
-          "wayfarer",
-          "chaosmage",
-          "supersoldier",
-          "commander",
-          "shadow",
-          "brightmage",
-          "shaman",
-          "devourerapostle",
-          "elementalapostle",
-          "bladesman",
-          "blademaster",
-          "bladedancer",
-          "legendarybladedancer",
-          "deathknight",
-          "gladiator",
-          "faceless",
-          "sharpshooter",
-          "sniper",
-          "mastersniper",
-          "legendarysniper",
-          "woodsman",
-          "hunter",
-          "scout",
-          "ranger",
-          "psionic",
-          "monk",
-          "commander",
-          "supersoldier",
-          "wayfarer",
-          "shadow",
-          "apothecary",
-          "redmage",
-          "ninja",
-          "elementalgunner",
-          "bombardier",
-          "railbreaker",
-          "samurai",
-          "gadgeteer",
-          "medic",
-          "reaper",
-          "berserker",
-          "scion",
-          "plaguedoctor",
-          "chainwarden",
-          "ambusher",
-          "saboteur",
-          "pridestalker",
-          "aspirant",
-          "hawkeye",
-          "supportspecialist",
-          "scrapper",
-          "mystic",
-          "spellbreaker",
-          "duskbringer",
-          "thunderblessed",
-          "deadeye",
-          "spellthief",
-          "dragoon",
-          "gunbreaker",
-          "gunner",
-          "warrior",
-          "nomad",
-          "guardian",
-          "holosmith",
-          "troubadour",
-          "gambler",
-          "chef",
-          "miner",
-          "striker",
-          "blossomblader",
-          "ravenous",
-          "mechhunter",
-          "gunslinger",
-          "shadowbringer",
-          "warden",
-          "chempunk",
-          "blackguard",
-          "dreadshadow",
-          "arcanemage",
-          "firemage",
-          "icemage",
-          "lightningmage",
-          "druid",
-          "priest",
-          "necromancer",
-          "technomancer",
-          "geomancer",
-          "warlock",
-          "succubus",
-          "chaosmage",
-          "paladin",
-          "summoner",
-          "lich",
-          "entertainer",
-          "performer",
-          "minstrel",
-          "bard",
-          "chronomancer",
-          "enchanter",
-          "bloodmage",
-          "wanderer",
-          "brightmage",
-          "shaman",
-          "golemancer",
-          "shadow",
-          "empath",
-          "redmage",
-          "ninja",
-          "elementalgunner",
-          "windmage",
-          "chromamage",
-          "harbinger",
-          "reaper",
-          "cleric",
-          "arbormancer",
-          "keeper",
-          "pridestalker",
-          "starseeker",
-          "atronach",
-          "oracle",
-          "duskbringer",
-          "deadeye",
-          "spellthief",
-          "blackmage",
-          "scholar",
-          "guardian",
-          "troubadour",
-          "gambler",
-          "runeknight",
-          "ravenous",
-          "shadowbringer",
-          "warden",
-          "blackguard",
-          "manadevourer",
-          "devourerapostle",
-          "elementalapostle",
-          "dreadshadow",
-          "shadow",
-          "brightmage",
-          "shaman",
-          "golemancer",
-          "apothecary",
-          "empath",
-          "redmage",
-          "ninja",
-          "elementalgunner",
-          "bombardier",
-          "railbreaker",
-          "samurai",
-          "gadgeteer",
-          "windmage",
-          "medic",
-          "chromamage",
-          "harbinger",
-          "reaper",
-          "berserker",
-          "scion",
-          "plaguedoctor",
-          "cleric",
-          "arbormancer",
-          "chainwarden",
-          "ambusher",
-          "saboteur",
-          "keeper",
-          "pridestalker",
-          "starseeker",
-          "aspirant",
-          "hawkeye",
-          "atronach",
-          "supportspecialist",
-          "scrapper",
-          "oracle",
-          "mystic",
-          "spellbreaker",
-          "duskbringer",
-          "thunderblessed",
-          "deadeye",
-          "spellthief",
-          "dragoon",
-          "blackmage",
-          "scholar",
-          "gunbreaker",
-          "gunner",
-          "warrior",
-          "nomad",
-          "guardian",
-          "holosmith",
-          "troubadour",
-          "gambler",
-          "chef",
-          "miner",
-          "striker",
-          "runeknight",
-          "blossomblader",
-          "ravenous",
-          "mechhunter",
-          "gunslinger",
-          "shadowbringer",
-          "warden",
-          "chempunk",
-          "blackguard",
-          "manadevourer",
-          "devourerapostle",
-          "elementalapostle",
-          "dreadshadow",
-          "shadow",
-          "brightmage",
-          "shaman",
-          "golemancer",
-          "apothecary",
-          "empath",
-          "redmage",
-          "ninja",
-          "elementalgunner",
-          "bombardier",
-          "railbreaker",
-          "samurai",
-          "gadgeteer",
-          "windmage",
-          "medic",
-          "chromamage",
-          "harbinger",
-          "reaper",
-          "berserker",
-          "scion",
-          "plaguedoctor",
-          "cleric",
-          "arbormancer",
-          "chainwarden",
-          "ambusher",
-          "saboteur",
-          "keeper",
-          "pridestalker",
-          "starseeker",
-          "aspirant",
-          "hawkeye",
-          "atronach",
-          "supportspecialist",
-          "scrapper",
-          "oracle",
-          "mystic",
-          "spellbreaker",
-          "duskbringer",
-          "thunderblessed",
-          "deadeye",
-          "spellthief",
-          "dragoon",
-          "blackmage",
-          "scholar",
-          "gunbreaker",
-          "gunner",
-          "warrior",
-          "nomad",
-          "guardian",
-          "holosmith",
-          "troubadour",
-          "gambler",
-          "chef",
-          "miner",
-          "striker",
-          "runeknight",
-          "blossomblader",
-          "ravenous",
-          "mechhunter",
-          "gunslinger",
-          "shadowbringer",
-          "warden",
-          "chempunk",
-          "blackguard",
-          "devourerapostle",
-          "elementalapostle",
-          "dreadshadow"
-        ],
-        "stats": [
-          "+0.20 move speed"
-        ]
-      },
-      "defName": "MF_ManaDevourer",
-      "name": "manadevourer",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is devourer Apostle.this pawn was given great power by a Mana devourer at the cost of becoming his Apostle.",
-      "stats": [
-        "+0.20 move speed"
-      ],
-      "conflicts": [
-        "manadevourer",
-        "physicallyadept",
-        "firemage",
-        "icemage",
-        "arcanemage",
-        "lightningmage",
-        "undead",
-        "summoner",
-        "magicallygifted",
-        "paladin",
-        "gladiator",
-        "druid",
-        "sharpshooter",
-        "sniper",
-        "mastersniper",
-        "legendarysniper",
-        "necromancer",
-        "priest",
-        "bladesman",
-        "blademaster",
-        "bladedancer",
-        "legendarybladedancer",
-        "lich",
-        "woodsman",
-        "hunter",
-        "scout",
-        "ranger",
-        "faceless",
-        "succubus",
-        "warlock",
-        "psionic",
-        "geomancer",
-        "technomancer",
-        "deathknight",
-        "enchanter",
-        "bloodmage",
-        "chronomancer",
-        "monk",
-        "wanderer",
-        "wayfarer",
-        "chaosmage",
-        "supersoldier",
-        "commander",
-        "shadow",
-        "brightmage",
-        "shaman",
-        "elementalapostle",
-        "bladesman",
-        "blademaster",
-        "bladedancer",
-        "legendarybladedancer",
-        "deathknight",
-        "gladiator",
-        "faceless",
-        "sharpshooter",
-        "sniper",
-        "mastersniper",
-        "legendarysniper",
-        "woodsman",
-        "hunter",
-        "scout",
-        "ranger",
-        "psionic",
-        "monk",
-        "commander",
-        "supersoldier",
-        "wayfarer",
-        "shadow",
-        "apothecary",
-        "redmage",
-        "ninja",
-        "elementalgunner",
-        "bombardier",
-        "railbreaker",
-        "samurai",
-        "gadgeteer",
-        "medic",
-        "reaper",
-        "berserker",
-        "scion",
-        "plaguedoctor",
-        "chainwarden",
-        "ambusher",
-        "saboteur",
-        "pridestalker",
-        "aspirant",
-        "hawkeye",
-        "supportspecialist",
-        "scrapper",
-        "mystic",
-        "spellbreaker",
-        "duskbringer",
-        "thunderblessed",
-        "deadeye",
-        "spellthief",
-        "dragoon",
-        "gunbreaker",
-        "gunner",
-        "warrior",
-        "nomad",
-        "guardian",
-        "holosmith",
-        "troubadour",
-        "gambler",
-        "chef",
-        "miner",
-        "striker",
-        "blossomblader",
-        "ravenous",
-        "mechhunter",
-        "gunslinger",
-        "shadowbringer",
-        "warden",
-        "chempunk",
-        "blackguard",
-        "dreadshadow",
-        "arcanemage",
-        "firemage",
-        "icemage",
-        "lightningmage",
-        "druid",
-        "priest",
-        "necromancer",
-        "technomancer",
-        "geomancer",
-        "warlock",
-        "succubus",
-        "chaosmage",
-        "paladin",
-        "summoner",
-        "lich",
-        "entertainer",
-        "performer",
-        "minstrel",
-        "bard",
-        "chronomancer",
-        "enchanter",
-        "bloodmage",
-        "wanderer",
-        "brightmage",
-        "shaman",
-        "golemancer",
-        "shadow",
-        "empath",
-        "redmage",
-        "ninja",
-        "elementalgunner",
-        "windmage",
-        "chromamage",
-        "harbinger",
-        "reaper",
-        "cleric",
-        "arbormancer",
-        "keeper",
-        "pridestalker",
-        "starseeker",
-        "atronach",
-        "oracle",
-        "duskbringer",
-        "deadeye",
-        "spellthief",
-        "blackmage",
-        "scholar",
-        "guardian",
-        "troubadour",
-        "gambler",
-        "runeknight",
-        "ravenous",
-        "shadowbringer",
-        "warden",
-        "blackguard",
-        "manadevourer",
-        "devourerapostle",
-        "elementalapostle",
-        "dreadshadow",
-        "shadow",
-        "brightmage",
-        "shaman",
-        "golemancer",
-        "apothecary",
-        "empath",
-        "redmage",
-        "ninja",
-        "elementalgunner",
-        "bombardier",
-        "railbreaker",
-        "samurai",
-        "gadgeteer",
-        "windmage",
-        "medic",
-        "chromamage",
-        "harbinger",
-        "reaper",
-        "berserker",
-        "scion",
-        "plaguedoctor",
-        "cleric",
-        "arbormancer",
-        "chainwarden",
-        "ambusher",
-        "saboteur",
-        "keeper",
-        "pridestalker",
-        "starseeker",
-        "aspirant",
-        "hawkeye",
-        "atronach",
-        "supportspecialist",
-        "scrapper",
-        "oracle",
-        "mystic",
-        "spellbreaker",
-        "duskbringer",
-        "thunderblessed",
-        "deadeye",
-        "spellthief",
-        "dragoon",
-        "blackmage",
-        "scholar",
-        "gunbreaker",
-        "gunner",
-        "warrior",
-        "nomad",
-        "guardian",
-        "holosmith",
-        "troubadour",
-        "gambler",
-        "chef",
-        "miner",
-        "striker",
-        "runeknight",
-        "blossomblader",
-        "ravenous",
-        "mechhunter",
-        "gunslinger",
-        "shadowbringer",
-        "warden",
-        "chempunk",
-        "blackguard",
-        "manadevourer",
-        "devourerapostle",
-        "elementalapostle",
-        "dreadshadow",
-        "shadow",
-        "brightmage",
-        "shaman",
-        "golemancer",
-        "apothecary",
-        "empath",
-        "redmage",
-        "ninja",
-        "elementalgunner",
-        "bombardier",
-        "railbreaker",
-        "samurai",
-        "gadgeteer",
-        "windmage",
-        "medic",
-        "chromamage",
-        "harbinger",
-        "reaper",
-        "berserker",
-        "scion",
-        "plaguedoctor",
-        "cleric",
-        "arbormancer",
-        "chainwarden",
-        "ambusher",
-        "saboteur",
-        "keeper",
-        "pridestalker",
-        "starseeker",
-        "aspirant",
-        "hawkeye",
-        "atronach",
-        "supportspecialist",
-        "scrapper",
-        "oracle",
-        "mystic",
-        "spellbreaker",
-        "duskbringer",
-        "thunderblessed",
-        "deadeye",
-        "spellthief",
-        "dragoon",
-        "blackmage",
-        "scholar",
-        "gunbreaker",
-        "gunner",
-        "warrior",
-        "nomad",
-        "guardian",
-        "holosmith",
-        "troubadour",
-        "gambler",
-        "chef",
-        "miner",
-        "striker",
-        "runeknight",
-        "blossomblader",
-        "ravenous",
-        "mechhunter",
-        "gunslinger",
-        "shadowbringer",
-        "warden",
-        "chempunk",
-        "blackguard",
-        "manadevourer",
-        "elementalapostle",
-        "dreadshadow"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RW of Magic---GuiYi(WIP)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "manadevourer",
-          "physicallyadept",
-          "firemage",
-          "icemage",
-          "arcanemage",
-          "lightningmage",
-          "undead",
-          "summoner",
-          "magicallygifted",
-          "paladin",
-          "gladiator",
-          "druid",
-          "sharpshooter",
-          "sniper",
-          "mastersniper",
-          "legendarysniper",
-          "necromancer",
-          "priest",
-          "bladesman",
-          "blademaster",
-          "bladedancer",
-          "legendarybladedancer",
-          "lich",
-          "woodsman",
-          "hunter",
-          "scout",
-          "ranger",
-          "faceless",
-          "succubus",
-          "warlock",
-          "psionic",
-          "geomancer",
-          "technomancer",
-          "deathknight",
-          "enchanter",
-          "bloodmage",
-          "chronomancer",
-          "monk",
-          "wanderer",
-          "wayfarer",
-          "chaosmage",
-          "supersoldier",
-          "commander",
-          "shadow",
-          "brightmage",
-          "shaman",
-          "elementalapostle",
-          "bladesman",
-          "blademaster",
-          "bladedancer",
-          "legendarybladedancer",
-          "deathknight",
-          "gladiator",
-          "faceless",
-          "sharpshooter",
-          "sniper",
-          "mastersniper",
-          "legendarysniper",
-          "woodsman",
-          "hunter",
-          "scout",
-          "ranger",
-          "psionic",
-          "monk",
-          "commander",
-          "supersoldier",
-          "wayfarer",
-          "shadow",
-          "apothecary",
-          "redmage",
-          "ninja",
-          "elementalgunner",
-          "bombardier",
-          "railbreaker",
-          "samurai",
-          "gadgeteer",
-          "medic",
-          "reaper",
-          "berserker",
-          "scion",
-          "plaguedoctor",
-          "chainwarden",
-          "ambusher",
-          "saboteur",
-          "pridestalker",
-          "aspirant",
-          "hawkeye",
-          "supportspecialist",
-          "scrapper",
-          "mystic",
-          "spellbreaker",
-          "duskbringer",
-          "thunderblessed",
-          "deadeye",
-          "spellthief",
-          "dragoon",
-          "gunbreaker",
-          "gunner",
-          "warrior",
-          "nomad",
-          "guardian",
-          "holosmith",
-          "troubadour",
-          "gambler",
-          "chef",
-          "miner",
-          "striker",
-          "blossomblader",
-          "ravenous",
-          "mechhunter",
-          "gunslinger",
-          "shadowbringer",
-          "warden",
-          "chempunk",
-          "blackguard",
-          "dreadshadow",
-          "arcanemage",
-          "firemage",
-          "icemage",
-          "lightningmage",
-          "druid",
-          "priest",
-          "necromancer",
-          "technomancer",
-          "geomancer",
-          "warlock",
-          "succubus",
-          "chaosmage",
-          "paladin",
-          "summoner",
-          "lich",
-          "entertainer",
-          "performer",
-          "minstrel",
-          "bard",
-          "chronomancer",
-          "enchanter",
-          "bloodmage",
-          "wanderer",
-          "brightmage",
-          "shaman",
-          "golemancer",
-          "shadow",
-          "empath",
-          "redmage",
-          "ninja",
-          "elementalgunner",
-          "windmage",
-          "chromamage",
-          "harbinger",
-          "reaper",
-          "cleric",
-          "arbormancer",
-          "keeper",
-          "pridestalker",
-          "starseeker",
-          "atronach",
-          "oracle",
-          "duskbringer",
-          "deadeye",
-          "spellthief",
-          "blackmage",
-          "scholar",
-          "guardian",
-          "troubadour",
-          "gambler",
-          "runeknight",
-          "ravenous",
-          "shadowbringer",
-          "warden",
-          "blackguard",
-          "manadevourer",
-          "devourerapostle",
-          "elementalapostle",
-          "dreadshadow",
-          "shadow",
-          "brightmage",
-          "shaman",
-          "golemancer",
-          "apothecary",
-          "empath",
-          "redmage",
-          "ninja",
-          "elementalgunner",
-          "bombardier",
-          "railbreaker",
-          "samurai",
-          "gadgeteer",
-          "windmage",
-          "medic",
-          "chromamage",
-          "harbinger",
-          "reaper",
-          "berserker",
-          "scion",
-          "plaguedoctor",
-          "cleric",
-          "arbormancer",
-          "chainwarden",
-          "ambusher",
-          "saboteur",
-          "keeper",
-          "pridestalker",
-          "starseeker",
-          "aspirant",
-          "hawkeye",
-          "atronach",
-          "supportspecialist",
-          "scrapper",
-          "oracle",
-          "mystic",
-          "spellbreaker",
-          "duskbringer",
-          "thunderblessed",
-          "deadeye",
-          "spellthief",
-          "dragoon",
-          "blackmage",
-          "scholar",
-          "gunbreaker",
-          "gunner",
-          "warrior",
-          "nomad",
-          "guardian",
-          "holosmith",
-          "troubadour",
-          "gambler",
-          "chef",
-          "miner",
-          "striker",
-          "runeknight",
-          "blossomblader",
-          "ravenous",
-          "mechhunter",
-          "gunslinger",
-          "shadowbringer",
-          "warden",
-          "chempunk",
-          "blackguard",
-          "manadevourer",
-          "devourerapostle",
-          "elementalapostle",
-          "dreadshadow",
-          "shadow",
-          "brightmage",
-          "shaman",
-          "golemancer",
-          "apothecary",
-          "empath",
-          "redmage",
-          "ninja",
-          "elementalgunner",
-          "bombardier",
-          "railbreaker",
-          "samurai",
-          "gadgeteer",
-          "windmage",
-          "medic",
-          "chromamage",
-          "harbinger",
-          "reaper",
-          "berserker",
-          "scion",
-          "plaguedoctor",
-          "cleric",
-          "arbormancer",
-          "chainwarden",
-          "ambusher",
-          "saboteur",
-          "keeper",
-          "pridestalker",
-          "starseeker",
-          "aspirant",
-          "hawkeye",
-          "atronach",
-          "supportspecialist",
-          "scrapper",
-          "oracle",
-          "mystic",
-          "spellbreaker",
-          "duskbringer",
-          "thunderblessed",
-          "deadeye",
-          "spellthief",
-          "dragoon",
-          "blackmage",
-          "scholar",
-          "gunbreaker",
-          "gunner",
-          "warrior",
-          "nomad",
-          "guardian",
-          "holosmith",
-          "troubadour",
-          "gambler",
-          "chef",
-          "miner",
-          "striker",
-          "runeknight",
-          "blossomblader",
-          "ravenous",
-          "mechhunter",
-          "gunslinger",
-          "shadowbringer",
-          "warden",
-          "chempunk",
-          "blackguard",
-          "manadevourer",
-          "elementalapostle",
-          "dreadshadow"
-        ],
-        "stats": [
-          "+0.20 move speed"
-        ]
-      },
-      "defName": "MF_DevourerApostle",
-      "name": "devourerapostle",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is elemental Apostle.After this pawn was given the power of elementals by a devourer, this pawn became a special class 「elemental Apostle」,elemental Apostle used the elementals of the world to fight.",
-      "stats": [
-        "+0.20 move speed"
-      ],
-      "conflicts": [
-        "manadevourer",
-        "physicallyadept",
-        "firemage",
-        "icemage",
-        "arcanemage",
-        "lightningmage",
-        "undead",
-        "summoner",
-        "magicallygifted",
-        "paladin",
-        "gladiator",
-        "druid",
-        "sharpshooter",
-        "sniper",
-        "mastersniper",
-        "legendarysniper",
-        "necromancer",
-        "priest",
-        "bladesman",
-        "blademaster",
-        "bladedancer",
-        "legendarybladedancer",
-        "lich",
-        "woodsman",
-        "hunter",
-        "scout",
-        "ranger",
-        "faceless",
-        "succubus",
-        "warlock",
-        "psionic",
-        "geomancer",
-        "technomancer",
-        "deathknight",
-        "enchanter",
-        "bloodmage",
-        "chronomancer",
-        "monk",
-        "wanderer",
-        "wayfarer",
-        "chaosmage",
-        "supersoldier",
-        "commander",
-        "shadow",
-        "brightmage",
-        "shaman",
-        "devourerapostle",
-        "bladesman",
-        "blademaster",
-        "bladedancer",
-        "legendarybladedancer",
-        "deathknight",
-        "gladiator",
-        "faceless",
-        "sharpshooter",
-        "sniper",
-        "mastersniper",
-        "legendarysniper",
-        "woodsman",
-        "hunter",
-        "scout",
-        "ranger",
-        "psionic",
-        "monk",
-        "commander",
-        "supersoldier",
-        "wayfarer",
-        "shadow",
-        "apothecary",
-        "redmage",
-        "ninja",
-        "elementalgunner",
-        "bombardier",
-        "railbreaker",
-        "samurai",
-        "gadgeteer",
-        "medic",
-        "reaper",
-        "berserker",
-        "scion",
-        "plaguedoctor",
-        "chainwarden",
-        "ambusher",
-        "saboteur",
-        "pridestalker",
-        "aspirant",
-        "hawkeye",
-        "supportspecialist",
-        "scrapper",
-        "mystic",
-        "spellbreaker",
-        "duskbringer",
-        "thunderblessed",
-        "deadeye",
-        "spellthief",
-        "dragoon",
-        "gunbreaker",
-        "gunner",
-        "warrior",
-        "nomad",
-        "guardian",
-        "holosmith",
-        "troubadour",
-        "gambler",
-        "chef",
-        "miner",
-        "striker",
-        "blossomblader",
-        "ravenous",
-        "mechhunter",
-        "gunslinger",
-        "shadowbringer",
-        "warden",
-        "chempunk",
-        "blackguard",
-        "dreadshadow",
-        "arcanemage",
-        "firemage",
-        "icemage",
-        "lightningmage",
-        "druid",
-        "priest",
-        "necromancer",
-        "technomancer",
-        "geomancer",
-        "warlock",
-        "succubus",
-        "chaosmage",
-        "paladin",
-        "summoner",
-        "lich",
-        "entertainer",
-        "performer",
-        "minstrel",
-        "bard",
-        "chronomancer",
-        "enchanter",
-        "bloodmage",
-        "wanderer",
-        "brightmage",
-        "shaman",
-        "golemancer",
-        "shadow",
-        "empath",
-        "redmage",
-        "ninja",
-        "elementalgunner",
-        "windmage",
-        "chromamage",
-        "harbinger",
-        "reaper",
-        "cleric",
-        "arbormancer",
-        "keeper",
-        "pridestalker",
-        "starseeker",
-        "atronach",
-        "oracle",
-        "duskbringer",
-        "deadeye",
-        "spellthief",
-        "blackmage",
-        "scholar",
-        "guardian",
-        "troubadour",
-        "gambler",
-        "runeknight",
-        "ravenous",
-        "shadowbringer",
-        "warden",
-        "blackguard",
-        "manadevourer",
-        "devourerapostle",
-        "elementalapostle",
-        "dreadshadow",
-        "shadow",
-        "brightmage",
-        "shaman",
-        "golemancer",
-        "apothecary",
-        "empath",
-        "redmage",
-        "ninja",
-        "elementalgunner",
-        "bombardier",
-        "railbreaker",
-        "samurai",
-        "gadgeteer",
-        "windmage",
-        "medic",
-        "chromamage",
-        "harbinger",
-        "reaper",
-        "berserker",
-        "scion",
-        "plaguedoctor",
-        "cleric",
-        "arbormancer",
-        "chainwarden",
-        "ambusher",
-        "saboteur",
-        "keeper",
-        "pridestalker",
-        "starseeker",
-        "aspirant",
-        "hawkeye",
-        "atronach",
-        "supportspecialist",
-        "scrapper",
-        "oracle",
-        "mystic",
-        "spellbreaker",
-        "duskbringer",
-        "thunderblessed",
-        "deadeye",
-        "spellthief",
-        "dragoon",
-        "blackmage",
-        "scholar",
-        "gunbreaker",
-        "gunner",
-        "warrior",
-        "nomad",
-        "guardian",
-        "holosmith",
-        "troubadour",
-        "gambler",
-        "chef",
-        "miner",
-        "striker",
-        "runeknight",
-        "blossomblader",
-        "ravenous",
-        "mechhunter",
-        "gunslinger",
-        "shadowbringer",
-        "warden",
-        "chempunk",
-        "blackguard",
-        "manadevourer",
-        "devourerapostle",
-        "elementalapostle",
-        "dreadshadow",
-        "shadow",
-        "brightmage",
-        "shaman",
-        "golemancer",
-        "apothecary",
-        "empath",
-        "redmage",
-        "ninja",
-        "elementalgunner",
-        "bombardier",
-        "railbreaker",
-        "samurai",
-        "gadgeteer",
-        "windmage",
-        "medic",
-        "chromamage",
-        "harbinger",
-        "reaper",
-        "berserker",
-        "scion",
-        "plaguedoctor",
-        "cleric",
-        "arbormancer",
-        "chainwarden",
-        "ambusher",
-        "saboteur",
-        "keeper",
-        "pridestalker",
-        "starseeker",
-        "aspirant",
-        "hawkeye",
-        "atronach",
-        "supportspecialist",
-        "scrapper",
-        "oracle",
-        "mystic",
-        "spellbreaker",
-        "duskbringer",
-        "thunderblessed",
-        "deadeye",
-        "spellthief",
-        "dragoon",
-        "blackmage",
-        "scholar",
-        "gunbreaker",
-        "gunner",
-        "warrior",
-        "nomad",
-        "guardian",
-        "holosmith",
-        "troubadour",
-        "gambler",
-        "chef",
-        "miner",
-        "striker",
-        "runeknight",
-        "blossomblader",
-        "ravenous",
-        "mechhunter",
-        "gunslinger",
-        "shadowbringer",
-        "warden",
-        "chempunk",
-        "blackguard",
-        "manadevourer",
-        "devourerapostle",
-        "dreadshadow"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RW of Magic---GuiYi(WIP)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "manadevourer",
-          "physicallyadept",
-          "firemage",
-          "icemage",
-          "arcanemage",
-          "lightningmage",
-          "undead",
-          "summoner",
-          "magicallygifted",
-          "paladin",
-          "gladiator",
-          "druid",
-          "sharpshooter",
-          "sniper",
-          "mastersniper",
-          "legendarysniper",
-          "necromancer",
-          "priest",
-          "bladesman",
-          "blademaster",
-          "bladedancer",
-          "legendarybladedancer",
-          "lich",
-          "woodsman",
-          "hunter",
-          "scout",
-          "ranger",
-          "faceless",
-          "succubus",
-          "warlock",
-          "psionic",
-          "geomancer",
-          "technomancer",
-          "deathknight",
-          "enchanter",
-          "bloodmage",
-          "chronomancer",
-          "monk",
-          "wanderer",
-          "wayfarer",
-          "chaosmage",
-          "supersoldier",
-          "commander",
-          "shadow",
-          "brightmage",
-          "shaman",
-          "devourerapostle",
-          "bladesman",
-          "blademaster",
-          "bladedancer",
-          "legendarybladedancer",
-          "deathknight",
-          "gladiator",
-          "faceless",
-          "sharpshooter",
-          "sniper",
-          "mastersniper",
-          "legendarysniper",
-          "woodsman",
-          "hunter",
-          "scout",
-          "ranger",
-          "psionic",
-          "monk",
-          "commander",
-          "supersoldier",
-          "wayfarer",
-          "shadow",
-          "apothecary",
-          "redmage",
-          "ninja",
-          "elementalgunner",
-          "bombardier",
-          "railbreaker",
-          "samurai",
-          "gadgeteer",
-          "medic",
-          "reaper",
-          "berserker",
-          "scion",
-          "plaguedoctor",
-          "chainwarden",
-          "ambusher",
-          "saboteur",
-          "pridestalker",
-          "aspirant",
-          "hawkeye",
-          "supportspecialist",
-          "scrapper",
-          "mystic",
-          "spellbreaker",
-          "duskbringer",
-          "thunderblessed",
-          "deadeye",
-          "spellthief",
-          "dragoon",
-          "gunbreaker",
-          "gunner",
-          "warrior",
-          "nomad",
-          "guardian",
-          "holosmith",
-          "troubadour",
-          "gambler",
-          "chef",
-          "miner",
-          "striker",
-          "blossomblader",
-          "ravenous",
-          "mechhunter",
-          "gunslinger",
-          "shadowbringer",
-          "warden",
-          "chempunk",
-          "blackguard",
-          "dreadshadow",
-          "arcanemage",
-          "firemage",
-          "icemage",
-          "lightningmage",
-          "druid",
-          "priest",
-          "necromancer",
-          "technomancer",
-          "geomancer",
-          "warlock",
-          "succubus",
-          "chaosmage",
-          "paladin",
-          "summoner",
-          "lich",
-          "entertainer",
-          "performer",
-          "minstrel",
-          "bard",
-          "chronomancer",
-          "enchanter",
-          "bloodmage",
-          "wanderer",
-          "brightmage",
-          "shaman",
-          "golemancer",
-          "shadow",
-          "empath",
-          "redmage",
-          "ninja",
-          "elementalgunner",
-          "windmage",
-          "chromamage",
-          "harbinger",
-          "reaper",
-          "cleric",
-          "arbormancer",
-          "keeper",
-          "pridestalker",
-          "starseeker",
-          "atronach",
-          "oracle",
-          "duskbringer",
-          "deadeye",
-          "spellthief",
-          "blackmage",
-          "scholar",
-          "guardian",
-          "troubadour",
-          "gambler",
-          "runeknight",
-          "ravenous",
-          "shadowbringer",
-          "warden",
-          "blackguard",
-          "manadevourer",
-          "devourerapostle",
-          "elementalapostle",
-          "dreadshadow",
-          "shadow",
-          "brightmage",
-          "shaman",
-          "golemancer",
-          "apothecary",
-          "empath",
-          "redmage",
-          "ninja",
-          "elementalgunner",
-          "bombardier",
-          "railbreaker",
-          "samurai",
-          "gadgeteer",
-          "windmage",
-          "medic",
-          "chromamage",
-          "harbinger",
-          "reaper",
-          "berserker",
-          "scion",
-          "plaguedoctor",
-          "cleric",
-          "arbormancer",
-          "chainwarden",
-          "ambusher",
-          "saboteur",
-          "keeper",
-          "pridestalker",
-          "starseeker",
-          "aspirant",
-          "hawkeye",
-          "atronach",
-          "supportspecialist",
-          "scrapper",
-          "oracle",
-          "mystic",
-          "spellbreaker",
-          "duskbringer",
-          "thunderblessed",
-          "deadeye",
-          "spellthief",
-          "dragoon",
-          "blackmage",
-          "scholar",
-          "gunbreaker",
-          "gunner",
-          "warrior",
-          "nomad",
-          "guardian",
-          "holosmith",
-          "troubadour",
-          "gambler",
-          "chef",
-          "miner",
-          "striker",
-          "runeknight",
-          "blossomblader",
-          "ravenous",
-          "mechhunter",
-          "gunslinger",
-          "shadowbringer",
-          "warden",
-          "chempunk",
-          "blackguard",
-          "manadevourer",
-          "devourerapostle",
-          "elementalapostle",
-          "dreadshadow",
-          "shadow",
-          "brightmage",
-          "shaman",
-          "golemancer",
-          "apothecary",
-          "empath",
-          "redmage",
-          "ninja",
-          "elementalgunner",
-          "bombardier",
-          "railbreaker",
-          "samurai",
-          "gadgeteer",
-          "windmage",
-          "medic",
-          "chromamage",
-          "harbinger",
-          "reaper",
-          "berserker",
-          "scion",
-          "plaguedoctor",
-          "cleric",
-          "arbormancer",
-          "chainwarden",
-          "ambusher",
-          "saboteur",
-          "keeper",
-          "pridestalker",
-          "starseeker",
-          "aspirant",
-          "hawkeye",
-          "atronach",
-          "supportspecialist",
-          "scrapper",
-          "oracle",
-          "mystic",
-          "spellbreaker",
-          "duskbringer",
-          "thunderblessed",
-          "deadeye",
-          "spellthief",
-          "dragoon",
-          "blackmage",
-          "scholar",
-          "gunbreaker",
-          "gunner",
-          "warrior",
-          "nomad",
-          "guardian",
-          "holosmith",
-          "troubadour",
-          "gambler",
-          "chef",
-          "miner",
-          "striker",
-          "runeknight",
-          "blossomblader",
-          "ravenous",
-          "mechhunter",
-          "gunslinger",
-          "shadowbringer",
-          "warden",
-          "chempunk",
-          "blackguard",
-          "manadevourer",
-          "devourerapostle",
-          "dreadshadow"
-        ],
-        "stats": [
-          "+0.20 move speed"
-        ]
-      },
-      "defName": "MF_elementalApostle",
-      "name": "elementalapostle",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
     },
     {
       "description": "Timmy is a Dread Shadow. The Dread Shadow borders the realm of death. Neither alive nor undead, a shade merely exists, calling upon the shadowfell for its existence. Timmy will come into their power over time, slowly gaining in physical capacity as this pawn learns to control their new constitution. Note: to approximate a dnd advanced race, the Dread Shadow suffers a significant penalty to XP gain (ie: dnd level adjustment).",
@@ -52023,8 +49999,636 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 4
+    },
+    {
+      "description": "Timmy dislikes children.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Children, school and learning",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "ChildrenDislikesChildren",
+      "name": "dislikeschildren",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 1,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is the child of a werewolf and will first transfrom when coming of age.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Children, school and learning",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "ChildrenWerewolfChild",
+      "name": "werewolf-child",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 1,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has been born in the colony.",
+      "stats": [
+        "Natural meditation focus type allowed."
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Children, school and learning",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "Natural meditation focus type allowed."
+        ]
+      },
+      "defName": "ChildrenNaturalColonyChild",
+      "name": "naturalborncolony-child",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 1,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is too young to work.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Children, school and learning",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "ChildrenToYoungToWork",
+      "name": "tooyoungtowork",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 1,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is the Maru. They feel the warmth, remind themselves that they are alive, and clear their minds.",
+      "stats": [
+        "Flame meditation focus type allowed."
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "Flame meditation focus type allowed."
+        ]
+      },
+      "defName": "Maru_flameworship",
+      "name": "flameworship",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 1,
+      "degree": 0
+    },
+    {
+      "description": "Any object, event, or technology has cause and effect.\nTimmy is very skilled at identifying and learning such causal relationships.",
+      "stats": [
+        "+25% global learning factor",
+        "+20% sell price multiplier"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+25% global learning factor",
+          "+20% sell price multiplier"
+        ]
+      },
+      "defName": "MRT_Eyetrait",
+      "name": "sharpeye",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 1,
+      "degree": 0
+    },
+    {
+      "description": "Timmy's body is naturally flexible.\nStronger and more flexible than others, it has a significant advantage in hunting.",
+      "stats": [
+        "+10.0 melee dodge chance",
+        "+0.20 move speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+10.0 melee dodge chance",
+          "+0.20 move speed"
+        ]
+      },
+      "defName": "MRT_Bodytrait",
+      "name": "flexible",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 1,
+      "degree": 0
+    },
+    {
+      "description": "Timmy believes that he is right.\nThe firm belief has a positive effect on their will, just like their piety, but he also tends to ignore the opinions of others.",
+      "stats": [
+        "-9% mental break threshold",
+        "+10% global work speed",
+        "+50% global certainty loss factor"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-9% mental break threshold",
+          "+10% global work speed",
+          "+50% global certainty loss factor"
+        ]
+      },
+      "defName": "MRT_Mentaltrait",
+      "name": "self-righteousness",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 1,
+      "degree": 0
+    },
+    {
+      "description": "A person with strong leadership always influences those around them, either positively or negatively.\nNo one knows what path such a person will choose or what kind of life he will lead. But one thing is certain, this pawn won't be an ordinary person who comes and goes into the world without anyone knowing. /n/nTimmy was born with that gift.",
+      "stats": [
+        "-100% mental break threshold"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-100% mental break threshold"
+        ]
+      },
+      "defName": "MRT_Mountaintrait",
+      "name": "leadership",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 1,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has ears that are sensitive to even small sounds.\n Being sensitive to sounds is always an advantage in life outside of its nest, but it also has the disadvantage of not being able to fall asleep deeply.",
+      "stats": [
+        "-20% rest rate multiplier",
+        "+8.0 melee dodge chance",
+        "+2.0 melee hit chance"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-20% rest rate multiplier",
+          "+8.0 melee dodge chance",
+          "+2.0 melee hit chance"
+        ]
+      },
+      "defName": "MRT_Eartrait",
+      "name": "sensitiveears",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 1,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is an experimentally cultivated Maru.\nIt has significantly superior physical abilities than other floors, but its autoimmunity is very low due to its imperfect design.",
+      "stats": [
+        "-16% immunity gain speed",
+        "+15.0 melee dodge chance",
+        "+0.60 move speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-16% immunity gain speed",
+          "+15.0 melee dodge chance",
+          "+0.60 move speed"
+        ]
+      },
+      "defName": "MRT_Prototype",
+      "name": "prototype",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 1,
+      "degree": 0
+    },
+    {
+      "description": "A fragment of a talent to accomplish a feat.",
+      "stats": [
+        "+75% global learning factor"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+75% global learning factor"
+        ]
+      },
+      "defName": "MRT_MountainA",
+      "name": "inquisitivemind",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 1,
+      "degree": 0
+    },
+    {
+      "description": "A fragment of a talent to accomplish a feat.",
+      "stats": [
+        "-14% mental break threshold",
+        "+40% global work speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-14% mental break threshold",
+          "+40% global work speed"
+        ]
+      },
+      "defName": "MRT_MountainB",
+      "name": "senseofduty",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 1,
+      "degree": 0
+    },
+    {
+      "description": "A fragment of a talent to accomplish a feat.",
+      "stats": [
+        "+150.00% negotiation ability",
+        "+150.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+150.00% negotiation ability",
+          "+150.00% social impact"
+        ]
+      },
+      "defName": "MRT_MountainC",
+      "name": "philosophy",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 1,
+      "degree": 0
+    },
+    {
+      "description": "A fragment of a talent to accomplish a feat.",
+      "stats": [
+        "-25% mental break threshold"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-25% mental break threshold"
+        ]
+      },
+      "defName": "MRT_MountainD",
+      "name": "warp",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 1,
+      "degree": 0
+    },
+    {
+      "description": "In a dream Timmy was greeted by the god of the Sixth House. Ever since then the bells of the Sixth House quitely ring in their ears.",
+      "stats": [
+        "+40% psychic sensitivity"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "MorrowRim - The Sixth House",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+40% psychic sensitivity"
+        ]
+      },
+      "defName": "MorrowRim_TouchedByDagothUr",
+      "name": "touchedbydagothur",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is romantically attracted to people of the opposite gender.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "asexual",
+        "bisexual",
+        "gay"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rational Romance 2 (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "asexual",
+          "bisexual",
+          "gay"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Straight",
+      "name": "straight",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy will never cheat on a partner, no matter how bad the relationship gets.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "philanderer"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rational Romance 2 (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "philanderer"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Faithful",
+      "name": "faithful",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy just cannot be trusted to stay faithful to a partner.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "faithful"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rational Romance 2 (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "faithful"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Philanderer",
+      "name": "philanderer",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy prefers romantic relationships involving multiple partners to monogamous relationships. this pawn doesn't mind if their partners romance other people, but will be less happy in a restraining, monogamous relationship.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "asexual",
+        "jealous",
+        "greedy"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rational Romance 2 (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "asexual",
+          "jealous",
+          "greedy"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Polyamorous",
+      "name": "polyamorous",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -52263,7 +50867,7 @@
       "defName": "YanzihkoCheetah",
       "enabled": true,
       "name": "Cheetah",
-      "price": 5000
+      "price": 1500
     },
     {
       "data": {
@@ -52297,7 +50901,7 @@
       "defName": "YanzihkoJaguar",
       "enabled": true,
       "name": "Jaguar",
-      "price": 5000
+      "price": 1500
     },
     {
       "data": {
@@ -52331,7 +50935,7 @@
       "defName": "YanzihkoLeo",
       "enabled": true,
       "name": "Leo",
-      "price": 4167
+      "price": 1500
     },
     {
       "data": {
@@ -52365,7 +50969,7 @@
       "defName": "YanzihkoPanther",
       "enabled": true,
       "name": "Panther",
-      "price": 4167
+      "price": 1500
     },
     {
       "data": {
@@ -52399,7 +51003,296 @@
       "defName": "YanzihkoTigris",
       "enabled": true,
       "name": "Tigris",
-      "price": 5000
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+50% Flammability",
+          "+$2200 Market value",
+          "+5.00 Move speed",
+          "+35% Mental break threshold",
+          "+36.0F Maximum comfortable temperature",
+          "-1.8F Minimum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+75 Carrying capacity",
+          "+60 Meat amount",
+          "+50 Leather amount",
+          "+80% Pain shock threshold",
+          "+100% Psychic sensitivity",
+          "+1.2 Melee dodge chance",
+          "+1.0 Melee hit chance",
+          "+100% Aiming time",
+          "+1.0 Shooting accuracy",
+          "+100% Sell price multiplier",
+          "+90.00% Negotiation ability",
+          "+90.00% Trade price improvement",
+          "+90.00% Social impact",
+          "+100% Mechanoid shredding efficiency",
+          "+100% Mechanoid shredding speed",
+          "+100% Smelting speed",
+          "+100% General labor speed",
+          "+100% Butchery efficiency",
+          "+100% Butchery speed",
+          "+100.00% Food poison chance",
+          "+1.0 Cooking speed",
+          "+90% Rest rate multiplier",
+          "+80% Plant work speed",
+          "+100% Research speed",
+          "+100% Medical tend quality",
+          "+100% Drug synthesis speed",
+          "+100% Medical surgery success chance",
+          "+100% Mining speed",
+          "+100% Mining yield",
+          "+110% Hunting stealth"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race that lives on the ruins of an unknown civilization. Also called Far North or Yeti, they live in a small society over a wide radius.",
+      "defName": "Maru",
+      "enabled": true,
+      "name": "Maru",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+75.00 Mass",
+          "+100% Flammability",
+          "+$1500 Market value",
+          "+4.61 Move speed",
+          "-90.0F Minimum comfortable temperature",
+          "+90.0F Maximum comfortable temperature",
+          "+20% Toxic sensitivity",
+          "+135% Immunity gain speed",
+          "+25 Leather amount"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of humanlike robots which are mostly female in model variety.\n\nThe origins of these machines are mostly unknown. Some speculate they are escapees from a civilization which used them for labor and some just suggest they are outdated pleasure machines which got dumped by a passing space freighter.\n\nBy design by their previous masters they are weak physically but their raw fortitude is enough to make up for it. Beware of their biological reactor and capacitors violently exploding, if they die by overheating.",
+      "defName": "ChjAndroid",
+      "enabled": true,
+      "name": "Android",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+$850 Market value",
+          "+5.21 Move speed",
+          "-360.0F Minimum comfortable temperature",
+          "+540.0F Maximum comfortable temperature",
+          "+0% Toxic sensitivity",
+          "+0% Psychic sensitivity",
+          "+500% Pain shock threshold",
+          "+0% Mental break threshold",
+          "+0.00% Social impact",
+          "+0% Global learning factor",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+30.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+200.0% Armor - Heat",
+          "+75 Carrying capacity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of rudimentary humanlike worker robots.\n\nUsually found toiling around in colonies around the rim which got a resident tinkerer.\n\nNot capable of sapience, however their relative cheap cost and ability to work around the clock make them valuable workers.",
+      "defName": "ChjDroid",
+      "enabled": true,
+      "name": "Droid",
+      "price": 1417
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+0% Flammability",
+          "+$1900 Market value",
+          "+4.00 Move speed",
+          "-360.0F Minimum comfortable temperature",
+          "+900.0F Maximum comfortable temperature",
+          "+0% Toxic sensitivity",
+          "+0% Psychic sensitivity",
+          "+500% Pain shock threshold",
+          "+0% Mental break threshold",
+          "+0.00% Social impact",
+          "+0% Global learning factor",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "-0.4 Melee dodge chance",
+          "+100.0% Armor - Sharp",
+          "+40.0% Armor - Blunt",
+          "+200.0% Armor - Heat",
+          "+150 Carrying capacity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of rudimentary humanlike warrior robots.\n\nUsually found guarding the homes of the wealthy and offices of mega corporations. They show no mercy upon targets who fail to identify themselves. Are traditionally armed with miniguns and core launchers.",
+      "defName": "ChjBattleDroid",
+      "enabled": true,
+      "name": "Battle droid",
+      "price": 3167
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$3500 Market value",
+          "+5.25 Move speed",
+          "+0.0F Minimum comfortable temperature",
+          "+64.8F Maximum comfortable temperature",
+          "+45 Leather amount",
+          "+3 Honor value",
+          "+90% Research speed",
+          "+125% Mining speed",
+          "+95.00% Social impact",
+          "+1.3 Melee dodge chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A bloodthirsty vulpine near-human.",
+      "defName": "ReviaRaceAlien",
+      "enabled": true,
+      "name": "Revia",
+      "price": 5833
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+100% Flammability",
+          "+$2500 Market value",
+          "+5.40 Move speed",
+          "+3.6F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+60 Meat amount",
+          "+100% Immunity gain speed",
+          "+90 Carrying capacity",
+          "+100% Pain shock threshold",
+          "+100% Psychic sensitivity",
+          "+1.0 Melee dodge chance",
+          "+1.0 Melee hit chance",
+          "+90% Aiming time",
+          "+1.0 Shooting accuracy",
+          "+100.00% Negotiation ability",
+          "+100% Sell price multiplier",
+          "+100.00% Social impact",
+          "+100% Mechanoid shredding efficiency",
+          "+100% Mechanoid shredding speed",
+          "+100% Smelting speed",
+          "+100% General labor speed",
+          "+100% Butchery efficiency",
+          "+100% Butchery speed",
+          "+100.00% Food poison chance",
+          "+1.0 Cooking speed",
+          "+100% Rest rate multiplier",
+          "+100% Plant work speed",
+          "+120% Research speed",
+          "+110% Medical tend quality",
+          "+100% Drug synthesis speed",
+          "+100% Medical surgery success chance",
+          "+100% Mining speed",
+          "+100% Mining yield"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A weird being.",
+      "defName": "Anthro",
+      "enabled": true,
+      "name": "Anthro",
+      "price": 4167
+    },
+    {
+      "data": {
+        "stats": [
+          "+75.00 Mass",
+          "+50% Flammability",
+          "+$3200 Market value",
+          "+4.00 Move speed",
+          "+32.4F Maximum comfortable temperature",
+          "+3.6F Minimum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+75 Carrying capacity",
+          "+80 Meat amount",
+          "+50 Leather amount",
+          "+120% Psychic sensitivity",
+          "+0.8 Melee dodge chance",
+          "+100.00% Social impact",
+          "+85% General labor speed",
+          "+130% Drug synthesis speed",
+          "+120% Medical tend speed",
+          "+115% Medical tend quality",
+          "+115% Medical surgery success chance",
+          "+4 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A humanoid race living in cities under the sea. Having traits similar to sea creatures, their blood contains substances that can be used for various medical uses.\n\nDescendants of glitterworld explorers who settled in the deep sea, generations of body modifications has led to their current form. Spreading far and wide into the rim, they built many cities and prospered. Until now.",
+      "defName": "Alien_Moyo",
+      "enabled": true,
+      "name": "Moyo",
+      "price": 5333
+    },
+    {
+      "data": {
+        "stats": [
+          "+90.00 Mass",
+          "+35% Flammability",
+          "+$3200 Market value",
+          "+2 Honor value",
+          "+4.50 Move speed",
+          "+54.0F Maximum comfortable temperature",
+          "+18.0F Minimum comfortable temperature",
+          "+120% Injury healing factor",
+          "+120% Rest rate multiplier",
+          "+120% Hunger rate multiplier",
+          "+200% Eating speed",
+          "+80.00% Food poison chance",
+          "+135% Immunity gain speed",
+          "+150 Carrying capacity",
+          "+100 Meat amount",
+          "+60 Leather amount",
+          "+5% Psychic sensitivity",
+          "+0.9 Melee dodge chance",
+          "+55.00% Social impact",
+          "+115% General labor speed",
+          "+100% Drug synthesis speed",
+          "+120% Medical tend speed",
+          "+100% Medical tend quality",
+          "+100% Medical surgery success chance",
+          "+75% Aiming time"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A subspecies of the Moyo race, usually babies born after a Moyo is fertilized by a creature infected with the deep-sea virus. And because the symbiotic virus affects, most of them have strange personalities, but not intrinsically bad.",
+      "defName": "Alien_RedMoyo",
+      "enabled": true,
+      "name": "Red Moyo",
+      "price": 5333
     }
   ]
 }

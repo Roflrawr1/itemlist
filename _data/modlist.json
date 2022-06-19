@@ -108,6 +108,12 @@
     "version": "1.2.0.0"
   },
   {
+    "author": "Helixien,  Taranchuk and  Alastair",
+    "name": "ReGrowth Remastered: Core",
+    "steamId": "2260097569",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
     "name": "Vanilla Plants Expanded",
     "steamId": null,
@@ -321,7 +327,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.5.7.5"
+    "version": "2.5.7.6"
   },
   {
     "author": "SirRandoo",
@@ -408,18 +414,6 @@
     "version": null
   },
   {
-    "author": "Mic,  Iron Wolf and  The Pheonix",
-    "name": "Pawnmorpher",
-    "steamId": "1786466855",
-    "version": "1.12.2"
-  },
-  {
-    "author": "Tory",
-    "name": "Pawnmorpher Demuzzled",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "jptrrs",
     "name": "SpeakUp",
     "steamId": null,
@@ -432,6 +426,12 @@
     "version": null
   },
   {
+    "author": "Dylan",
+    "name": "Children, school and learning",
+    "steamId": "1541438230",
+    "version": "1.7.4.0"
+  },
+  {
     "author": "Thirite,  Cheran,  Jarry1250,  lellel,  Kori,  Zach and  cometopapa",
     "name": "Babies and Children [1.3]",
     "steamId": "2559574784",
@@ -441,7 +441,7 @@
     "author": "Jaxe",
     "name": "Interaction Bubbles",
     "steamId": "1516158345",
-    "version": "1.8.0.0"
+    "version": "2.1.0.0"
   },
   {
     "author": "Hen",
@@ -510,12 +510,6 @@
     "version": null
   },
   {
-    "author": "Volpes",
-    "name": "More Mutagenic Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "tinywhitecat",
     "name": "More Mod Wave Rewards",
     "steamId": null,
@@ -576,6 +570,18 @@
     "version": "1.0.7875.31864"
   },
   {
+    "author": "VAMV",
+    "name": "Maru Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "VAMV",
+    "name": "Maru FuwaFuwa Edition",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "LoggerC4 and  Taranchuk",
     "name": "ProxyHeat",
     "steamId": "2365526329",
@@ -624,12 +630,6 @@
     "version": null
   },
   {
-    "author": "22",
-    "name": "RW of Magic---GuiYi(WIP)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "NetzachSloth",
     "name": "A RimWorld of Magic - Dread Shadow Class",
     "steamId": null,
@@ -658,5 +658,275 @@
     "name": "Evil Tactician's RimWorld Tweaks",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "llunak",
+    "name": "More Precepts",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Naifeito",
+    "name": "Improved Shield Belt",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Enjay",
+    "name": "True Psysense",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "huhu and lioness131",
+    "name": "Planetside NSX weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Capi",
+    "name": "Better Cribs and Children - Babies and Children [1.3]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Kikohi",
+    "name": "Vanilla Storytellers Expanded - Empress Evil",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Wyatt Mingji Lim aka WalkingProblem",
+    "name": "[1.3] WalkingProblem, the Happening Storyteller 5.1",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Laser",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  SmashPhil",
+    "name": "Vanilla Weapons Expanded - Makeshift",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  Luizi and  xrushha",
+    "name": "Vanilla Weapons Expanded - Frontier",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Wolfcub05",
+    "name": "Draftable Animals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "busted_bunny",
+    "name": "Psychic Animals",
+    "steamId": "2604059573",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Rhodi",
+    "name": "Too Many Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  Kikohi and  Sarg Bjornson",
+    "name": "Vanilla Factions Expanded - Insectoids",
+    "steamId": "2149755445",
+    "version": "1.2.3.1"
+  },
+  {
+    "author": "Vanilla Expanded team",
+    "name": "Vanilla Factions Expanded - Vikings",
+    "steamId": "2231295285",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kitsune",
+    "name": "Kit's VFE Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Hey my team rules!",
+    "name": "Advanced Biomes (Continued)",
+    "steamId": "2052116426",
+    "version": "1.3.3"
+  },
+  {
+    "author": "SirMashedPotato",
+    "name": "MorrowRim - The Sixth House",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirMashedPotato",
+    "name": "MorrowRim - Bloodmoon",
+    "steamId": "2243604074",
+    "version": "1.4.1"
+  },
+  {
+    "author": "Ouroboros226 and  Taranchuk",
+    "name": "Voice-Acted Radio Chatter",
+    "steamId": "2819334265",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Rhadamant",
+    "name": "Wizard of the Black Death Mods",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Trunken and  Luizi",
+    "name": "Cybernetic Warfare and Special Weapons (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ChJees",
+    "name": "Androids",
+    "steamId": "1541064015",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Fox with a Shotgun",
+    "name": "Revia Race",
+    "steamId": "2020041005",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "R-MK",
+    "name": "Anthro Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "telardo",
+    "name": "DragSelect",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rainbeau Flambe / Zombie_Striker",
+    "name": "Rational Romance 2 (Continued)",
+    "steamId": "2593521827",
+    "version": "1.3.1"
+  },
+  {
+    "author": "pb3n and  Taranchuk",
+    "name": "[BETA] Simple Warrants",
+    "steamId": "2676828755",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Crustypeanut",
+    "name": "War Crimes Expanded 2 Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lanilor",
+    "name": "Storyteller Enhanced (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "1845423808",
+    "version": "1.4.6"
+  },
+  {
+    "author": "Asieruso23 and Asierus24",
+    "name": "[SRTS Expanded] Planes and Bombs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nemonian",
+    "name": "Moyo-From the depth",
+    "steamId": "2182305386",
+    "version": "1.3.4"
+  },
+  {
+    "author": "Nemonian",
+    "name": "Moyo-The cartel arrives",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[RH2] VOID Storyteller",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AOBA",
+    "name": "Moyo-Light in the Abyss",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelflead Wayne",
+    "name": "Moyo Facial Animation Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Facial Animation - Experimentals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vinzero",
+    "name": "Revia Race - Facial Animation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien and  Alastair",
+    "name": "ReGrowth Remastered: Tundras",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Ice Sheet",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Tundra",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PlayIgel,  Alastair,  Kayedon,  SalmonToastie and  Xrushha",
+    "name": "VFME - Caravan Packs!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nexie",
+    "name": "ReGrowth Weather Tweaks",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jecrell and contributors",
+    "name": "Rim of Madness - Vampires",
+    "steamId": "1187010034",
+    "version": "1.23.1.0"
   }
 ]
