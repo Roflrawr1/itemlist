@@ -36,7 +36,7 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Sarg Bjornson,  Helixien,  Cassie and  Luizi",
+    "author": "Sarg Bjornson,  Helixien,  Cassie,  Luizi and  Allie",
     "name": "Alpha Memes",
     "steamId": "2661356814",
     "version": "1.0.0.0"
@@ -156,10 +156,16 @@
     "version": null
   },
   {
+    "author": "Roolo",
+    "name": "Dual Wield",
+    "steamId": "1628211313",
+    "version": "0.5.0.0"
+  },
+  {
     "author": "YAYO & Ogliss",
     "name": "Yayo's Combat 3 [Adopted]",
     "steamId": "2513695736",
-    "version": "0.5.0.0"
+    "version": "1.0.0"
   },
   {
     "author": "Arekan",
@@ -172,18 +178,6 @@
     "name": "Vanilla Factions Expanded - Ancients",
     "steamId": "2654846754",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Peppsen",
-    "name": "P-Music",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ank",
-    "name": "Genshin Impact Music",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "JI_Won",
@@ -244,18 +238,6 @@
     "name": "Compact Hediffs",
     "steamId": "2031734067",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Nals",
-    "name": "[NL] Facial Animation - WIP",
-    "steamId": "1635901197",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "bradson",
-    "name": "HD Pawn Rendering",
-    "steamId": "2538746878",
-    "version": "1.0.0"
   },
   {
     "author": "Jecrell and lbmaian",
@@ -333,7 +315,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.2.0.5"
+    "version": "6.2.0.7"
   },
   {
     "author": "hodlhodl",
@@ -344,12 +326,6 @@
   {
     "author": "SoulessOne",
     "name": "Lemolim Race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ats",
-    "name": "Among Us Role Reveal Raid Sound",
     "steamId": null,
     "version": null
   },
@@ -390,14 +366,14 @@
     "version": null
   },
   {
-    "author": "Linz",
-    "name": "Blindsight - Truesight",
+    "author": "LiebeKulikov",
+    "name": "Demonoid race",
     "steamId": null,
     "version": null
   },
   {
-    "author": "LiebeKulikov",
-    "name": "Demonoid race",
+    "author": "Danimineiro",
+    "name": "[DN] Bundle Of Traits",
     "steamId": null,
     "version": null
   },
@@ -408,8 +384,8 @@
     "version": "1.3.0010"
   },
   {
-    "author": "Danimineiro",
-    "name": "[DN] Bundle Of Traits",
+    "author": "Linz",
+    "name": "Blindsight - Truesight",
     "steamId": null,
     "version": null
   },
@@ -435,13 +411,13 @@
     "author": "Thirite,  Cheran,  Jarry1250,  lellel,  Kori,  Zach and  cometopapa",
     "name": "Babies and Children [1.3]",
     "steamId": "2559574784",
-    "version": "1.0.8162.34412"
+    "version": "1.0.8230.3939"
   },
   {
     "author": "Jaxe",
     "name": "Interaction Bubbles",
     "steamId": "1516158345",
-    "version": "2.1.0.0"
+    "version": "2.4.0.0"
   },
   {
     "author": "Hen",
@@ -482,12 +458,6 @@
   {
     "author": "Sierra",
     "name": "RimFantasy - Gemstones",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sierra",
-    "name": "RimFantasy - Arcane Weapons",
     "steamId": null,
     "version": null
   },
@@ -549,7 +519,7 @@
     "author": "m00nl1ght-dev",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.0.0.0"
+    "version": "1.4.3.0"
   },
   {
     "author": "m00nl1ght-dev",
@@ -714,6 +684,24 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Quickdraw",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Taranchuk",
+    "name": "Vanilla Weapons Expanded - Heavy Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  AveryTheKitty and  Taranchuk",
+    "name": "Vanilla Weapons Expanded - Coilguns",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki,  Luizi and  xrushha",
     "name": "Vanilla Weapons Expanded - Frontier",
     "steamId": null,
@@ -759,7 +747,13 @@
     "author": "Hey my team rules!",
     "name": "Advanced Biomes (Continued)",
     "steamId": "2052116426",
-    "version": "1.3.3"
+    "version": "1.3.4"
+  },
+  {
+    "author": "SirMashedPotato",
+    "name": "MorrowRim",
+    "steamId": "2443089362",
+    "version": "1.6.107"
   },
   {
     "author": "SirMashedPotato",
@@ -771,7 +765,7 @@
     "author": "SirMashedPotato",
     "name": "MorrowRim - Bloodmoon",
     "steamId": "2243604074",
-    "version": "1.4.1"
+    "version": "1.4.2"
   },
   {
     "author": "Ouroboros226 and  Taranchuk",
@@ -855,7 +849,7 @@
     "author": "Nemonian",
     "name": "Moyo-From the depth",
     "steamId": "2182305386",
-    "version": "1.3.4"
+    "version": "1.3.4.1"
   },
   {
     "author": "Nemonian",
@@ -872,24 +866,6 @@
   {
     "author": "AOBA",
     "name": "Moyo-Light in the Abyss",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Aelflead Wayne",
-    "name": "Moyo Facial Animation Patch",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Nals",
-    "name": "[NL] Facial Animation - Experimentals",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Vinzero",
-    "name": "Revia Race - Facial Animation",
     "steamId": null,
     "version": null
   },
@@ -912,6 +888,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder,  Taranchuk and  ISOREX",
+    "name": "Vanilla Factions Expanded - Mechanoids",
+    "steamId": "2329011599",
+    "version": "1.0.1.2"
+  },
+  {
     "author": "PlayIgel,  Alastair,  Kayedon,  SalmonToastie and  Xrushha",
     "name": "VFME - Caravan Packs!",
     "steamId": null,
@@ -920,6 +902,570 @@
   {
     "author": "Nexie",
     "name": "ReGrowth Weather Tweaks",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jecrell and contributors",
+    "name": "Rim of Madness - Vampires",
+    "steamId": "1187010034",
+    "version": "1.23.1.0"
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Arcane Batons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Arcane Defences",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Shavius",
+    "name": "Persona Weapons for the Vanilla Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Densevoid",
+    "name": "One bed to sleep with all",
+    "steamId": "2572109781",
+    "version": "1.0.1"
+  },
+  {
+    "author": "Kitsune and  Wheelism",
+    "name": "Kit's XR-Tech Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kirby",
+    "name": "More Religious Origins",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AlexisPopcorn",
+    "name": "[AP] Plaguemonger Meme",
+    "steamId": "2608992845",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "miyamiya",
+    "name": "Compressed Raid",
+    "steamId": "2377478084",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "The Abyss (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Yoann",
+    "name": "Blind Tribe",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zezz",
+    "name": "Precepts and Memes",
+    "steamId": "2582413611",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Bucko",
+    "name": "Royal Arsenal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "these people",
+    "name": "Custom Ritual Framework",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bucko",
+    "name": "Royal Arsenal: Specialty Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Crystallic Lighting",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Arcane Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Temperature Regulation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Pocket Dimensions",
+    "steamId": "2307817213",
+    "version": "1.0.11"
+  },
+  {
+    "author": "NetzachSloth",
+    "name": "A RimWorld of Magic - Space-Time Mage Class",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick",
+    "name": "Dragon Age Rimquisition Templar Armory",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kitsune",
+    "name": "Kit's Roman Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "[SS]King's Slaves (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "noodlesking",
+    "name": "More Psycasts",
+    "steamId": "2460833332",
+    "version": "1.0.0.1"
+  },
+  {
+    "author": "ChJees",
+    "name": "Supreme Melee (Continued)",
+    "steamId": "2311299987",
+    "version": "1.0.5.0"
+  },
+  {
+    "author": "Halituis Amaricanous",
+    "name": "No Man Sky Weapon Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg,  erdelf,  Oskar Potocki,  Luizi and  Reann Shepard",
+    "name": "Vanilla Genetics Expanded",
+    "steamId": "2801160906",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Battle Mounts",
+    "steamId": "1217001091",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Caravan",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Ride and Roll",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo and Updated by Ogliss",
+    "name": "What the hack?!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Mechanoids",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kciroy5",
+    "name": "Umbreon Race mod",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Diamond.J and Frolg",
+    "name": "【SZ】TianBing Storyteller Expanded 先古天兵-叙述者扩展独立模块",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Grenades",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Freefolk",
+    "name": "Combat Bionics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Vanilla Bionics Expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Bionic icons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitResearch",
+    "steamId": "2312827542",
+    "version": "1.0.3.2"
+  },
+  {
+    "author": "Mlie",
+    "name": "All Memories Fade",
+    "steamId": "2800155563",
+    "version": "1.3.3"
+  },
+  {
+    "author": "denev",
+    "name": "Smart Turret Covering",
+    "steamId": "2636621800",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mooloh",
+    "name": "Mooloh's Mythic Framework",
+    "steamId": "2819828894",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "GHXX",
+    "name": "Tech Advancing",
+    "steamId": "735268789",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Rimworld: Spartan Foundry (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kikohi and Oskar Potocki",
+    "name": "Vanilla Base Generation Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SineSwiper",
+    "name": "Faction Blender",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Audrey",
+    "name": "Audrey's Styles: Astro",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mehni",
+    "name": "More Faction Interaction (Continued)",
+    "steamId": "2379076640",
+    "version": "1.3.1"
+  },
+  {
+    "author": "Caninmyham/Thog",
+    "name": "Thog's Guns - Framework",
+    "steamId": "2785255387",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Storytellers Expanded - Diego Industrial",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kyrrisayo",
+    "name": "Weapons+",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Solid E. Wires",
+    "name": "Pawnkind Race Diversification (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Paul Freeman",
+    "name": "Free Will",
+    "steamId": "2580837227",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Lazevedo",
+    "name": "Organized Research Tab (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien and  Kikohi",
+    "name": "HALO: Rimworld Psychic Pulse Armory (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MrKociak",
+    "name": "Combat drones 2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "flangopink",
+    "name": "Vanilla XCOM Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelflead Wayne",
+    "name": "Moyo Facial Animation Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CatCraftYT",
+    "name": "Stargates!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BusterZlista",
+    "name": "Buster's Upscaled Children Face Retextures",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DimonSever000",
+    "name": "RPG Traits+",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "apljee",
+    "name": "Workshop mod 2833421928",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "apljee",
+    "name": "Workshop mod 2832480455",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "apljee",
+    "name": "Workshop mod 2832374022",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirMashedPotato",
+    "name": "ESCP - Race Tools",
+    "steamId": "2681814436",
+    "version": "1.0.24"
+  },
+  {
+    "author": "Rick and  SirMashedPotato",
+    "name": "ESCP - Septims",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirMashedPotato",
+    "name": "ESCP - Falmer",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirMashedPotato",
+    "name": "ESCP - Altmer",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirMashedPotato",
+    "name": "ESCP - Dunmer",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirMashedPotato",
+    "name": "ESCP - Bosmer",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirMashedPotato",
+    "name": "ESCP - Industrial Factions Dummy",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirMashedPotato",
+    "name": "Questing Meme",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Odeum",
+    "name": "BiomesKit",
+    "steamId": "2153006237",
+    "version": "1.3.60.5"
+  },
+  {
+    "author": "SirMashedPotato",
+    "name": "MorrowRim - Grazelands",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirMashedPotato",
+    "name": "MorrowRim - Glass and Ebony",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirMashedPotato",
+    "name": "MorrowRim - Biomes Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Yeff Scry",
+    "name": "The Elder Scrolls V Skyrim Soundtrack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "flangopink",
+    "name": "Vanilla XCOM Plasma Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Everyone is Queer (Continued)",
+    "steamId": "2014546021",
+    "version": "1.0.6.0"
+  },
+  {
+    "author": "Sovereign",
+    "name": "Xcom Advent weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Audrey",
+    "name": "Audrey's Styles: Industrial",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Persephone",
+    "name": "Wean's World - Generate Children",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RedstoneRevolution",
+    "name": "NO Vanilla Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ryflamer",
+    "name": "[Ry]HD Pawn Textures(HAR Edition)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Death Acidifiest",
+    "steamId": "2835241835",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Random88",
+    "name": "Cthuwu Turret",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "iwishforducks",
+    "name": "Specialists Can Work!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PWG",
+    "name": "PWG Grim Magic",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Kikohi",
+    "name": "Vanilla Expanded - Ideology Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Kikohi",
+    "name": "Vanilla Expanded - Royalty Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zombiefied",
+    "name": "Zombiefied (Zombie Apocalypse)",
     "steamId": null,
     "version": null
   }
