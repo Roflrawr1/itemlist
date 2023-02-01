@@ -6,12 +6,6 @@
     "version": "1.5.0.0"
   },
   {
-    "author": "Samboy063",
-    "name": "BetterLoading",
-    "steamId": "1999454301",
-    "version": "3.3.0.0"
-  },
-  {
     "author": "legodude17 and Oskar Potocki",
     "name": "Vanilla Backgrounds Expanded",
     "steamId": "2775017012",
@@ -196,6 +190,12 @@
     "name": "Vanilla Psycasts Expanded",
     "steamId": "2842502659",
     "version": "1.1.0.0"
+  },
+  {
+    "author": "Sarg Bjornson and AFriend",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.0.0"
   },
   {
     "author": "Sarg, erdelf, Oskar Potocki, Luizi and Reann Shepard",
@@ -394,5 +394,191 @@
     "name": "Vanilla Trading Expanded",
     "steamId": "2785616901",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Slime-Senpai",
+    "name": "AutoVents",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Autocleaner",
+    "steamId": "2051042827",
+    "version": "1.0.379.0018"
+  },
+  {
+    "author": "Razor 2.3",
+    "name": "Auto-Cut Blight",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "(UNOFFICIAL 1.4) The Birds and the Bees",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "opponent019",
+    "name": "Sanguophage Feed Relationship",
+    "steamId": "2884586228",
+    "version": "1.0.0"
+  },
+  {
+    "author": "pphhyy",
+    "name": "pphhyy Sanguinary Animals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dave-EEs",
+    "name": "No Random Relations",
+    "steamId": "2583377522",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Alpha Mythology",
+    "steamId": "1821617793",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kosaro",
+    "name": "Fahrenheit and Celsius",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Gunplay",
+    "steamId": "2034896549",
+    "version": "1.0.379.0018"
+  },
+  {
+    "author": "Sarg Bjornson, Helixien, Cassie, Luizi and Allie",
+    "name": "Alpha Memes",
+    "steamId": "2661356814",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Allie and Sarg",
+    "name": "Alpha Genes",
+    "steamId": "2891845502",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "busted_bunny",
+    "name": "Capture Them",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BlackFranky",
+    "name": "Capable Slaves",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "legodude17 and Oskar Potocki",
+    "name": "Vanilla Skills Expanded",
+    "steamId": "2854967442",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Plants Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Plants Expanded - More Plants",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Alestria",
+    "name": "Vanilla Plants Expanded - Succulents",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ben Lubar",
+    "name": "Prison Commons (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "antisocialian",
+    "name": "Xenogene Regrowing Faster",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Imoja",
+    "name": "TastyHemo",
+    "steamId": "2881229275",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Perspective: Eaves",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Perspective: Ores",
+    "steamId": "2923871543",
+    "version": "1.4"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Clean Pathfinding",
+    "steamId": "2603765747",
+    "version": "1.4"
+  },
+  {
+    "author": "Trojan - Troopersmith1 - Linq - deathrat",
+    "name": "Death Rattle [1.4]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "V337",
+    "name": "Dead Calm Slave",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Onyxae",
+    "name": "Dragons Descent",
+    "steamId": "2026992161",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "NilchEi",
+    "name": "Dynamic Diplomacy",
+    "steamId": "1875168898",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple FX: Splashes",
+    "steamId": "2889330414",
+    "version": "1.4"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple FX: Vapor",
+    "steamId": "2886571275",
+    "version": "1.4"
   }
 ]

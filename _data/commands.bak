@@ -1160,24 +1160,6 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitCore"
-    },
-    "description": null,
-    "name": "hello",
-    "usage": "!hello",
-    "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "HelloWorld"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
     "description": "Gives a viewer some of your coins.",
@@ -1222,5 +1204,41 @@
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "Divorce"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "Unknown"
+    },
+    "description": null,
+    "name": null,
+    "usage": "!pawn",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "Pawn"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitCore"
+    },
+    "description": null,
+    "name": "hello",
+    "usage": "!hello",
+    "userLevel": "Moderator",
+    "shortcut": false,
+    "defName": "HelloWorld"
   }
 ]

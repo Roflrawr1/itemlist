@@ -1214,14 +1214,14 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitCore"
+      "mod": "Unknown"
     },
     "description": null,
-    "name": "hello",
-    "usage": "!hello",
-    "userLevel": "Moderator",
+    "name": null,
+    "usage": "!pawn",
+    "userLevel": "Anyone",
     "shortcut": false,
-    "defName": "HelloWorld"
+    "defName": "Pawn"
   },
   {
     "data": {
@@ -1232,13 +1232,13 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "Unknown"
+      "mod": "ToolkitCore"
     },
     "description": null,
-    "name": null,
-    "usage": "!pawn",
-    "userLevel": "Anyone",
+    "name": "hello",
+    "usage": "!hello",
+    "userLevel": "Moderator",
     "shortcut": false,
-    "defName": "Pawn"
+    "defName": "HelloWorld"
   }
 ]

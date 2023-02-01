@@ -3657,6 +3657,170 @@
       },
       "defName": "VTE_Schizoid",
       "name": "schizoid"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy enjoys being fed on by sanguophages, he loves to feel the rush of extasis that comes with the bite.",
+      "stats": [],
+      "conflicts": [
+        "wimp",
+        "sanguofriend",
+        "sanguophobe"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "wimp",
+          "sanguofriend",
+          "sanguophobe"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Sanguophage Feed Relationship",
+        "karmaTypeForAdding": null
+      },
+      "defName": "SFR_Sanguophile",
+      "name": "sanguophile"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy understands that sanguophages need blood to survive and is okay with helping a sanguophage friend out by gifting some blood.",
+      "stats": [],
+      "conflicts": [
+        "sanguophile",
+        "sanguophobe",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "sanguophile",
+          "sanguophobe",
+          "psychopath"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Sanguophage Feed Relationship",
+        "karmaTypeForAdding": null
+      },
+      "defName": "SFR_Sanguofriend",
+      "name": "sanguofriend"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy hates sanguophages and will always feel on edge when around them.",
+      "stats": [],
+      "conflicts": [
+        "sanguophile",
+        "sanguofriend",
+        "kind"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "sanguophile",
+          "sanguofriend",
+          "kind"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Sanguophage Feed Relationship",
+        "karmaTypeForAdding": null
+      },
+      "defName": "SFR_Sanguophobe",
+      "name": "sanguophobe"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "A strict principle of nonviolence which applies to all living things.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Alpha Memes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AM_Ahimsa",
+      "name": "vowofnonviolence"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy possesses an unnatural, almost pristine beauty that makes him stand out among others of his kind.",
+      "stats": [
+        "+3.0 beauty"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+3.0 beauty"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Alpha Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AG_Beauty",
+      "name": "angelicbeauty"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2,
+      "description": "Timmy is so unfathomably ugly and grotesque that merely looking at him is enough to make other people nauseous.",
+      "stats": [
+        "-3.0 beauty"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-3.0 beauty"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Alpha Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AG_Beauty",
+      "name": "repulsive"
     }
   ],
   "races": [
@@ -3680,7 +3844,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 1200
+      "price": 2000
     }
   ]
 }

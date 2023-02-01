@@ -21,11 +21,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "vomitrain",
-		"price": 650,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "foggyrain",
 		"price": 300,
 		"karmatype": "Neutral"
@@ -103,7 +98,7 @@
 	{
 		"abr": "blight",
 		"price": 700,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "animaltame",
@@ -431,5 +426,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 86
+	"total": 85
 }
