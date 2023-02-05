@@ -462,12 +462,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Allie and Sarg",
-    "name": "Alpha Genes",
-    "steamId": "2891845502",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "busted_bunny",
     "name": "Capture Them",
     "steamId": null,
@@ -540,6 +534,12 @@
     "version": "1.4"
   },
   {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "10.0.1"
+  },
+  {
     "author": "Trojan - Troopersmith1 - Linq - deathrat",
     "name": "Death Rattle [1.4]",
     "steamId": null,
@@ -580,5 +580,119 @@
     "name": "Simple FX: Vapor",
     "steamId": "2886571275",
     "version": "1.4"
+  },
+  {
+    "author": "DarkFlame7",
+    "name": "No Hemogen Farm Medical Alert",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Break Mod",
+    "steamId": "1722398508",
+    "version": "1.0.0"
+  },
+  {
+    "author": "telardo",
+    "name": "DragSelect",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Paul Freeman",
+    "name": "Free Will",
+    "steamId": "2580837227",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Neceros and Updated by marceline",
+    "name": "Faster Smoothing (1.4)",
+    "steamId": "2879128253",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Allie and Sarg",
+    "name": "Alpha Genes",
+    "steamId": "2891845502",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "telardo",
+    "name": "Better Gene Graphics Framework",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "cyanobot",
+    "name": "Cyanobot's Genes",
+    "steamId": "2889844371",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Turnovus",
+    "name": "Integrated Genes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimTraits - General Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Turnovus",
+    "name": "Integrated Xenotypes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Verniy709",
+    "name": "NierAutomata Weapon Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ogre",
+    "name": "OgreStack",
+    "steamId": "1447140290",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Allie, Erin, Sir Van and Reann Shepard",
+    "name": "Vanilla Races Expanded - Phytokin",
+    "steamId": "2927323805",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Smash Phil",
+    "name": "Vanilla Storytellers Expanded - Oskar Obnoxious",
+    "steamId": "2443118113",
+    "version": "1.4.0"
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Gemstones",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Arcane Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirMashedPotato",
+    "name": "MorrowRim - Glass and Ebony",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MrHydralisk",
+    "name": "Vanilla Outposts Expanded: Additional Outposts",
+    "steamId": null,
+    "version": null
   }
 ]

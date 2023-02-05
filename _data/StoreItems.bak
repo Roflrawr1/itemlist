@@ -13787,7 +13787,1873 @@
       "category": "Animals",
       "defname": "MM_Xiezhi",
       "price": 833
+    },
+    {
+      "abr": "almonds",
+      "category": "Raw fruits",
+      "defname": "VCE_RawAlmonds",
+      "price": 2
+    },
+    {
+      "abr": "alphapack",
+      "category": "Misc",
+      "defname": "AG_Alphapack",
+      "price": 167
+    },
+    {
+      "abr": "ancientlockerbank",
+      "category": "Furniture",
+      "defname": "AM_AncientLockerBank",
+      "price": 425
+    },
+    {
+      "abr": "animaldatabase",
+      "category": "Misc",
+      "defname": "AM_AnimalDatabase",
+      "price": 154
+    },
+    {
+      "abr": "apples",
+      "category": "Raw fruits",
+      "defname": "VCE_RawApple",
+      "price": 2
+    },
+    {
+      "abr": "avocados",
+      "category": "Raw fruits",
+      "defname": "VCE_RawAvocado",
+      "price": 2
+    },
+    {
+      "abr": "bananas",
+      "category": "Raw fruits",
+      "defname": "VCE_RawBanana",
+      "price": 2
+    },
+    {
+      "abr": "bearberries",
+      "category": "Raw fruits",
+      "defname": "VCE_Bearberry",
+      "price": 2
+    },
+    {
+      "abr": "beets",
+      "category": "Vegetarian",
+      "defname": "VCE_RawBeets",
+      "price": 2
+    },
+    {
+      "abr": "blueberries",
+      "category": "Raw fruits",
+      "defname": "VCE_RawBlueberries",
+      "price": 2
+    },
+    {
+      "abr": "blunttrap",
+      "category": "Security",
+      "defname": "AM_TrapBlunt",
+      "price": 112
+    },
+    {
+      "abr": "brusselssprouts",
+      "category": "Vegetarian",
+      "defname": "VCE_RawBrusselsSprouts",
+      "price": 2
+    },
+    {
+      "abr": "buckwheat",
+      "category": "Vegetarian",
+      "defname": "VCE_RawBuckwheat",
+      "price": 2
+    },
+    {
+      "abr": "buddhistslab(broad)",
+      "category": "Furniture",
+      "defname": "AM_BuddhistSlab_Broad",
+      "price": 508
+    },
+    {
+      "abr": "buddhistslab(medium)",
+      "category": "Furniture",
+      "defname": "AM_BuddhistSlab_Medium",
+      "price": 342
+    },
+    {
+      "abr": "butternutsquashes",
+      "category": "Vegetarian",
+      "defname": "VCE_RawButternutSquash",
+      "price": 2
+    },
+    {
+      "abr": "cabbages",
+      "category": "Vegetarian",
+      "defname": "VCE_RawCabbage",
+      "price": 2
+    },
+    {
+      "abr": "canolaflowers",
+      "category": "Plant matter",
+      "defname": "VCE_RawCanola",
+      "price": 3
+    },
+    {
+      "abr": "carrots",
+      "category": "Vegetarian",
+      "defname": "VCE_RawCarrot",
+      "price": 2
+    },
+    {
+      "abr": "cassavas",
+      "category": "Vegetarian",
+      "defname": "VCE_RawCassava",
+      "price": 2
+    },
+    {
+      "abr": "cavemoss",
+      "category": "Foods",
+      "defname": "VCE_RawMoss",
+      "price": 1
+    },
+    {
+      "abr": "celery",
+      "category": "Vegetarian",
+      "defname": "VCE_RawCelery",
+      "price": 2
+    },
+    {
+      "abr": "cherries",
+      "category": "Raw fruits",
+      "defname": "VCE_RawCherry",
+      "price": 2
+    },
+    {
+      "abr": "chickpeas",
+      "category": "Vegetarian",
+      "defname": "VCE_RawChickpeas",
+      "price": -10
+    },
+    {
+      "abr": "christianslab(broad)",
+      "category": "Furniture",
+      "defname": "AM_ChristianSlab_Broad",
+      "price": 508
+    },
+    {
+      "abr": "christianslab(medium)",
+      "category": "Furniture",
+      "defname": "AM_ChristianSlab_Medium",
+      "price": 342
+    },
+    {
+      "abr": "coconuts",
+      "category": "Raw fruits",
+      "defname": "VCE_RawCoconut",
+      "price": 2
+    },
+    {
+      "abr": "corsairslab(broad)",
+      "category": "Furniture",
+      "defname": "AM_CorsairSlab_Broad",
+      "price": 508
+    },
+    {
+      "abr": "corsairslab(medium)",
+      "category": "Furniture",
+      "defname": "AM_CorsairSlab_Medium",
+      "price": 342
+    },
+    {
+      "abr": "crudestonetable(1x2)",
+      "category": "Furniture",
+      "defname": "AM_Neolithic_StoneTable_1x2c",
+      "price": 98
+    },
+    {
+      "abr": "crudestonetable(2x2)",
+      "category": "Furniture",
+      "defname": "AM_Neolithic_StoneTable_2x2c",
+      "price": 176
+    },
+    {
+      "abr": "crudestonetable(2x4)",
+      "category": "Furniture",
+      "defname": "AM_Neolithic_StoneTable_2x4c",
+      "price": 333
+    },
+    {
+      "abr": "crudestonetable(3x3)",
+      "category": "Furniture",
+      "defname": "AM_Neolithic_StoneTable_3x3c",
+      "price": 350
+    },
+    {
+      "abr": "crudewoodentable(1x2)",
+      "category": "Furniture",
+      "defname": "AM_Neolithic_WoodenTable_1x2c",
+      "price": 98
+    },
+    {
+      "abr": "crudewoodentable(2x2)",
+      "category": "Furniture",
+      "defname": "AM_Neolithic_WoodenTable_2x2c",
+      "price": 176
+    },
+    {
+      "abr": "crudewoodentable(2x4)",
+      "category": "Furniture",
+      "defname": "AM_Neolithic_WoodenTable_2x4c",
+      "price": 333
+    },
+    {
+      "abr": "crudewoodentable(3x3)",
+      "category": "Furniture",
+      "defname": "AM_Neolithic_WoodenTable_3x3c",
+      "price": 350
+    },
+    {
+      "abr": "cucumbers",
+      "category": "Vegetarian",
+      "defname": "VCE_RawCucumber",
+      "price": 2
+    },
+    {
+      "abr": "eggplants",
+      "category": "Vegetarian",
+      "defname": "VCE_RawEggplant",
+      "price": 2
+    },
+    {
+      "abr": "endogenefier",
+      "category": "Gene tools",
+      "defname": "AG_Endogenefier",
+      "price": 167
+    },
+    {
+      "abr": "futuristicgreatpyramid",
+      "category": "Misc",
+      "defname": "AM_FuturisticPyramid",
+      "price": 29800
+    },
+    {
+      "abr": "futuristicobelisk",
+      "category": "Misc",
+      "defname": "AM_FuturisticObelisk",
+      "price": 1392
+    },
+    {
+      "abr": "futuristicstele",
+      "category": "Misc",
+      "defname": "AM_FuturisticStele",
+      "price": 1392
+    },
+    {
+      "abr": "garliccloves",
+      "category": "Vegetarian",
+      "defname": "VCE_RawGarlic",
+      "price": 2
+    },
+    {
+      "abr": "generemover",
+      "category": "Gene tools",
+      "defname": "AG_GeneRemover",
+      "price": 167
+    },
+    {
+      "abr": "genepackdisruptor",
+      "category": "Gene tools",
+      "defname": "AG_GenepackDisruptor",
+      "price": 167
+    },
+    {
+      "abr": "genepacktweaker",
+      "category": "Gene tools",
+      "defname": "AG_GenepackTweaker",
+      "price": 167
+    },
+    {
+      "abr": "germlinemutator",
+      "category": "Gene tools",
+      "defname": "AG_GermlineMutator",
+      "price": 167
+    },
+    {
+      "abr": "grandgate",
+      "category": "Misc",
+      "defname": "AM_GrandGate",
+      "price": 1783
+    },
+    {
+      "abr": "greatpyramid",
+      "category": "Misc",
+      "defname": "AM_GreatPyramid",
+      "price": 32400
+    },
+    {
+      "abr": "greenbeans",
+      "category": "Vegetarian",
+      "defname": "VCE_RawBeans",
+      "price": 2
+    },
+    {
+      "abr": "hinduslab(broad)",
+      "category": "Furniture",
+      "defname": "AM_HinduSlab_Broad",
+      "price": 508
+    },
+    {
+      "abr": "hinduslab(medium)",
+      "category": "Furniture",
+      "defname": "AM_HinduSlab_Medium",
+      "price": 342
+    },
+    {
+      "abr": "humanegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "AG_HumanEgg",
+      "price": 167
+    },
+    {
+      "abr": "islamicslab(broad)",
+      "category": "Furniture",
+      "defname": "AM_IslamicSlab_Broad",
+      "price": 508
+    },
+    {
+      "abr": "islamicslab(medium)",
+      "category": "Furniture",
+      "defname": "AM_IslamicSlab_Medium",
+      "price": 342
+    },
+    {
+      "abr": "jainslab(broad)",
+      "category": "Furniture",
+      "defname": "AM_JainSlab_Broad",
+      "price": 508
+    },
+    {
+      "abr": "jainslab(medium)",
+      "category": "Furniture",
+      "defname": "AM_JainSlab_Medium",
+      "price": 342
+    },
+    {
+      "abr": "jewishslab(broad)",
+      "category": "Furniture",
+      "defname": "AM_JewishSlab_Broad",
+      "price": 508
+    },
+    {
+      "abr": "jewishslab(medium)",
+      "category": "Furniture",
+      "defname": "AM_JewishSlab_Medium",
+      "price": 342
+    },
+    {
+      "abr": "kemeticslab(broad)",
+      "category": "Furniture",
+      "defname": "AM_KemeticSlab_Broad",
+      "price": 508
+    },
+    {
+      "abr": "kemeticslab(medium)",
+      "category": "Furniture",
+      "defname": "AM_KemeticSlab_Medium",
+      "price": 342
+    },
+    {
+      "abr": "lettuce",
+      "category": "Vegetarian",
+      "defname": "VCE_RawLettuce",
+      "price": 2
+    },
+    {
+      "abr": "lotusseeds",
+      "category": "Vegetarian",
+      "defname": "VCE_RawLotus",
+      "price": 2
+    },
+    {
+      "abr": "mangoes",
+      "category": "Raw fruits",
+      "defname": "VCE_Mangoes",
+      "price": 2
+    },
+    {
+      "abr": "megalith",
+      "category": "Misc",
+      "defname": "AM_Megalith",
+      "price": 1950
+    },
+    {
+      "abr": "melons",
+      "category": "Raw fruits",
+      "defname": "VCE_RawMelon",
+      "price": 2
+    },
+    {
+      "abr": "mixedpack",
+      "category": "Misc",
+      "defname": "AG_Mixedpack",
+      "price": 167
+    },
+    {
+      "abr": "mummified",
+      "category": "Art",
+      "defname": "AM_MummyMale",
+      "price": 197
+    },
+    {
+      "abr": "mummified",
+      "category": "Art",
+      "defname": "AM_MummyFemale",
+      "price": 197
+    },
+    {
+      "abr": "okra",
+      "category": "Vegetarian",
+      "defname": "VCE_RawOkra",
+      "price": 2
+    },
+    {
+      "abr": "olives",
+      "category": "Vegetarian",
+      "defname": "VCE_RawOlives",
+      "price": 2
+    },
+    {
+      "abr": "onions",
+      "category": "Vegetarian",
+      "defname": "VCE_RawOnion",
+      "price": 2
+    },
+    {
+      "abr": "oranges",
+      "category": "Raw fruits",
+      "defname": "VCE_RawOrange",
+      "price": 2
+    },
+    {
+      "abr": "peaches",
+      "category": "Raw fruits",
+      "defname": "VCE_RawPeach",
+      "price": 2
+    },
+    {
+      "abr": "peanuts",
+      "category": "Vegetarian",
+      "defname": "VCE_RawPeanut",
+      "price": 2
+    },
+    {
+      "abr": "pears",
+      "category": "Raw fruits",
+      "defname": "VCE_RawPear",
+      "price": 2
+    },
+    {
+      "abr": "peas",
+      "category": "Vegetarian",
+      "defname": "VCE_RawPeas",
+      "price": 2
+    },
+    {
+      "abr": "peppers",
+      "category": "Vegetarian",
+      "defname": "VCE_RawPepper",
+      "price": 2
+    },
+    {
+      "abr": "pineapples",
+      "category": "Raw fruits",
+      "defname": "VCE_RawPineapple",
+      "price": 7
+    },
+    {
+      "abr": "plums",
+      "category": "Raw fruits",
+      "defname": "VCE_RawPlum",
+      "price": 2
+    },
+    {
+      "abr": "pricklypears",
+      "category": "Raw fruits",
+      "defname": "VCE_RawPricklyPear",
+      "price": 2
+    },
+    {
+      "abr": "pristinelimestoneblocks",
+      "category": "Stone blocks",
+      "defname": "AM_BlocksPristineLimestone",
+      "price": 2
+    },
+    {
+      "abr": "prunes",
+      "category": "Raw fruits",
+      "defname": "VCE_RawPrunes",
+      "price": 2
+    },
+    {
+      "abr": "pumpkins",
+      "category": "Vegetarian",
+      "defname": "VCE_RawPumpkin",
+      "price": 2
+    },
+    {
+      "abr": "pyramid",
+      "category": "Art",
+      "defname": "AM_Pyramid",
+      "price": 4800
+    },
+    {
+      "abr": "radishes",
+      "category": "Vegetarian",
+      "defname": "VCE_RawRadish",
+      "price": 2
+    },
+    {
+      "abr": "redbellpeppers",
+      "category": "Vegetarian",
+      "defname": "VCE_RawBellPeppers",
+      "price": 2
+    },
+    {
+      "abr": "restoredancientbed",
+      "category": "Furniture",
+      "defname": "AM_AncientBed",
+      "price": 105
+    },
+    {
+      "abr": "restoredancientdoublebed",
+      "category": "Furniture",
+      "defname": "AM_AncientDoubleBed",
+      "price": 242
+    },
+    {
+      "abr": "restoredancientoperatingtable",
+      "category": "Furniture",
+      "defname": "AM_AncientOperatingTable",
+      "price": 650
+    },
+    {
+      "abr": "sikhslab(broad)",
+      "category": "Furniture",
+      "defname": "AM_SikhSlab_Broad",
+      "price": 508
+    },
+    {
+      "abr": "sikhslab(medium)",
+      "category": "Furniture",
+      "defname": "AM_SikhSlab_Medium",
+      "price": 342
+    },
+    {
+      "abr": "skyburialspot",
+      "category": "Misc",
+      "defname": "AM_SkyBurialSpot",
+      "price": 143
+    },
+    {
+      "abr": "sphinx",
+      "category": "Misc",
+      "defname": "AM_Sphynx",
+      "price": 16200
+    },
+    {
+      "abr": "steampunkslab(broad)",
+      "category": "Furniture",
+      "defname": "AM_SteampunkSlab_Broad",
+      "price": 508
+    },
+    {
+      "abr": "steampunkslab(medium)",
+      "category": "Furniture",
+      "defname": "AM_SteampunkSlab_Medium",
+      "price": 342
+    },
+    {
+      "abr": "stone-framedbedroll",
+      "category": "Furniture",
+      "defname": "AM_StoneBedroll",
+      "price": 159
+    },
+    {
+      "abr": "sunflowerseeds",
+      "category": "Vegetarian",
+      "defname": "VCE_RawSunflower",
+      "price": 2
+    },
+    {
+      "abr": "sweetpotatoes",
+      "category": "Vegetarian",
+      "defname": "VCE_RawSweetPotatoes",
+      "price": 2
+    },
+    {
+      "abr": "taroroots",
+      "category": "Vegetarian",
+      "defname": "VCE_RawTaro",
+      "price": 2
+    },
+    {
+      "abr": "tomatoes",
+      "category": "Vegetarian",
+      "defname": "VCE_RawTomatoes",
+      "price": 2
+    },
+    {
+      "abr": "unshackleddryad",
+      "category": "Animals",
+      "defname": "AM_UnshackledDryad",
+      "price": 417
+    },
+    {
+      "abr": "urn",
+      "category": "Furniture",
+      "defname": "AM_Urn",
+      "price": 70
+    },
+    {
+      "abr": "waterchestnuts",
+      "category": "Vegetarian",
+      "defname": "VCE_RawWaterChestnut",
+      "price": 2
+    },
+    {
+      "abr": "watercressleaves",
+      "category": "Vegetarian",
+      "defname": "VCE_RawWatercress",
+      "price": 2
+    },
+    {
+      "abr": "xenogenefier",
+      "category": "Gene tools",
+      "defname": "AG_Xenogenefier",
+      "price": 167
+    },
+    {
+      "abr": "xenotypeinjector",
+      "category": "Gene tools",
+      "defname": "AG_XenotypeInjector",
+      "price": 167
+    },
+    {
+      "abr": "xenotypenullifier",
+      "category": "Gene tools",
+      "defname": "AG_XenotypeNullifier",
+      "price": 167
+    },
+    {
+      "abr": "yellowbellpeppers",
+      "category": "Vegetarian",
+      "defname": "VCE_RawYellowBellPeppers",
+      "price": 2
+    },
+    {
+      "abr": "blackdragon",
+      "category": "Animals",
+      "defname": "Black_Dragon",
+      "price": 11000
+    },
+    {
+      "abr": "blackdragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggBlackDragonFertilized",
+      "price": 5333
+    },
+    {
+      "abr": "bluedragon",
+      "category": "Animals",
+      "defname": "Blue_Dragon",
+      "price": 11000
+    },
+    {
+      "abr": "bluedragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggBlueDragonFertilized",
+      "price": 4167
+    },
+    {
+      "abr": "doublecrossbow",
+      "category": "Ranged weapons",
+      "defname": "DD_Bow_DoubleCrossbow",
+      "price": 500
+    },
+    {
+      "abr": "drachensword",
+      "category": "Melee weapons",
+      "defname": "DD_MeleeWeapon_DrachenSword",
+      "price": 3667
+    },
+    {
+      "abr": "draconicambrosia",
+      "category": "Drugs",
+      "defname": "DraconicAmbrosia",
+      "price": 60
+    },
+    {
+      "abr": "dragonaltar",
+      "category": "Furniture",
+      "defname": "Altar",
+      "price": 675
+    },
+    {
+      "abr": "dragoncrown",
+      "category": "Headgear",
+      "defname": "DD_Apparel_DragonCrown",
+      "price": 1683
+    },
+    {
+      "abr": "dragonegg(unfert.)",
+      "category": "Eggs (unfert.)",
+      "defname": "EggDragonUnfertilized",
+      "price": 42
+    },
+    {
+      "abr": "dragonhorn",
+      "category": "Items",
+      "defname": "DragonHorn",
+      "price": 1450
+    },
+    {
+      "abr": "dragonleather",
+      "category": "Leathers",
+      "defname": "Dragon_Leather",
+      "price": 29
+    },
+    {
+      "abr": "dragonmeat",
+      "category": "Meat",
+      "defname": "Meat_Red_Dragon",
+      "price": 3
+    },
+    {
+      "abr": "dragonnest",
+      "category": "Furniture",
+      "defname": "DragonNest",
+      "price": 44
+    },
+    {
+      "abr": "dragonpillow",
+      "category": "Furniture",
+      "defname": "DragonPillow",
+      "price": 206
+    },
+    {
+      "abr": "dragonstatueritual",
+      "category": "Art",
+      "defname": "DD_DragonStatueRitual_Grand",
+      "price": 1508
+    },
+    {
+      "abr": "dragonstatueritual",
+      "category": "Art",
+      "defname": "DD_DragonStatueRitual_Large",
+      "price": 1042
+    },
+    {
+      "abr": "dragonstatueritual",
+      "category": "Art",
+      "defname": "DD_DragonStatueRitual_Small",
+      "price": 833
+    },
+    {
+      "abr": "dragonfirelauncher",
+      "category": "Ranged weapons",
+      "defname": "DD_Gun_DragonfireLauncher",
+      "price": 5000
+    },
+    {
+      "abr": "dragon'sblood",
+      "category": "Drugs",
+      "defname": "DragonsBlood",
+      "price": 97
+    },
+    {
+      "abr": "focusingtome",
+      "category": "Melee weapons",
+      "defname": "DDMeleeWeapon_FocusingTome",
+      "price": 2667
+    },
+    {
+      "abr": "golddragon",
+      "category": "Animals",
+      "defname": "Gold_Dragon",
+      "price": 13167
+    },
+    {
+      "abr": "golddragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggGoldDragonFertilized",
+      "price": 6833
+    },
+    {
+      "abr": "greendragon",
+      "category": "Animals",
+      "defname": "Green_Dragon",
+      "price": 11000
+    },
+    {
+      "abr": "greendragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggGreenDragonFertilized",
+      "price": 4167
+    },
+    {
+      "abr": "harddragonscale",
+      "category": "Raw resources",
+      "defname": "HardScale",
+      "price": 6
+    },
+    {
+      "abr": "hornedlance",
+      "category": "Melee weapons",
+      "defname": "DD_MeleeWeapon_HornedLance",
+      "price": 3833
+    },
+    {
+      "abr": "jadedragon",
+      "category": "Animals",
+      "defname": "Jade_Dragon",
+      "price": 13167
+    },
+    {
+      "abr": "jadedragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggJadeDragonFertilized",
+      "price": 6833
+    },
+    {
+      "abr": "jewelberries",
+      "category": "Vegetarian",
+      "defname": "JewelBerries",
+      "price": 3
+    },
+    {
+      "abr": "jeweledrhizome",
+      "category": "Vegetarian",
+      "defname": "Jeweledrhizomeraw",
+      "price": 3
+    },
+    {
+      "abr": "matinghorn",
+      "category": "Artifacts",
+      "defname": "MatingHorn",
+      "price": 3333
+    },
+    {
+      "abr": "moonstone",
+      "category": "Drugs",
+      "defname": "MoonStone",
+      "price": 47
+    },
+    {
+      "abr": "psychicaginglance",
+      "category": "Artifacts",
+      "defname": "PubertyLance",
+      "price": 3083
+    },
+    {
+      "abr": "purpledragon",
+      "category": "Animals",
+      "defname": "Purple_Dragon",
+      "price": 11000
+    },
+    {
+      "abr": "purpledragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggPurpleDragonFertilized",
+      "price": 4167
+    },
+    {
+      "abr": "raredragonleather",
+      "category": "Leathers",
+      "defname": "Rare_Dragon_Leather",
+      "price": 38
+    },
+    {
+      "abr": "reddragon",
+      "category": "Animals",
+      "defname": "Red_Dragon",
+      "price": 11000
+    },
+    {
+      "abr": "reddragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggRedDragonFertilized",
+      "price": 5333
+    },
+    {
+      "abr": "scalehelmet",
+      "category": "Headgear",
+      "defname": "DD_Apparel_ScaleHelm",
+      "price": 189
+    },
+    {
+      "abr": "scalemail",
+      "category": "Armor",
+      "defname": "DD_Apparel_ScaleMail",
+      "price": 675
+    },
+    {
+      "abr": "silverdragon",
+      "category": "Animals",
+      "defname": "Silver_Dragon",
+      "price": 13167
+    },
+    {
+      "abr": "silverdragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggSilverDragonFertilized",
+      "price": 6833
+    },
+    {
+      "abr": "thrumbobattleaxe",
+      "category": "Melee weapons",
+      "defname": "DDMeleeWeapon_ThrumboBattleAxe",
+      "price": 1833
+    },
+    {
+      "abr": "truedragon",
+      "category": "Animals",
+      "defname": "True_Dragon",
+      "price": 13167
+    },
+    {
+      "abr": "truedragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggTrueDragonFertilized",
+      "price": 11083
+    },
+    {
+      "abr": "truedragonleather",
+      "category": "Leathers",
+      "defname": "True_Dragon_Leather",
+      "price": 71
+    },
+    {
+      "abr": "whitedragon",
+      "category": "Animals",
+      "defname": "White_Dragon",
+      "price": 11000
+    },
+    {
+      "abr": "whitedragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggWhiteDragonFertilized",
+      "price": 4167
+    },
+    {
+      "abr": "wingcape",
+      "category": "Apparel",
+      "defname": "DD_Apparel_WingCape",
+      "price": 425
+    },
+    {
+      "abr": "yellowdragon",
+      "category": "Animals",
+      "defname": "Yellow_Dragon",
+      "price": 11000
+    },
+    {
+      "abr": "yellowdragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggYellowDragonFertilized",
+      "price": 4167
+    },
+    {
+      "abr": "amethyst",
+      "category": "Gemstones",
+      "defname": "RF_Amethyst",
+      "price": 42
+    },
+    {
+      "abr": "amethystbattleaxe",
+      "category": "Arcane battle axes",
+      "defname": "RF_AmethystBattleAxe",
+      "price": 3308
+    },
+    {
+      "abr": "amethystbow",
+      "category": "Arcane bows",
+      "defname": "RF_AmethystBow",
+      "price": 3283
+    },
+    {
+      "abr": "amethystgreatsword",
+      "category": "Arcane greatswords",
+      "defname": "RF_AmethystGreatsword",
+      "price": 3250
+    },
+    {
+      "abr": "amethystlongsword",
+      "category": "Arcane longswords",
+      "defname": "RF_AmethystLongsword",
+      "price": 3250
+    },
+    {
+      "abr": "amethystspear",
+      "category": "Arcane spears",
+      "defname": "RF_AmethystSpear",
+      "price": 3275
+    },
+    {
+      "abr": "amethyststaff",
+      "category": "Arcane staves",
+      "defname": "RF_AmethystStaff",
+      "price": 3292
+    },
+    {
+      "abr": "amethystwand",
+      "category": "Arcane wands",
+      "defname": "RF_AmethystWand",
+      "price": 3267
+    },
+    {
+      "abr": "amethystwarhammer",
+      "category": "Arcane war hammers",
+      "defname": "RF_AmethystWarHammer",
+      "price": 3308
+    },
+    {
+      "abr": "aquamarine",
+      "category": "Gemstones",
+      "defname": "RF_Aquamarine",
+      "price": 42
+    },
+    {
+      "abr": "aquamarinebattleaxe",
+      "category": "Arcane battle axes",
+      "defname": "RF_AquamarineBattleAxe",
+      "price": 3308
+    },
+    {
+      "abr": "aquamarinebow",
+      "category": "Arcane bows",
+      "defname": "RF_AquamarineBow",
+      "price": 3283
+    },
+    {
+      "abr": "aquamarinegreatsword",
+      "category": "Arcane greatswords",
+      "defname": "RF_AquamarineGreatsword",
+      "price": 3250
+    },
+    {
+      "abr": "aquamarinelongsword",
+      "category": "Arcane longswords",
+      "defname": "RF_AquamarineLongsword",
+      "price": 3250
+    },
+    {
+      "abr": "aquamarinespear",
+      "category": "Arcane spears",
+      "defname": "RF_AquamarineSpear",
+      "price": 3275
+    },
+    {
+      "abr": "aquamarinestaff",
+      "category": "Arcane staves",
+      "defname": "RF_AquamarineStaff",
+      "price": 3292
+    },
+    {
+      "abr": "aquamarinewand",
+      "category": "Arcane wands",
+      "defname": "RF_AquamarineWand",
+      "price": 3267
+    },
+    {
+      "abr": "aquamarinewarhammer",
+      "category": "Arcane war hammers",
+      "defname": "RF_AquamarineWarHammer",
+      "price": 3308
+    },
+    {
+      "abr": "arcanecraftingbench",
+      "category": "Production",
+      "defname": "RF_ArcaneCraftingBench",
+      "price": 185
+    },
+    {
+      "abr": "beastbaneprototype",
+      "category": "Melee weapons",
+      "defname": "NA_W_Beastbane_Prototype",
+      "price": 2158
+    },
+    {
+      "abr": "beastbanereplica",
+      "category": "Melee weapons",
+      "defname": "NA_W_Beastbane_Replica",
+      "price": 458
+    },
+    {
+      "abr": "beastcurseprototype",
+      "category": "Melee weapons",
+      "defname": "NA_W_Beastcurse_Prototype",
+      "price": 2258
+    },
+    {
+      "abr": "beastcursereplica",
+      "category": "Melee weapons",
+      "defname": "NA_W_Beastcurse_Replica",
+      "price": 558
+    },
+    {
+      "abr": "beastlordprototype",
+      "category": "Melee weapons",
+      "defname": "NA_W_Beastlord_Prototype",
+      "price": 2358
+    },
+    {
+      "abr": "beastlordreplica",
+      "category": "Melee weapons",
+      "defname": "NA_W_Beastlord_Replica",
+      "price": 658
+    },
+    {
+      "abr": "carnelian",
+      "category": "Gemstones",
+      "defname": "RF_Carnelian",
+      "price": 42
+    },
+    {
+      "abr": "carnelianbattleaxe",
+      "category": "Arcane battle axes",
+      "defname": "RF_CarnelianBattleAxe",
+      "price": 3308
+    },
+    {
+      "abr": "carnelianbow",
+      "category": "Arcane bows",
+      "defname": "RF_CarnelianBow",
+      "price": 3283
+    },
+    {
+      "abr": "carneliangreatsword",
+      "category": "Arcane greatswords",
+      "defname": "RF_CarnelianGreatsword",
+      "price": 3250
+    },
+    {
+      "abr": "carnelianlongsword",
+      "category": "Arcane longswords",
+      "defname": "RF_CarnelianLongsword",
+      "price": 3250
+    },
+    {
+      "abr": "carnelianspear",
+      "category": "Arcane spears",
+      "defname": "RF_CarnelianSpear",
+      "price": 3275
+    },
+    {
+      "abr": "carnelianstaff",
+      "category": "Arcane staves",
+      "defname": "RF_CarnelianStaff",
+      "price": 3292
+    },
+    {
+      "abr": "carnelianwand",
+      "category": "Arcane wands",
+      "defname": "RF_CarnelianWand",
+      "price": 3267
+    },
+    {
+      "abr": "carnelianwarhammer",
+      "category": "Arcane war hammers",
+      "defname": "RF_CarnelianWarHammer",
+      "price": 3308
+    },
+    {
+      "abr": "citrine",
+      "category": "Gemstones",
+      "defname": "RF_Citrine",
+      "price": 42
+    },
+    {
+      "abr": "citrinebattleaxe",
+      "category": "Arcane battle axes",
+      "defname": "RF_CitrineBattleAxe",
+      "price": 3308
+    },
+    {
+      "abr": "citrinebow",
+      "category": "Arcane bows",
+      "defname": "RF_CitrineBow",
+      "price": 3283
+    },
+    {
+      "abr": "citrinegreatsword",
+      "category": "Arcane greatswords",
+      "defname": "RF_CitrineGreatsword",
+      "price": 3250
+    },
+    {
+      "abr": "citrinelongsword",
+      "category": "Arcane longswords",
+      "defname": "RF_CitrineLongsword",
+      "price": 3250
+    },
+    {
+      "abr": "citrinespear",
+      "category": "Arcane spears",
+      "defname": "RF_CitrineSpear",
+      "price": 3275
+    },
+    {
+      "abr": "citrinestaff",
+      "category": "Arcane staves",
+      "defname": "RF_CitrineStaff",
+      "price": 3292
+    },
+    {
+      "abr": "citrinewand",
+      "category": "Arcane wands",
+      "defname": "RF_CitrineWand",
+      "price": 3267
+    },
+    {
+      "abr": "citrinewarhammer",
+      "category": "Arcane war hammers",
+      "defname": "RF_CitrineWarHammer",
+      "price": 3308
+    },
+    {
+      "abr": "companiondryad",
+      "category": "Animals",
+      "defname": "VRE_CompanionDryad",
+      "price": 417
+    },
+    {
+      "abr": "cruelarroganceprototype",
+      "category": "Melee weapons",
+      "defname": "NA_W_CruelArrogance_Prototype",
+      "price": 2258
+    },
+    {
+      "abr": "cruelarrogancereplica",
+      "category": "Melee weapons",
+      "defname": "NA_W_CruelArrogance_Replica",
+      "price": 558
+    },
+    {
+      "abr": "cruelbloodoathprototype",
+      "category": "Melee weapons",
+      "defname": "NA_W_CruelBloodOath_Prototype",
+      "price": 2358
+    },
+    {
+      "abr": "cruelbloodoathreplica",
+      "category": "Melee weapons",
+      "defname": "NA_W_CruelBloodOath_Replica",
+      "price": 658
+    },
+    {
+      "abr": "cruellamentprototype",
+      "category": "Melee weapons",
+      "defname": "NA_W_CruelLament_Prototype",
+      "price": 2258
+    },
+    {
+      "abr": "cruellamentreplica",
+      "category": "Melee weapons",
+      "defname": "NA_W_CruelLament_Replica",
+      "price": 558
+    },
+    {
+      "abr": "crueloathprototype",
+      "category": "Melee weapons",
+      "defname": "NA_W_CruelOath_Prototype",
+      "price": 2158
+    },
+    {
+      "abr": "crueloathreplica",
+      "category": "Melee weapons",
+      "defname": "NA_W_CruelOath_Replica",
+      "price": 458
+    },
+    {
+      "abr": "diamond",
+      "category": "Gemstones",
+      "defname": "RF_Diamond",
+      "price": 42
+    },
+    {
+      "abr": "diamondbattleaxe",
+      "category": "Arcane battle axes",
+      "defname": "RF_DiamondBattleAxe",
+      "price": 3308
+    },
+    {
+      "abr": "diamondbow",
+      "category": "Arcane bows",
+      "defname": "RF_DiamondBow",
+      "price": 3283
+    },
+    {
+      "abr": "diamondgreatsword",
+      "category": "Arcane greatswords",
+      "defname": "RF_DiamondGreatsword",
+      "price": 3250
+    },
+    {
+      "abr": "diamondlongsword",
+      "category": "Arcane longswords",
+      "defname": "RF_DiamondLongsword",
+      "price": 3250
+    },
+    {
+      "abr": "diamondspear",
+      "category": "Arcane spears",
+      "defname": "RF_DiamondSpear",
+      "price": 3275
+    },
+    {
+      "abr": "diamondstaff",
+      "category": "Arcane staves",
+      "defname": "RF_DiamondStaff",
+      "price": 3292
+    },
+    {
+      "abr": "diamondwand",
+      "category": "Arcane wands",
+      "defname": "RF_DiamondWand",
+      "price": 3267
+    },
+    {
+      "abr": "diamondwarhammer",
+      "category": "Arcane war hammers",
+      "defname": "RF_DiamondWarHammer",
+      "price": 3308
+    },
+    {
+      "abr": "emerald",
+      "category": "Gemstones",
+      "defname": "RF_Emerald",
+      "price": 42
+    },
+    {
+      "abr": "emeraldbattleaxe",
+      "category": "Arcane battle axes",
+      "defname": "RF_EmeraldBattleAxe",
+      "price": 3308
+    },
+    {
+      "abr": "emeraldbow",
+      "category": "Arcane bows",
+      "defname": "RF_EmeraldBow",
+      "price": 3283
+    },
+    {
+      "abr": "emeraldgreatsword",
+      "category": "Arcane greatswords",
+      "defname": "RF_EmeraldGreatsword",
+      "price": 3250
+    },
+    {
+      "abr": "emeraldlongsword",
+      "category": "Arcane longswords",
+      "defname": "RF_EmeraldLongsword",
+      "price": 3250
+    },
+    {
+      "abr": "emeraldspear",
+      "category": "Arcane spears",
+      "defname": "RF_EmeraldSpear",
+      "price": 3275
+    },
+    {
+      "abr": "emeraldstaff",
+      "category": "Arcane staves",
+      "defname": "RF_EmeraldStaff",
+      "price": 3292
+    },
+    {
+      "abr": "emeraldwand",
+      "category": "Arcane wands",
+      "defname": "RF_EmeraldWand",
+      "price": 3267
+    },
+    {
+      "abr": "emeraldwarhammer",
+      "category": "Arcane war hammers",
+      "defname": "RF_EmeraldWarHammer",
+      "price": 3308
+    },
+    {
+      "abr": "emilheadsprototype",
+      "category": "Melee weapons",
+      "defname": "NA_W_EmilHeads_Prototype",
+      "price": 2258
+    },
+    {
+      "abr": "emilheadsreplica",
+      "category": "Melee weapons",
+      "defname": "NA_W_EmilHeads_Replica",
+      "price": 558
+    },
+    {
+      "abr": "gemcuttingbench",
+      "category": "Production",
+      "defname": "RF_MedievalGemCuttingBench",
+      "price": 185
+    },
+    {
+      "abr": "kunzite",
+      "category": "Gemstones",
+      "defname": "RF_Kunzite",
+      "price": 42
+    },
+    {
+      "abr": "kunzitebattleaxe",
+      "category": "Arcane battle axes",
+      "defname": "RF_KunziteBattleAxe",
+      "price": 3308
+    },
+    {
+      "abr": "kunzitebow",
+      "category": "Arcane bows",
+      "defname": "RF_KunziteBow",
+      "price": 3283
+    },
+    {
+      "abr": "kunzitegreatsword",
+      "category": "Arcane greatswords",
+      "defname": "RF_KunziteGreatsword",
+      "price": 3250
+    },
+    {
+      "abr": "kunzitelongsword",
+      "category": "Arcane longswords",
+      "defname": "RF_KunziteLongsword",
+      "price": 3250
+    },
+    {
+      "abr": "kunzitespear",
+      "category": "Arcane spears",
+      "defname": "RF_KunziteSpear",
+      "price": 3275
+    },
+    {
+      "abr": "kunzitestaff",
+      "category": "Arcane staves",
+      "defname": "RF_KunziteStaff",
+      "price": 3292
+    },
+    {
+      "abr": "kunzitewand",
+      "category": "Arcane wands",
+      "defname": "RF_KunziteWand",
+      "price": 3267
+    },
+    {
+      "abr": "kunzitewarhammer",
+      "category": "Arcane war hammers",
+      "defname": "RF_KunziteWarHammer",
+      "price": 3308
+    },
+    {
+      "abr": "nierautomataweaponworkbench",
+      "category": "Production",
+      "defname": "NA_W_Bench",
+      "price": 450
+    },
+    {
+      "abr": "onyx",
+      "category": "Gemstones",
+      "defname": "RF_Onyx",
+      "price": 42
+    },
+    {
+      "abr": "onyxbattleaxe",
+      "category": "Arcane battle axes",
+      "defname": "RF_OnyxBattleAxe",
+      "price": 3308
+    },
+    {
+      "abr": "onyxbow",
+      "category": "Arcane bows",
+      "defname": "RF_OnyxBow",
+      "price": 3283
+    },
+    {
+      "abr": "onyxgreatsword",
+      "category": "Arcane greatswords",
+      "defname": "RF_OnyxGreatsword",
+      "price": 3250
+    },
+    {
+      "abr": "onyxlongsword",
+      "category": "Arcane longswords",
+      "defname": "RF_OnyxLongsword",
+      "price": 3250
+    },
+    {
+      "abr": "onyxspear",
+      "category": "Arcane spears",
+      "defname": "RF_OnyxSpear",
+      "price": 3275
+    },
+    {
+      "abr": "onyxstaff",
+      "category": "Arcane staves",
+      "defname": "RF_OnyxStaff",
+      "price": 3292
+    },
+    {
+      "abr": "onyxwand",
+      "category": "Arcane wands",
+      "defname": "RF_OnyxWand",
+      "price": 3267
+    },
+    {
+      "abr": "onyxwarhammer",
+      "category": "Arcane war hammers",
+      "defname": "RF_OnyxWarHammer",
+      "price": 3308
+    },
+    {
+      "abr": "peridot",
+      "category": "Gemstones",
+      "defname": "RF_Peridot",
+      "price": 42
+    },
+    {
+      "abr": "peridotbattleaxe",
+      "category": "Arcane battle axes",
+      "defname": "RF_PeridotBattleAxe",
+      "price": 3308
+    },
+    {
+      "abr": "peridotbow",
+      "category": "Arcane bows",
+      "defname": "RF_PeridotBow",
+      "price": 3283
+    },
+    {
+      "abr": "peridotgreatsword",
+      "category": "Arcane greatswords",
+      "defname": "RF_PeridotGreatsword",
+      "price": 3250
+    },
+    {
+      "abr": "peridotlongsword",
+      "category": "Arcane longswords",
+      "defname": "RF_PeridotLongsword",
+      "price": 3250
+    },
+    {
+      "abr": "peridotspear",
+      "category": "Arcane spears",
+      "defname": "RF_PeridotSpear",
+      "price": 3275
+    },
+    {
+      "abr": "peridotstaff",
+      "category": "Arcane staves",
+      "defname": "RF_PeridotStaff",
+      "price": 3292
+    },
+    {
+      "abr": "peridotwand",
+      "category": "Arcane wands",
+      "defname": "RF_PeridotWand",
+      "price": 3267
+    },
+    {
+      "abr": "peridotwarhammer",
+      "category": "Arcane war hammers",
+      "defname": "RF_PeridotWarHammer",
+      "price": 3308
+    },
+    {
+      "abr": "roughamethyst",
+      "category": "Rough gemstones",
+      "defname": "RF_RoughAmethyst",
+      "price": 25
+    },
+    {
+      "abr": "roughaquamarine",
+      "category": "Rough gemstones",
+      "defname": "RF_RoughAquamarine",
+      "price": 25
+    },
+    {
+      "abr": "roughcarnelian",
+      "category": "Rough gemstones",
+      "defname": "RF_RoughCarnelian",
+      "price": 25
+    },
+    {
+      "abr": "roughcitrine",
+      "category": "Rough gemstones",
+      "defname": "RF_RoughCitrine",
+      "price": 25
+    },
+    {
+      "abr": "roughdiamond",
+      "category": "Rough gemstones",
+      "defname": "RF_RoughDiamond",
+      "price": 25
+    },
+    {
+      "abr": "roughemerald",
+      "category": "Rough gemstones",
+      "defname": "RF_RoughEmerald",
+      "price": 25
+    },
+    {
+      "abr": "roughkunzite",
+      "category": "Rough gemstones",
+      "defname": "RF_RoughKunzite",
+      "price": 25
+    },
+    {
+      "abr": "roughonyx",
+      "category": "Rough gemstones",
+      "defname": "RF_RoughOnyx",
+      "price": 25
+    },
+    {
+      "abr": "roughperidot",
+      "category": "Rough gemstones",
+      "defname": "RF_RoughPeridot",
+      "price": 25
+    },
+    {
+      "abr": "roughruby",
+      "category": "Rough gemstones",
+      "defname": "RF_RoughRuby",
+      "price": 25
+    },
+    {
+      "abr": "roughsapphire",
+      "category": "Rough gemstones",
+      "defname": "RF_RoughSapphire",
+      "price": 25
+    },
+    {
+      "abr": "ruby",
+      "category": "Gemstones",
+      "defname": "RF_Ruby",
+      "price": 42
+    },
+    {
+      "abr": "rubybattleaxe",
+      "category": "Arcane battle axes",
+      "defname": "RF_RubyBattleAxe",
+      "price": 3308
+    },
+    {
+      "abr": "rubybow",
+      "category": "Arcane bows",
+      "defname": "RF_RubyBow",
+      "price": 3283
+    },
+    {
+      "abr": "rubygreatsword",
+      "category": "Arcane greatswords",
+      "defname": "RF_RubyGreatsword",
+      "price": 3250
+    },
+    {
+      "abr": "rubylongsword",
+      "category": "Arcane longswords",
+      "defname": "RF_RubyLongsword",
+      "price": 3250
+    },
+    {
+      "abr": "rubyspear",
+      "category": "Arcane spears",
+      "defname": "RF_RubySpear",
+      "price": 3275
+    },
+    {
+      "abr": "rubystaff",
+      "category": "Arcane staves",
+      "defname": "RF_RubyStaff",
+      "price": 3292
+    },
+    {
+      "abr": "rubywand",
+      "category": "Arcane wands",
+      "defname": "RF_RubyWand",
+      "price": 3267
+    },
+    {
+      "abr": "rubywarhammer",
+      "category": "Arcane war hammers",
+      "defname": "RF_RubyWarHammer",
+      "price": 3308
+    },
+    {
+      "abr": "sapphire",
+      "category": "Gemstones",
+      "defname": "RF_Sapphire",
+      "price": 42
+    },
+    {
+      "abr": "sapphirebattleaxe",
+      "category": "Arcane battle axes",
+      "defname": "RF_SapphireBattleAxe",
+      "price": 3308
+    },
+    {
+      "abr": "sapphirebow",
+      "category": "Arcane bows",
+      "defname": "RF_SapphireBow",
+      "price": 3283
+    },
+    {
+      "abr": "sapphiregreatsword",
+      "category": "Arcane greatswords",
+      "defname": "RF_SapphireGreatsword",
+      "price": 3250
+    },
+    {
+      "abr": "sapphirelongsword",
+      "category": "Arcane longswords",
+      "defname": "RF_SapphireLongsword",
+      "price": 3250
+    },
+    {
+      "abr": "sapphirespear",
+      "category": "Arcane spears",
+      "defname": "RF_SapphireSpear",
+      "price": 3275
+    },
+    {
+      "abr": "sapphirestaff",
+      "category": "Arcane staves",
+      "defname": "RF_SapphireStaff",
+      "price": 3292
+    },
+    {
+      "abr": "sapphirewand",
+      "category": "Arcane wands",
+      "defname": "RF_SapphireWand",
+      "price": 3267
+    },
+    {
+      "abr": "sapphirewarhammer",
+      "category": "Arcane war hammers",
+      "defname": "RF_SapphireWarHammer",
+      "price": 3308
+    },
+    {
+      "abr": "type4obladeprototype",
+      "category": "Melee weapons",
+      "defname": "NA_W_Type4OBlade_Prototype",
+      "price": 2358
+    },
+    {
+      "abr": "type4obladereplica",
+      "category": "Melee weapons",
+      "defname": "NA_W_Type4OBlade_Replica",
+      "price": 658
+    },
+    {
+      "abr": "type4ofistsprototype",
+      "category": "Melee weapons",
+      "defname": "NA_W_Type4OFists_Prototype",
+      "price": 2258
+    },
+    {
+      "abr": "type4ofistsreplica",
+      "category": "Melee weapons",
+      "defname": "NA_W_Type4OFists_Replica",
+      "price": 558
+    },
+    {
+      "abr": "type4olanceprototype",
+      "category": "Melee weapons",
+      "defname": "NA_W_Type4OLance_Prototype",
+      "price": 2258
+    },
+    {
+      "abr": "type4olancereplica",
+      "category": "Melee weapons",
+      "defname": "NA_W_Type4OLance_Replica",
+      "price": 558
+    },
+    {
+      "abr": "type4oswordprototype",
+      "category": "Melee weapons",
+      "defname": "NA_W_Type4OSword_Prototype",
+      "price": 2158
+    },
+    {
+      "abr": "type4oswordreplica",
+      "category": "Melee weapons",
+      "defname": "NA_W_Type4OSword_Replica",
+      "price": 458
+    },
+    {
+      "abr": "virtuouscontractprototype",
+      "category": "Melee weapons",
+      "defname": "NA_W_VirtuousContract_Prototype",
+      "price": 2158
+    },
+    {
+      "abr": "virtuouscontractreplica",
+      "category": "Melee weapons",
+      "defname": "NA_W_VirtuousContract_Replica",
+      "price": 458
+    },
+    {
+      "abr": "virtuousdignityprototype",
+      "category": "Melee weapons",
+      "defname": "NA_W_VirtuousDignity_Prototype",
+      "price": 2258
+    },
+    {
+      "abr": "virtuousdignityreplica",
+      "category": "Melee weapons",
+      "defname": "NA_W_VirtuousDignity_Replica",
+      "price": 558
+    },
+    {
+      "abr": "virtuousgriefprototype",
+      "category": "Melee weapons",
+      "defname": "NA_W_VirtuousGrief_Prototype",
+      "price": 2217
+    },
+    {
+      "abr": "virtuousgriefreplica",
+      "category": "Melee weapons",
+      "defname": "NA_W_VirtuousGrief_Replica",
+      "price": 558
+    },
+    {
+      "abr": "virtuoustreatyprototype",
+      "category": "Melee weapons",
+      "defname": "NA_W_VirtuousTreaty_Prototype",
+      "price": 2358
+    },
+    {
+      "abr": "virtuoustreatyreplica",
+      "category": "Melee weapons",
+      "defname": "NA_W_VirtuousTreaty_Replica",
+      "price": 658
+    },
+    {
+      "abr": "volcanicebony",
+      "category": "Raw resources",
+      "defname": "MorrowRim_Ebony",
+      "price": 42
+    },
+    {
+      "abr": "volcanicglass",
+      "category": "Raw resources",
+      "defname": "MorrowRim_Glass",
+      "price": 33
+    },
+    {
+      "abr": "ocularslinger",
+      "category": "Animals",
+      "defname": "AG_OcularSlinger",
+      "price": 833
     }
   ],
-  "total": 2298
+  "total": 2609
 }
