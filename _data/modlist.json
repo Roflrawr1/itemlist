@@ -60,18 +60,6 @@
     "version": "1.2.0"
   },
   {
-    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
-    "name": "Vanilla Armour Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Kikohi and Oskar Potocki",
-    "name": "Vanilla Base Generation Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki, Kikohi and Helixien",
     "name": "Vanilla Events Expanded",
     "steamId": "1938420742",
@@ -96,18 +84,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "SirMashedPotato",
-    "name": "Medieval drug lab",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "SirLalaPyon",
-    "name": "Medieval Overhaul",
-    "steamId": "2553700067",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki, xrushha and legodude17",
     "name": "Vanilla Factions Expanded - Ancients",
     "steamId": "2654846754",
@@ -124,12 +100,6 @@
     "name": "Vanilla Factions Expanded - Mechanoids",
     "steamId": "2329011599",
     "version": "1.0.1.2"
-  },
-  {
-    "author": "Oskar Potocki and XeoNovaDan",
-    "name": "Vanilla Factions Expanded - Medieval",
-    "steamId": "2023513450",
-    "version": "1.0.5.0"
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
@@ -432,12 +402,6 @@
     "version": null
   },
   {
-    "author": "Fluffy",
-    "name": "(UNOFFICIAL 1.4) The Birds and the Bees",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "opponent019",
     "name": "Sanguophage Feed Relationship",
     "steamId": "2884586228",
@@ -630,6 +594,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Sarg",
+    "name": "Alpha Biomes",
+    "steamId": "1841354677",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Allie and Sarg",
     "name": "Alpha Genes",
     "steamId": "2891845502",
@@ -739,7 +709,13 @@
   },
   {
     "author": "RedMattis",
-    "name": "Big and Small Genes",
+    "name": "Better Gene Prerequisites",
+    "steamId": "2925432336",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "RedMattis",
+    "name": "Big and Small Genes (Core)",
     "steamId": "2920751126",
     "version": "1.0.0.0"
   },
@@ -748,12 +724,6 @@
     "name": "Vampires, Demons, and the Undead",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "RedMattis",
-    "name": "Better Gene Prerequisites",
-    "steamId": "2925432336",
-    "version": "1.0.0.0"
   },
   {
     "author": "miyamiya and twsta",
@@ -784,5 +754,77 @@
     "name": "[AP] Slaveholding",
     "steamId": "2928105773",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Udon",
+    "name": "Mass Lovin'",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.4.1240.0"
+  },
+  {
+    "author": "Jaxe",
+    "name": "Interaction Bubbles",
+    "steamId": "1516158345",
+    "version": "2.5.0.0"
+  },
+  {
+    "author": "jptrrs",
+    "name": "SpeakUp",
+    "steamId": "2502518544",
+    "version": "0.8"
+  },
+  {
+    "author": "solidsnake8608",
+    "name": "SpeakUp Child",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ZombieZilla",
+    "name": "Show Fertility on Health Tab",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Colony Manager",
+    "steamId": "715565262",
+    "version": "4.33.649"
+  },
+  {
+    "author": "obama",
+    "name": "Accepted Hybrids",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "KingsMan_",
+    "name": "Barbatos StoryTeller",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Azami",
+    "name": "Alpha Animals Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Yamazaki",
+    "name": "Preschooler Clothes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Meltup and Sicarious",
+    "name": "Polyamory Beds (Vanilla Edition)",
+    "steamId": null,
+    "version": null
   }
 ]

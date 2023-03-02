@@ -90,6 +90,24 @@
     "version": null
   },
   {
+    "author": "Syrchalis",
+    "name": "[SYR] Processor Framework",
+    "steamId": "2633514537",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SirMashedPotato",
+    "name": "Medieval drug lab",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirLalaPyon",
+    "name": "Medieval Overhaul",
+    "steamId": "2553700067",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oskar Potocki, xrushha and legodude17",
     "name": "Vanilla Factions Expanded - Ancients",
     "steamId": "2654846754",
@@ -414,12 +432,6 @@
     "version": null
   },
   {
-    "author": "Fluffy",
-    "name": "(UNOFFICIAL 1.4) The Birds and the Bees",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "opponent019",
     "name": "Sanguophage Feed Relationship",
     "steamId": "2884586228",
@@ -694,5 +706,125 @@
     "name": "Vanilla Outposts Expanded: Additional Outposts",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "XeranDereth",
+    "name": "Fantasy Styles",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rooboid",
+    "name": "Roo's Minotaur Xenotype",
+    "steamId": "2927812651",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Rooboid",
+    "name": "Roo's Minotaur Xenotype Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "GrillMaster",
+    "name": "More xenotypes and multicultural factions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RedMattis",
+    "name": "Big and Small Genes (Core)",
+    "steamId": "2920751126",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "RedMattis",
+    "name": "Vampires, Demons, and the Undead",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RedMattis",
+    "name": "Better Gene Prerequisites",
+    "steamId": "2925432336",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "miyamiya and twsta",
+    "name": "Compressed Raid",
+    "steamId": "2927368319",
+    "version": "1.4"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Brewing Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson, Chowder and Trahspanda",
+    "name": "Vanilla Brewing Expanded - Coffees and Teas",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nunahur Al-Shamikh",
+    "name": "Medieval Prosthetics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AlexisPopcorn",
+    "name": "[AP] Slaveholding",
+    "steamId": "2928105773",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Udon",
+    "name": "Mass Lovin'",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.4.1240.0"
+  },
+  {
+    "author": "Jaxe",
+    "name": "Interaction Bubbles",
+    "steamId": "1516158345",
+    "version": "2.5.0.0"
+  },
+  {
+    "author": "jptrrs",
+    "name": "SpeakUp",
+    "steamId": "2502518544",
+    "version": "0.8"
+  },
+  {
+    "author": "solidsnake8608",
+    "name": "SpeakUp Child",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Udon",
+    "name": "Super Size Bed!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ZombieZilla",
+    "name": "Show Fertility on Health Tab",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Colony Manager",
+    "steamId": "715565262",
+    "version": "4.33.649"
   }
 ]
