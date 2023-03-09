@@ -18,6 +18,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki and Smash Phil",
+    "name": "Vanilla Achievements Expanded",
+    "steamId": "2288125657",
+    "version": "1.4.8315.17730"
+  },
+  {
     "author": "Oskar Potocki, Trunken and Sarg Bjornson",
     "name": "Vanilla Weapons Expanded",
     "steamId": null,
@@ -48,6 +54,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Quickdraw",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki, Luizi and xrushha",
     "name": "Vanilla Weapons Expanded - Frontier",
     "steamId": null,
@@ -56,18 +68,6 @@
   {
     "author": "Oskar Potocki and Trunken",
     "name": "Vanilla Apparel Expanded",
-    "steamId": "1814987817",
-    "version": "1.2.0"
-  },
-  {
-    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
-    "name": "Vanilla Armour Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Kikohi and Oskar Potocki",
-    "name": "Vanilla Base Generation Expanded",
     "steamId": null,
     "version": null
   },
@@ -96,18 +96,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "SirMashedPotato",
-    "name": "Medieval drug lab",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "SirLalaPyon",
-    "name": "Medieval Overhaul",
-    "steamId": "2553700067",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki, xrushha and legodude17",
     "name": "Vanilla Factions Expanded - Ancients",
     "steamId": "2654846754",
@@ -124,12 +112,6 @@
     "name": "Vanilla Factions Expanded - Mechanoids",
     "steamId": "2329011599",
     "version": "1.0.1.2"
-  },
-  {
-    "author": "Oskar Potocki and XeoNovaDan",
-    "name": "Vanilla Factions Expanded - Medieval",
-    "steamId": "2023513450",
-    "version": "1.0.5.0"
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
@@ -396,6 +378,24 @@
     "version": "2.0.10.0"
   },
   {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "10.0.1"
+  },
+  {
+    "author": "jecrell and contributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.4.1.1"
+  },
+  {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.6.0.5"
+  },
+  {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
@@ -546,12 +546,6 @@
     "version": "1.4"
   },
   {
-    "author": "UnlimitedHugs",
-    "name": "HugsLib",
-    "steamId": "818773962",
-    "version": "10.0.1"
-  },
-  {
     "author": "Trojan - Troopersmith1 - Linq - deathrat",
     "name": "Death Rattle [1.4]",
     "steamId": null,
@@ -567,12 +561,6 @@
     "author": "Onyxae",
     "name": "Dragons Descent",
     "steamId": "2026992161",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "NilchEi",
-    "name": "Dynamic Diplomacy",
-    "steamId": "1875168898",
     "version": "1.0.0.0"
   },
   {
@@ -612,15 +600,15 @@
     "version": null
   },
   {
-    "author": "Paul Freeman",
-    "name": "Free Will",
-    "steamId": "2580837227",
-    "version": "0.0.0.0"
-  },
-  {
     "author": "Neceros and Updated by marceline",
     "name": "Faster Smoothing (1.4)",
     "steamId": "2879128253",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg",
+    "name": "Alpha Biomes",
+    "steamId": "1841354677",
     "version": "1.0.0.0"
   },
   {
@@ -733,6 +721,12 @@
   },
   {
     "author": "RedMattis",
+    "name": "Better Gene Prerequisites",
+    "steamId": "2925432336",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "RedMattis",
     "name": "Big and Small Genes (Core)",
     "steamId": "2920751126",
     "version": "1.0.0.0"
@@ -742,12 +736,6 @@
     "name": "Vampires, Demons, and the Undead",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "RedMattis",
-    "name": "Better Gene Prerequisites",
-    "steamId": "2925432336",
-    "version": "1.0.0.0"
   },
   {
     "author": "miyamiya and twsta",
@@ -810,12 +798,6 @@
     "version": null
   },
   {
-    "author": "Udon",
-    "name": "Super Size Bed!",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "ZombieZilla",
     "name": "Show Fertility on Health Tab",
     "steamId": null,
@@ -826,5 +808,203 @@
     "name": "Colony Manager",
     "steamId": "715565262",
     "version": "4.33.649"
+  },
+  {
+    "author": "obama",
+    "name": "Accepted Hybrids",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "KingsMan_",
+    "name": "Barbatos StoryTeller",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Azami",
+    "name": "Alpha Animals Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Yamazaki",
+    "name": "Preschooler Clothes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Meltup and Sicarious",
+    "name": "Polyamory Beds (Vanilla Edition)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Yamazaki",
+    "name": "Animal Hoods",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.0"
+  },
+  {
+    "author": "Evan",
+    "name": "Allow Consensual Incest",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "TechnoFox",
+    "name": "Colonist Mentality 1.4",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "InertialMage",
+    "name": "Beauty Matters",
+    "steamId": "2896613924",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kikohi and Oskar Potocki",
+    "name": "Vanilla Base Generation Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Grunt",
+    "name": "Slavebody Strap Is Nude",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Machnock",
+    "name": "Sexuality issues",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ben",
+    "name": "Automatic Night Owl",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Crykosity",
+    "name": "Deathrest Pauses Biological Age",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sandy",
+    "name": "RPG Style Inventory Revamped",
+    "steamId": "2478833213",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "BigTortoise",
+    "name": "Lactating Normal Fertility",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Some Things Float",
+    "steamId": "2940072380",
+    "version": "1.4.8"
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "name": "Vanilla Armour Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "The Abyss (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Daniel",
+    "name": "More Aging Control",
+    "steamId": "2886943990",
+    "version": "0.3.0"
+  },
+  {
+    "author": "kathanon",
+    "name": "Impressionable Children",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jiopaba",
+    "name": "Call a Vampire a Vampire",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Udon",
+    "name": "Child Birth Prayer",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "2.5.2.0"
+  },
+  {
+    "author": "Jaxe",
+    "name": "More Random Seeds",
+    "steamId": "1501463043",
+    "version": "7.0.0.0"
+  },
+  {
+    "author": "Scruffy",
+    "name": "2020 Storyteller: Donald Trump",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Vanilla Textures Expanded - Variations",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Torann",
+    "name": "Rim War",
+    "steamId": "2222935097",
+    "version": "0.9.8.10"
+  },
+  {
+    "author": "PrivateGER",
+    "name": "[1.4] Nukes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Densevoid",
+    "name": "One bed to sleep with all",
+    "steamId": "2572109781",
+    "version": "1.0.2"
+  },
+  {
+    "author": "plaxen",
+    "name": "Malang Face ",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "plaxen",
+    "name": "Malang Face add-on: Biotech Gene expanded",
+    "steamId": null,
+    "version": null
   }
 ]
