@@ -223,6 +223,12 @@
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Cooking Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
     "name": "Vanilla Ideology Expanded - Memes and Structures",
     "steamId": "2636329500",
     "version": "1.0.0.0"
@@ -250,12 +256,6 @@
     "name": "Vanilla Persona Weapons Expanded",
     "steamId": "2826922787",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Social Interactions Expanded",
-    "steamId": "2439736083",
-    "version": "1.0.0.1"
   },
   {
     "author": "Oskar Potocki",
@@ -393,7 +393,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.6.0.5"
+    "version": "2.6.0.6"
   },
   {
     "author": "SirRandoo",
@@ -430,12 +430,6 @@
     "name": "Auto-Cut Blight",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "opponent019",
-    "name": "Sanguophage Feed Relationship",
-    "steamId": "2884586228",
-    "version": "1.0.0"
   },
   {
     "author": "pphhyy",
@@ -486,9 +480,9 @@
     "version": null
   },
   {
-    "author": "legodude17 and Oskar Potocki",
-    "name": "Vanilla Skills Expanded",
-    "steamId": "2854967442",
+    "author": "Helixien and Taranchuk",
+    "name": "ReGrowth: Core",
+    "steamId": "2260097569",
     "version": "1.0.0.0"
   },
   {
@@ -541,7 +535,7 @@
   },
   {
     "author": "Owlchemist",
-    "name": "Clean Pathfinding",
+    "name": "Clean Pathfinding 2",
     "steamId": "2603765747",
     "version": "1.4"
   },
@@ -915,7 +909,7 @@
     "author": "Mlie",
     "name": "Some Things Float",
     "steamId": "2940072380",
-    "version": "1.4.8"
+    "version": "1.4.13"
   },
   {
     "author": "Oskar Potocki, Trunken and Sarg Bjornson",
@@ -978,16 +972,16 @@
     "version": null
   },
   {
-    "author": "Torann",
-    "name": "Rim War",
-    "steamId": "2222935097",
-    "version": "0.9.8.10"
-  },
-  {
     "author": "PrivateGER",
     "name": "[1.4] Nukes",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Hahkethomemah",
+    "name": "1-2-3 Personalities M1",
+    "steamId": "2527258500",
+    "version": "0.0.0.0"
   },
   {
     "author": "Densevoid",
@@ -1004,6 +998,168 @@
   {
     "author": "plaxen",
     "name": "Malang Face add-on: Biotech Gene expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nera",
+    "name": "[BT] SpawnThoseGenes!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirVan",
+    "name": "Van's Retexture : Mechanitor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Thog",
+    "name": "Thog's Guns - Vanilla Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "legodude17",
+    "name": "Quality Colors",
+    "steamId": "2420141361",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "NilchEi",
+    "name": "Dynamic Diplomacy",
+    "steamId": "1875168898",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "udong123",
+    "name": "Better parenting (Biotech)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Pizzacat OttersHoldHands iforgotmysocks AobaKuma",
+    "name": "Villages:Homes",
+    "steamId": "2941977041",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SmArtKar",
+    "name": "Athena Framework",
+    "steamId": "2903359518",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "DetVisor",
+    "name": "Glitter Weaponry",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "TheLastBulletBender",
+    "name": "Rimworld Exploration Mode",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lyn the Cookie",
+    "name": "[LYN] Cookie Genes (Skin and Hair Colors)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "legodude17 and Oskar Potocki",
+    "name": "Vanilla Skills Expanded",
+    "steamId": "2854967442",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Hahkethomemah",
+    "name": "Personalities: RPG Alignments",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DimonSever000",
+    "name": "RPG Traits+",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo and Owlchemist",
+    "name": "Giddy-Up 2",
+    "steamId": "2934245647",
+    "version": "1.4"
+  },
+  {
+    "author": "-AmroWazzan",
+    "name": "Unfunctional Blood Feed on Slaves",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "[SS]King's Slaves (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ben",
+    "name": "Automatic Slave Outfit",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Silentdeth",
+    "name": "Slaves Aren't People",
+    "steamId": "2897601862",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "MilkyTM",
+    "name": "Neko Slave Collar",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Hahkethomemah",
+    "name": "1-2-3 Personalities M2",
+    "steamId": "2781023972",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "legodude17 and Oskar Potocki",
+    "name": "Vanilla Storytellers Expanded - RimWorld Rick",
+    "steamId": "2787762549",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Epicguru",
+    "name": "Melee Animation",
+    "steamId": "2944488802",
+    "version": "1.0.0"
+  },
+  {
+    "author": "YAYO",
+    "name": "Yayo's Animation (Continued)",
+    "steamId": "2877292196",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Bean",
+    "name": "Terrors of the Rim",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitResearch",
+    "steamId": "2312827542",
+    "version": "1.0.3.2"
+  },
+  {
+    "author": "Anonymous",
+    "name": "RoM Genes",
     "steamId": null,
     "version": null
   }

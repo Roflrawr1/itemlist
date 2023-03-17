@@ -3664,96 +3664,6 @@
       "addPrice": 2500,
       "removePrice": 1,
       "degree": 0,
-      "description": "Timmy enjoys being fed on by sanguophages, he loves to feel the rush of extasis that comes with the bite.",
-      "stats": [],
-      "conflicts": [
-        "wimp",
-        "sanguofriend",
-        "sanguophobe"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "wimp",
-          "sanguofriend",
-          "sanguophobe"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Sanguophage Feed Relationship",
-        "karmaTypeForAdding": null
-      },
-      "defName": "SFR_Sanguophile",
-      "name": "sanguophile"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2500,
-      "removePrice": 1,
-      "degree": 0,
-      "description": "Timmy understands that sanguophages need blood to survive and is okay with helping a sanguophage friend out by gifting some blood.",
-      "stats": [],
-      "conflicts": [
-        "sanguophile",
-        "sanguophobe",
-        "psychopath"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "sanguophile",
-          "sanguophobe",
-          "psychopath"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Sanguophage Feed Relationship",
-        "karmaTypeForAdding": null
-      },
-      "defName": "SFR_Sanguofriend",
-      "name": "sanguofriend"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2500,
-      "removePrice": 1,
-      "degree": 0,
-      "description": "Timmy hates sanguophages and will always feel on edge when around them.",
-      "stats": [],
-      "conflicts": [
-        "sanguophile",
-        "sanguofriend",
-        "kind"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "sanguophile",
-          "sanguofriend",
-          "kind"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Sanguophage Feed Relationship",
-        "karmaTypeForAdding": null
-      },
-      "defName": "SFR_Sanguophobe",
-      "name": "sanguophobe"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2500,
-      "removePrice": 1,
-      "degree": 0,
       "description": "A strict principle of nonviolence which applies to all living things.",
       "stats": [],
       "conflicts": [],
@@ -15049,6 +14959,302 @@
       },
       "defName": "TM_SuperSoldier",
       "name": "supersoldier"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is fed up with children's whims and quirks, and now hate them.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Better parenting (Biotech)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BetterParentingDislikesChildren",
+      "name": "childhatred"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is able to tear apart the fabrics of reality, moving living beings through space at the speed of light.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RPG Traits+",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RPGTraits_Teleporter",
+      "name": "teleporter"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is able to hide himself from prying eyes, literally leaving under the noses of enemies.",
+      "stats": [],
+      "conflicts": [
+        "slowpoke",
+        "fastwalker",
+        "jogger"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "slowpoke",
+          "fastwalker",
+          "jogger"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RPG Traits+",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RPGTraits_Inquisitor",
+      "name": "inquisitor"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has an explosive character and is great at concentrating this power.",
+      "stats": [],
+      "conflicts": [
+        "aquarior"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "aquarior"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RPG Traits+",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RPGTraits_Phoenix",
+      "name": "phoenix"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has the ability to manipulate water and its forms.",
+      "stats": [],
+      "conflicts": [
+        "phoenix"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "phoenix"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RPG Traits+",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RPGTraits_Aquarior",
+      "name": "aquarior"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy can manipulate the ground under his feet, making it serve.",
+      "stats": [],
+      "conflicts": [
+        "aeron"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "aeron"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RPG Traits+",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RPGTraits_Terrarior",
+      "name": "terrarior"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy subdues the air around him, setting it in motion.",
+      "stats": [],
+      "conflicts": [
+        "terrarior"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "terrarior"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RPG Traits+",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RPGTraits_Aeron",
+      "name": "aeron"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy able to control electromagnetic waves.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RPG Traits+",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RPGTraits_Magnetic",
+      "name": "magnetic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is able to manipulate people and absorb their emotions.",
+      "stats": [],
+      "conflicts": [
+        "paladin"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "paladin"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RPG Traits+",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RPGTraits_Mentalist",
+      "name": "mentalist"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has the ability to help peoples.",
+      "stats": [],
+      "conflicts": [
+        "mentalist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "mentalist"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RPG Traits+",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RPGTraits_Paladin",
+      "name": "paladin"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has always seen their body as nothing more than a vessel for the mind. he does not care about the gender, age or looks of their body.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Altered Carbon: Ultratech Unleashed",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VFEU_FreeMind",
+      "name": "freemind"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy can change sleeves as easily as changing clothes. he doesn’t care how often he switches sleeves or what sleeve he is currently riding.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Altered Carbon: Ultratech Unleashed",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VFEU_Sleever",
+      "name": "sleever"
     }
   ],
   "races": [
@@ -15060,8 +15266,8 @@
           "+70% Flammability",
           "+$1750 Market value",
           "+4.60 Move speed",
-          "+28.8F Minimum comfortable temperature",
-          "+46.8F Maximum comfortable temperature",
+          "+28.8F [16.0C] Minimum comfortable temperature",
+          "+46.8F [26.0C] Maximum comfortable temperature",
           "+75 Leather amount",
           "+3 Honor value"
         ],
