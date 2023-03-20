@@ -873,7 +873,7 @@
     "author": "Mlie",
     "name": "Some Things Float",
     "steamId": "2940072380",
-    "version": "1.4.17"
+    "version": "1.4.19"
   },
   {
     "author": "Oskar Potocki, Trunken and Sarg Bjornson",
@@ -1104,12 +1104,6 @@
     "version": null
   },
   {
-    "author": "Chicken Plucker",
-    "name": "[RH2] V.O.I.D. Storyteller",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Bean",
     "name": "Terrors of the Rim",
     "steamId": null,
@@ -1150,12 +1144,6 @@
     "name": "MorrowRim - Adamantium",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "pphhyy, Rick G. And SirMashedPotato",
-    "name": "ESCP - Spriggan",
-    "steamId": "2713922902",
-    "version": "1.0.0"
   },
   {
     "author": "Rooboid",
@@ -1330,5 +1318,29 @@
     "name": "ToolkitResearch",
     "steamId": "2312827542",
     "version": "1.0.3.2"
+  },
+  {
+    "author": "Sir Van and Elseud",
+    "name": "Eltex Weaponry",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "1trickPwnyta",
+    "name": "Visible Raid Points",
+    "steamId": "2562730174",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[RH2] Faction: V.O.I.D.",
+    "steamId": "2883208829",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[RH2] V.O.I.D. Storyteller",
+    "steamId": null,
+    "version": null
   }
 ]

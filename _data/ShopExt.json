@@ -2061,7 +2061,7 @@
       "name": "fisherman"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 2500,
       "removePrice": 1,
@@ -5513,9 +5513,9 @@
       "name": "giant"
     },
     {
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 5500,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is abnormally receptive to the ebb and flow of mana, he will gain mana 40% faster than normal but his maximum mana capacity is reduced by 20.",
@@ -5541,9 +5541,9 @@
       "name": "arcaneconduit"
     },
     {
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 5500,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has an increased resistance to the ebb and flow of mana which allows him to hold an additional 40 mana, but reduces his mana regeneration by 20%.",
@@ -5569,7 +5569,7 @@
       "name": "manawell"
     },
     {
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 5500,
@@ -5597,9 +5597,9 @@
       "name": "boundless"
     },
     {
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 5500,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is a descendant of fae folk and has a natural connection to the arcane. his arcane resistance is reduced by 40% but mana regeneration and maximum mana is increased by 20%. Spell costs are reduced by 10%.",
@@ -15276,7 +15276,7 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": true,
+      "enabled": false,
       "name": "human",
       "price": 2000
     }
