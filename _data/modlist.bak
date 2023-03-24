@@ -582,12 +582,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Allie and Sarg",
-    "name": "Alpha Genes",
-    "steamId": "2891845502",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "telardo",
     "name": "Better Gene Graphics Framework",
     "steamId": null,
@@ -870,12 +864,6 @@
     "version": null
   },
   {
-    "author": "Mlie",
-    "name": "Some Things Float",
-    "steamId": "2940072380",
-    "version": "1.4.19"
-  },
-  {
     "author": "Oskar Potocki, Trunken and Sarg Bjornson",
     "name": "Vanilla Armour Expanded",
     "steamId": null,
@@ -1104,12 +1092,6 @@
     "version": null
   },
   {
-    "author": "Chicken Plucker",
-    "name": "[RH2] V.O.I.D. Storyteller",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Bean",
     "name": "Terrors of the Rim",
     "steamId": null,
@@ -1296,6 +1278,42 @@
     "version": null
   },
   {
+    "author": "Sir Van and Elseud",
+    "name": "Eltex Weaponry",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "1trickPwnyta",
+    "name": "Visible Raid Points",
+    "steamId": "2562730174",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Hey my team rules!",
+    "name": "Advanced Biomes (Continued)",
+    "steamId": "2052116426",
+    "version": "1.4.3"
+  },
+  {
+    "author": "TwoPenny",
+    "name": "Portraits of the Rim",
+    "steamId": "2937991425",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Rachel and yo",
+    "name": "Rachel's Anime Hair Mod, Yo (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Hen",
+    "name": "Style Revised - Animalist",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -1306,12 +1324,6 @@
     "name": "Twitch Toolkit",
     "steamId": "1718525787",
     "version": "2.0.10.0"
-  },
-  {
-    "author": "hodlhodl",
-    "name": "TwitchToolkit - Lootboxes",
-    "steamId": "1720021578",
-    "version": "1.0.0.0"
   },
   {
     "author": "SirRandoo",
@@ -1326,27 +1338,39 @@
     "version": "1.0.3.2"
   },
   {
-    "author": "Sir Van and Elseud",
-    "name": "Eltex Weaponry",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "1trickPwnyta",
-    "name": "Visible Raid Points",
-    "steamId": "2562730174",
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes",
+    "steamId": "1720021578",
     "version": "1.0.0.0"
   },
   {
-    "author": "Fluffy",
-    "name": "Research Tree",
-    "steamId": "2608058938",
-    "version": "3.17.533"
+    "author": "Neronix17",
+    "name": "Tabula Rasa",
+    "steamId": "1660622094",
+    "version": "1.0.8466.10205"
   },
   {
-    "author": "Pyrce",
-    "name": "Dire Raids",
+    "author": "HannahBug",
+    "name": "[HB] Subbox Xenotype",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Outland - Genetics",
+    "steamId": "2910172297",
+    "version": "1.0.8445.14336"
+  },
+  {
+    "author": "Allie and Sarg",
+    "name": "Alpha Genes",
+    "steamId": "2891845502",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Alpha Genes - Insectoid Mutations",
+    "steamId": "2906193379",
+    "version": "1.0.0.0"
   }
 ]

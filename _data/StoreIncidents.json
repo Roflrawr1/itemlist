@@ -116,11 +116,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "maninblack",
-		"price": 800,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad"
@@ -296,6 +291,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "healanypawn",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "healme",
 		"price": 500,
 		"karmatype": "Good"
@@ -319,6 +319,11 @@
 		"abr": "rescueme",
 		"price": 1200,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "fullheal",
+		"price": 2167,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "passion",
@@ -381,5 +386,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 76
+	"total": 77
 }
