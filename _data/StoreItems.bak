@@ -668,7 +668,7 @@
 	},
 	{
 		"abr": "resurrectormechserum",
-		"price": -10,
+		"price": 2850,
 		"category": "Misc",
 		"defname": "MechSerumResurrector"
 	},
@@ -866,7 +866,7 @@
 	},
 	{
 		"abr": "glitterworldmedicine",
-		"price": -10,
+		"price": 83,
 		"category": "Medicine",
 		"defname": "MedicineUltratech"
 	},
@@ -1268,7 +1268,7 @@
 	},
 	{
 		"abr": "psychicinsanitylance",
-		"price": -10,
+		"price": 1075,
 		"category": "Utility",
 		"defname": "Apparel_PsychicInsanityLance"
 	},
@@ -5396,7 +5396,7 @@
 	},
 	{
 		"abr": "plasmasaw",
-		"price": -10,
+		"price": 3258,
 		"category": "Melee weapons",
 		"defname": "VFE_Plasmasaw"
 	},
@@ -5510,43 +5510,43 @@
 	},
 	{
 		"abr": "salvagedlaserhuntingrifle",
-		"price": -10,
+		"price": 3817,
 		"category": "Ranged weapons",
 		"defname": "VWEFT_Gun_SalvagedLaserHuntingRifle"
 	},
 	{
 		"abr": "salvagedlaserpistol",
-		"price": -10,
+		"price": 2500,
 		"category": "Ranged weapons",
 		"defname": "VWEL_Gun_SalvagedLaserPistol"
 	},
 	{
 		"abr": "salvagedlaserrepeater",
-		"price": -10,
+		"price": 3317,
 		"category": "Ranged weapons",
 		"defname": "VWEFT_Gun_SalvagedLaserRepeater"
 	},
 	{
 		"abr": "salvagedlaserrevolver",
-		"price": -10,
+		"price": 2283,
 		"category": "Ranged weapons",
 		"defname": "VWEFT_Gun_SalvagedLaserRevolver"
 	},
 	{
 		"abr": "salvagedlaserrifle",
-		"price": -10,
+		"price": 3075,
 		"category": "Ranged weapons",
 		"defname": "VWEL_Gun_SalvagedLaserRifle"
 	},
 	{
 		"abr": "salvagedlasershotgun",
-		"price": -10,
+		"price": 3483,
 		"category": "Ranged weapons",
 		"defname": "VWEL_Gun_SalvagedLaserShotgun"
 	},
 	{
 		"abr": "salvagedlasersniperrifle",
-		"price": -10,
+		"price": 3708,
 		"category": "Ranged weapons",
 		"defname": "VWEL_Gun_SalvagedLaserSniperRifle"
 	},
@@ -18308,7 +18308,7 @@
 	},
 	{
 		"abr": "lasersaber",
-		"price": -10,
+		"price": 3342,
 		"category": "Melee weapons",
 		"defname": "Laser_Saber"
 	},
@@ -18968,19 +18968,19 @@
 	},
 	{
 		"abr": "arasakacyberarm",
-		"price": -10,
+		"price": 1917,
 		"category": "Ultratech",
 		"defname": "Arasaka_Arm_AC"
 	},
 	{
 		"abr": "arasakacyberear",
-		"price": -10,
+		"price": 1917,
 		"category": "Ultratech",
 		"defname": "Arasaka_Ear_AC"
 	},
 	{
 		"abr": "arasakacyberleg",
-		"price": -10,
+		"price": 1917,
 		"category": "Ultratech",
 		"defname": "Arasaka_Leg_AC"
 	},
@@ -18992,49 +18992,49 @@
 	},
 	{
 		"abr": "arasakamantisblades",
-		"price": -10,
+		"price": 2842,
 		"category": "Ultratech",
 		"defname": "Arasaka_Mantis_AC"
 	},
 	{
 		"abr": "arasakamillitarykatana",
-		"price": -10,
+		"price": 733,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Millitary_Katana_AC"
 	},
 	{
 		"abr": "arasakamk.i",
-		"price": -10,
+		"price": 1358,
 		"category": "Ultratech",
 		"defname": "Arasaka_MKI_AC"
 	},
 	{
 		"abr": "arasakamk.ii",
-		"price": -10,
+		"price": 2025,
 		"category": "Ultratech",
 		"defname": "Arasaka_MKII_AC"
 	},
 	{
 		"abr": "arasakamk.iii",
-		"price": -10,
+		"price": 2692,
 		"category": "Ultratech",
 		"defname": "Arasaka_MKIII_AC"
 	},
 	{
 		"abr": "arasakamk.iv",
-		"price": -10,
+		"price": 4950,
 		"category": "Ultratech",
 		"defname": "Arasaka_MKIV_AC"
 	},
 	{
 		"abr": "arasakanowaki",
-		"price": -10,
+		"price": 717,
 		"category": "Ranged weapons",
 		"defname": "Gun_Nowaki_AC"
 	},
 	{
 		"abr": "arasakareinforcedjaw",
-		"price": -10,
+		"price": 1583,
 		"category": "Ultratech",
 		"defname": "Arasaka_Jaw_AC"
 	},
@@ -19046,7 +19046,7 @@
 	},
 	{
 		"abr": "arasakareinforcedspine",
-		"price": -10,
+		"price": 1917,
 		"category": "Ultratech",
 		"defname": "Arasaka_Spine_AC"
 	},
@@ -19058,43 +19058,43 @@
 	},
 	{
 		"abr": "arasakashigure",
-		"price": -10,
+		"price": 550,
 		"category": "Ranged weapons",
 		"defname": "Gun_Shigure_AC"
 	},
 	{
 		"abr": "arasakasyntheticheart",
-		"price": -10,
+		"price": 1508,
 		"category": "Ultratech",
 		"defname": "Arasaka_Heart_AC"
 	},
 	{
 		"abr": "arasakasynthetickidney",
-		"price": -10,
+		"price": 1508,
 		"category": "Ultratech",
 		"defname": "Arasaka_Kidney_AC"
 	},
 	{
 		"abr": "arasakasyntheticliver",
-		"price": -10,
+		"price": 1508,
 		"category": "Ultratech",
 		"defname": "Arasaka_Liver_AC"
 	},
 	{
 		"abr": "arasakasyntheticlung",
-		"price": -10,
+		"price": 1508,
 		"category": "Ultratech",
 		"defname": "Arasaka_Lung_AC"
 	},
 	{
 		"abr": "arasakasyntheticstomach",
-		"price": -10,
+		"price": 1508,
 		"category": "Ultratech",
 		"defname": "Arasaka_Stomach_AC"
 	},
 	{
 		"abr": "arasakathermalkatana",
-		"price": -10,
+		"price": 2000,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Thermal_Katana_AC"
 	},
@@ -19124,7 +19124,7 @@
 	},
 	{
 		"abr": "arasaka-kiroshicybereye",
-		"price": -10,
+		"price": 1917,
 		"category": "Ultratech",
 		"defname": "Arasaka_Eye_AC"
 	},
@@ -19484,7 +19484,7 @@
 	},
 	{
 		"abr": "hjsh-18masamune",
-		"price": -10,
+		"price": 958,
 		"category": "Ranged weapons",
 		"defname": "Gun_HJSH_18_Masamune_AC"
 	},
@@ -20243,7 +20243,379 @@
 		"price": 67,
 		"category": "Meals",
 		"defname": "EJC_Zarusoba"
-	}
+	},
+	{
+		"abr": "advancedautopistol",
+		"price": 442,
+		"category": "Ranged weapons",
+		"defname": "K4G_Gun_AdvancedAutopistol"
+	},
+	{
+		"abr": "advancedflakvest",
+		"price": 792,
+		"category": "Armor",
+		"defname": "K4G_Apparel_AdvancedFlakVest"
+	},
+	{
+		"abr": "advancedoutlanderhelmet",
+		"price": 567,
+		"category": "Headgear",
+		"defname": "K4G_Apparel_AdvancedOutlanderHelmet"
+	},
+	{
+		"abr": "battlerifle",
+		"price": 833,
+		"category": "Ranged weapons",
+		"defname": "K4G_Gun_BattleRifle"
+	},
+	{
+		"abr": "bolter",
+		"price": 110,
+		"category": "Ranged weapons",
+		"defname": "K4G_Gun_Bolter"
+	},
+	{
+		"abr": "carbiner",
+		"price": 567,
+		"category": "Ranged weapons",
+		"defname": "K4G_Gun_Carbiner"
+	},
+	{
+		"abr": "cleaver",
+		"price": 367,
+		"category": "Melee weapons",
+		"defname": "K4G_MeleeWeapon_Cleaver"
+	},
+	{
+		"abr": "compactrifle",
+		"price": 700,
+		"category": "Ranged weapons",
+		"defname": "K4G_Gun_CompactRifle"
+	},
+	{
+		"abr": "conehat",
+		"price": 92,
+		"category": "Headgear",
+		"defname": "K4G_Apparel_ConeHat"
+	},
+	{
+		"abr": "coveralls",
+		"price": 188,
+		"category": "Misc",
+		"defname": "K4G_Apparel_Coveralls"
+	},
+	{
+		"abr": "dynastycrown",
+		"price": 239,
+		"category": "Headgear",
+		"defname": "K4G_Apparel_DynastyCrown"
+	},
+	{
+		"abr": "embroideredovercoat",
+		"price": 433,
+		"category": "Misc",
+		"defname": "K4G_Apparel_EmbroideredOvercoat"
+	},
+	{
+		"abr": "glaive",
+		"price": 333,
+		"category": "Melee weapons",
+		"defname": "K4G_MeleeWeapon_Glaive"
+	},
+	{
+		"abr": "goggledhelmet",
+		"price": 492,
+		"category": "Headgear",
+		"defname": "K4G_Apparel_GoggledHelmet"
+	},
+	{
+		"abr": "goggles",
+		"price": 72,
+		"category": "Headgear",
+		"defname": "K4G_Apparel_Goggles"
+	},
+	{
+		"abr": "heavyshotgun",
+		"price": 842,
+		"category": "Ranged weapons",
+		"defname": "K4G_Gun_HeavyShotgun"
+	},
+	{
+		"abr": "hoodedmask",
+		"price": 259,
+		"category": "Headgear",
+		"defname": "K4G_Apparel_HoodedMask"
+	},
+	{
+		"abr": "imperialhelmet",
+		"price": 170,
+		"category": "Headgear",
+		"defname": "K4G_Apparel_ImperialHelmet"
+	},
+	{
+		"abr": "katana",
+		"price": 442,
+		"category": "Melee weapons",
+		"defname": "K4G_MeleeWeapon_Katana"
+	},
+	{
+		"abr": "kidcoveralls",
+		"price": 94,
+		"category": "Misc",
+		"defname": "K4G_Apparel_KidCoveralls"
+	},
+	{
+		"abr": "kidkimono",
+		"price": 88,
+		"category": "Misc",
+		"defname": "K4G_Apparel_KidKimono"
+	},
+	{
+		"abr": "kimono",
+		"price": 177,
+		"category": "Misc",
+		"defname": "K4G_Apparel_Kimono"
+	},
+	{
+		"abr": "labcoat",
+		"price": 315,
+		"category": "Misc",
+		"defname": "K4G_Apparel_LabCoat"
+	},
+	{
+		"abr": "legionaryhelmet",
+		"price": 442,
+		"category": "Headgear",
+		"defname": "K4G_Apparel_LegionaryHelmet"
+	},
+	{
+		"abr": "lightsmg",
+		"price": 483,
+		"category": "Ranged weapons",
+		"defname": "K4G_Gun_LightSMG"
+	},
+	{
+		"abr": "longgun",
+		"price": 483,
+		"category": "Ranged weapons",
+		"defname": "K4G_Gun_LongGun"
+	},
+	{
+		"abr": "outlanderhelmet",
+		"price": 188,
+		"category": "Headgear",
+		"defname": "K4G_Apparel_OutlanderHelmet"
+	},
+	{
+		"abr": "overcoat",
+		"price": 315,
+		"category": "Misc",
+		"defname": "K4G_Apparel_Overcoat"
+	},
+	{
+		"abr": "prestigeadvancedflakvest",
+		"price": 967,
+		"category": "Armor",
+		"defname": "K4G_Apparel_PrestigeAdvancedFlakVest"
+	},
+	{
+		"abr": "prestigeimperialhelmet",
+		"price": 358,
+		"category": "Headgear",
+		"defname": "K4G_Apparel_PrestigeImperialHelmet"
+	},
+	{
+		"abr": "prestigelegionaryhelmet",
+		"price": 617,
+		"category": "Headgear",
+		"defname": "K4G_Apparel_PrestigeLegionaryHelmet"
+	},
+	{
+		"abr": "royalkidkimono",
+		"price": 135,
+		"category": "Misc",
+		"defname": "K4G_Apparel_RoyalKidKimono"
+	},
+	{
+		"abr": "royalkimono",
+		"price": 253,
+		"category": "Misc",
+		"defname": "K4G_Apparel_RoyalKimono"
+	},
+	{
+		"abr": "sabre",
+		"price": 367,
+		"category": "Melee weapons",
+		"defname": "K4G_MeleeWeapon_Sabre"
+	},
+	{
+		"abr": "snubgun",
+		"price": 154,
+		"category": "Ranged weapons",
+		"defname": "K4G_Gun_Snubgun"
+	},
+	{
+		"abr": "absolverarmor",
+		"price": 5333,
+		"category": "Armor",
+		"defname": "VFEE_Apparel_ArmorAbsolver"
+	},
+	{
+		"abr": "absolverhelmet",
+		"price": 2000,
+		"category": "Headgear",
+		"defname": "VFEE_Apparel_AbsolverHelmet"
+	},
+	{
+		"abr": "aperitif",
+		"price": 27,
+		"category": "Drugs",
+		"defname": "VFEE_Aperitif"
+	},
+	{
+		"abr": "candelabra",
+		"price": 169,
+		"category": "Furniture",
+		"defname": "VFEE_Candelabra"
+	},
+	{
+		"abr": "chargethumper",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "VFEE_Gun_ChargeThumper"
+	},
+	{
+		"abr": "deserterarmor",
+		"price": 6883,
+		"category": "Armor",
+		"defname": "VFEE_Apparel_ArmorDeserter"
+	},
+	{
+		"abr": "deserterhelmet",
+		"price": 1267,
+		"category": "Headgear",
+		"defname": "VFEE_Apparel_DeserterHelmet"
+	},
+	{
+		"abr": "fletcher",
+		"price": 4583,
+		"category": "Ranged weapons",
+		"defname": "VEE_Gun_Fletcher"
+	},
+	{
+		"abr": "grandchair",
+		"price": 392,
+		"category": "Furniture",
+		"defname": "VFEE_GrandChair"
+	},
+	{
+		"abr": "grandimperialsculpture",
+		"price": 1967,
+		"category": "Art",
+		"defname": "VFEE_RoyalSculptureGrand"
+	},
+	{
+		"abr": "grandroyalrug",
+		"price": 525,
+		"category": "Furniture",
+		"defname": "VFEE_GrandRoyalRug"
+	},
+	{
+		"abr": "grandtable",
+		"price": 1133,
+		"category": "Furniture",
+		"defname": "VFEE_GrandTable"
+	},
+	{
+		"abr": "imperialbanner",
+		"price": 306,
+		"category": "Furniture",
+		"defname": "VFEE_ImperialBanner"
+	},
+	{
+		"abr": "imperialslab",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "VFEE_ImperialSlab"
+	},
+	{
+		"abr": "janissarycuirass",
+		"price": 2567,
+		"category": "Armor",
+		"defname": "VFEE_Apparel_JanissaryCuirass"
+	},
+	{
+		"abr": "janissaryhelmet",
+		"price": 1075,
+		"category": "Headgear",
+		"defname": "VFEE_Apparel_JanissaryHelmet"
+	},
+	{
+		"abr": "largeimperialsculpture",
+		"price": 517,
+		"category": "Art",
+		"defname": "VFEE_RoyalSculptureLarge"
+	},
+	{
+		"abr": "largeroyalrug",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "VFEE_LargeRoyalRug"
+	},
+	{
+		"abr": "organ",
+		"price": 2167,
+		"category": "Recreation",
+		"defname": "VFEE_PipeOrgan"
+	},
+	{
+		"abr": "personatoxblade",
+		"price": 3333,
+		"category": "Persona weapons",
+		"defname": "VFEE_MeleeWeapon_ToxbladeBladelink"
+	},
+	{
+		"abr": "royalmirror",
+		"price": 230,
+		"category": "Furniture",
+		"defname": "VFEE_RoyalMirror"
+	},
+	{
+		"abr": "royalstool",
+		"price": 433,
+		"category": "Furniture",
+		"defname": "VFEE_RoyalStool"
+	},
+	{
+		"abr": "smallimperialsculpture",
+		"price": 275,
+		"category": "Art",
+		"defname": "VFEE_RoyalSculptureSmall"
+	},
+	{
+		"abr": "stellicmeditationthrone",
+		"price": 5542,
+		"category": "Furniture",
+		"defname": "VFEE_StellicThrone"
+	},
+	{
+		"abr": "stellicrobe",
+		"price": 583,
+		"category": "Noble apparel",
+		"defname": "VFE_Apparel_StellicRobe"
+	},
+	{
+		"abr": "techfriarcrown",
+		"price": 67,
+		"category": "Headgear",
+		"defname": "VFEE_Apparel_TechfriarCrown"
+	},
+	{
+		"abr": "toxblade",
+		"price": 3000,
+		"category": "Melee weapons",
+		"defname": "VFEE_MeleeWeapon_Toxblade"
+	},
 	],
-	"total": 3374
+	"total": 3464
 }

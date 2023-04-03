@@ -168,12 +168,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Furniture Expanded - Props and Decor",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki, Trunken and XeoNovaDan",
     "name": "Vanilla Furniture Expanded - Security",
     "steamId": "1845154007",
@@ -190,6 +184,30 @@
     "name": "Vanilla Psycasts Expanded",
     "steamId": "2842502659",
     "version": "1.1.0.0"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "10.0.1"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Cooking Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "The Pawnmorpher Team",
+    "name": "Pawnmorpher",
+    "steamId": "1786466855",
+    "version": "1.12.2"
   },
   {
     "author": "Sarg Bjornson and AFriend",
@@ -218,12 +236,6 @@
   {
     "author": "Oskar Potocki and Sarg Bjornson",
     "name": "Vanilla Ideology Expanded - Icons and Symbols",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Cooking Expanded",
     "steamId": null,
     "version": null
   },
@@ -330,12 +342,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and XeoNovaDan",
-    "name": "Vanilla Hair Expanded",
-    "steamId": "1888705256",
-    "version": "1.0.3"
-  },
-  {
     "author": "Oskar Potocki, Sarg Bjornson, erdelf, Roolo, Smash Phil, Taranchuk, xrushha, Kikohi and legodude17",
     "name": "Vanilla Factions Expanded - Pirates",
     "steamId": "2723801948",
@@ -364,12 +370,6 @@
     "name": "Vanilla Animals Expanded — Royal Animals",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "HugsLib",
-    "steamId": "818773962",
-    "version": "10.0.1"
   },
   {
     "author": "jecrell and contributors",
@@ -666,18 +666,6 @@
     "version": null
   },
   {
-    "author": "Rooboid",
-    "name": "Roo's Minotaur Xenotype",
-    "steamId": "2927812651",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Rooboid",
-    "name": "Roo's Minotaur Xenotype Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "GrillMaster",
     "name": "More xenotypes and multicultural factions",
     "steamId": null,
@@ -702,12 +690,6 @@
     "version": null
   },
   {
-    "author": "miyamiya and twsta",
-    "name": "Compressed Raid",
-    "steamId": "2927368319",
-    "version": "1.4"
-  },
-  {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
     "name": "Vanilla Brewing Expanded",
     "steamId": null,
@@ -730,12 +712,6 @@
     "name": "[AP] Slaveholding",
     "steamId": "2928105773",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Udon",
-    "name": "Mass Lovin'",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "void",
@@ -764,12 +740,6 @@
   {
     "author": "ZombieZilla",
     "name": "Show Fertility on Health Tab",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "obama",
-    "name": "Accepted Hybrids",
     "steamId": null,
     "version": null
   },
@@ -972,12 +942,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "udong123",
-    "name": "Better parenting (Biotech)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Pizzacat OttersHoldHands iforgotmysocks AobaKuma",
     "name": "Villages:Homes",
     "steamId": "2941977041",
@@ -1122,12 +1086,6 @@
     "version": null
   },
   {
-    "author": "Aamu Lumi",
-    "name": "Diary",
-    "steamId": "2888141826",
-    "version": "1.1.2"
-  },
-  {
     "author": "SirMashedPotato",
     "name": "MorrowRim - Adamantium",
     "steamId": null,
@@ -1188,38 +1146,8 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "姬酱",
-    "name": "Anime BGM",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Hahkethomemah",
-    "name": "Personalities: Anime Romance",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "r3yph",
-    "name": "Anime Ideology",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Erin and AveryTheKitty",
-    "name": "Erin's Japanese Furniture",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Erin and Helixien",
     "name": "Erin's Japanese Cuisine",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Conner",
-    "name": "Rimworld Ultratech",
     "steamId": null,
     "version": null
   },
@@ -1252,6 +1180,12 @@
     "name": "Free Will",
     "steamId": "2580837227",
     "version": "0.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, legodude17 and Allie",
+    "name": "Vanilla Factions Expanded - Empire",
+    "steamId": "2938820380",
+    "version": "1.0.0.0"
   },
   {
     "author": "Helixien",
@@ -1294,12 +1228,6 @@
     "name": "Advanced Biomes (Continued)",
     "steamId": "2052116426",
     "version": "1.4.3"
-  },
-  {
-    "author": "TwoPenny",
-    "name": "Portraits of the Rim",
-    "steamId": "2937991425",
-    "version": "1.0.0.0"
   },
   {
     "author": "Rachel and yo",
@@ -1384,5 +1312,221 @@
     "name": "Yayo's Caravan (Continued)",
     "steamId": "2886919774",
     "version": "1.4.2"
+  },
+  {
+    "author": "Polios",
+    "name": "UltimateRaids",
+    "steamId": "2364717003",
+    "version": "1.0.7162.14026"
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "民火",
+    "name": "Where is my weapon?",
+    "steamId": "1539028008",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Lennoxicon",
+    "name": "Biotech Expansion - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lennoxicon",
+    "name": "Biotech Expansion - Mammalia",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Morphium",
+    "name": "Morphs Assorted Biotech Retex",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Horrors (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Xedos",
+    "name": "Psysword",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lusty",
+    "name": "Helltaker Cosmetic Genes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Wemd",
+    "name": "[WD] Realistic Darkness",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PatchuRagi",
+    "name": "Arknights Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ChaosDeadeye",
+    "name": "AT music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Beto",
+    "name": "Elden Ring Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JI_Won",
+    "name": "Won hair_women ",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JI_Won",
+    "name": "Won hair_men",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitRaids",
+    "steamId": "2091359241",
+    "version": "1.0.5.0"
+  },
+  {
+    "author": "Raptor Ex Seven",
+    "name": "The Elder Scrolls V Skyrim Soundtrack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Worldo",
+    "name": "Storyteller Worldo",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "m0ek",
+    "name": "No Vanilla Hair",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sleepy Rachel",
+    "name": "NieR: Automata Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "IceScarecrow",
+    "name": "Music Expanded: Darkest Dungeon - only music version",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirMashedPotato",
+    "name": "MorrowRim",
+    "steamId": "2443089362",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SirMashedPotato",
+    "name": "MorrowRim - Biomes Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirMashedPotato",
+    "name": "MorrowRim - Ashlander Xenotype",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Cooking Expanded - Stews",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "TheLastBulletBender",
+    "name": "Rimworld Exploration Mode",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Pyrce",
+    "name": "Dire Raids",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "kentrh",
+    "name": "Dungeons Core (Continued)",
+    "steamId": "2937127169",
+    "version": "1.4.1"
+  },
+  {
+    "author": "AlleyBalley",
+    "name": "[AB] Xenotype: Pillux",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dopwop",
+    "name": "[DW] Simple Elves",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dopwop",
+    "name": "[DW] Simple Dwarves",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Peppsen",
+    "name": "P-Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "none",
+    "name": "[CAT] Show Hair With Hats or Hide All Hats",
+    "steamId": "2879080074",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Evan",
+    "name": "Allow Consensual Incest",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Holgast",
+    "name": "Dragon Genetics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Moonjelly Race (Continued)",
+    "steamId": null,
+    "version": null
   }
 ]
