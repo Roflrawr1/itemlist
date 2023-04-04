@@ -1528,5 +1528,35 @@
     "name": "Moonjelly Race (Continued)",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "BotchJob",
+    "name": "Medieval Fantasy Themed Quest Rewards",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Runne Latki",
+    "name": "Rabbie The Moonrabbit race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "sunny",
+    "name": "Rabbie The Moonrabbit - English Patch (1.4)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "3HST Limited",
+    "name": "Bill Doors' Framework",
+    "steamId": "2897160312",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "3HST Limited",
+    "name": "Bill Doors' Plasma Weapons",
+    "steamId": "2937054043",
+    "version": "1.0.0.0"
   }
 ]

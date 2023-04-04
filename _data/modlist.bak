@@ -1152,12 +1152,6 @@
     "version": null
   },
   {
-    "author": "Conner",
-    "name": "Rimworld Ultratech",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Side1iner",
     "name": "Ultratech Weapons Plus",
     "steamId": null,
@@ -1532,6 +1526,24 @@
   {
     "author": "Zaljerem",
     "name": "Moonjelly Race (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BotchJob",
+    "name": "Medieval Fantasy Themed Quest Rewards",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Runne Latki",
+    "name": "Rabbie The Moonrabbit race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "sunny",
+    "name": "Rabbie The Moonrabbit - English Patch (1.4)",
     "steamId": null,
     "version": null
   }
