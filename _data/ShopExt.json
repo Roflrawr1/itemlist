@@ -16412,13 +16412,13 @@
           "+70% global learning factor"
         ],
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Autism Spectrum Continued [1.0+]",
         "karmaTypeForAdding": null
       },
       "defName": "Aspergers",
-      "name": "autism"
+      "name": "autism1"
     },
     {
       "canAdd": true,
@@ -16444,13 +16444,13 @@
           "+70% global learning factor"
         ],
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Autism Spectrum Continued [1.0+]",
         "karmaTypeForAdding": null
       },
       "defName": "Aspergers",
-      "name": "autism"
+      "name": "autism2"
     },
     {
       "canAdd": true,
@@ -16476,13 +16476,13 @@
           "+70% global learning factor"
         ],
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Autism Spectrum Continued [1.0+]",
         "karmaTypeForAdding": null
       },
       "defName": "Aspergers",
-      "name": "autism"
+      "name": "autism3"
     },
     {
       "canAdd": true,
@@ -16510,13 +16510,13 @@
           "+70% global learning factor"
         ],
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Autism Spectrum Continued [1.0+]",
         "karmaTypeForAdding": null
       },
       "defName": "Aspergers",
-      "name": "autism"
+      "name": "autism4"
     },
     {
       "canAdd": true,
@@ -16873,7 +16873,7 @@
       "defName": "Yuran_Race",
       "enabled": true,
       "name": "Yuran",
-      "price": 2000
+      "price": 1500
     },
     {
       "data": {
@@ -16930,9 +16930,9 @@
       },
       "description": "Miko serves and manages the village as a kind of duty for Yuran belonging to a family of special lineage.",
       "defName": "Yuran_Race_Miko",
-      "enabled": true,
+      "enabled": false,
       "name": "Yuran Miko",
-      "price": 4667
+      "price": 1500
     },
     {
       "data": {
@@ -16965,7 +16965,7 @@
       "defName": "HAR_Idhale",
       "enabled": true,
       "name": "idhale",
-      "price": 4167
+      "price": 5000
     }
   ]
 }

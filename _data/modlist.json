@@ -1458,12 +1458,6 @@
     "version": null
   },
   {
-    "author": "TheLastBulletBender",
-    "name": "Rimworld Exploration Mode",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Pyrce",
     "name": "Dire Raids",
     "steamId": null,
@@ -1674,12 +1668,6 @@
     "version": null
   },
   {
-    "author": "m00nl1ght",
-    "name": "Map Preview",
-    "steamId": "2800857642",
-    "version": "1.12.4.0"
-  },
-  {
     "author": "Roolo and Updated by Ogliss",
     "name": "RunAndGun",
     "steamId": null,
@@ -1750,5 +1738,29 @@
     "name": "[LTO] Colony Groups",
     "steamId": "2345493945",
     "version": "1.0.06"
+  },
+  {
+    "author": "Iceman Studios",
+    "name": "Body Parts Textures",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "iFlash",
+    "name": "Clean Textures",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CopperMonster",
+    "name": "[CM] Ideology DLC Texture Upscale",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lennoxicon",
+    "name": "Biotech Expansion - Mythic",
+    "steamId": null,
+    "version": null
   }
 ]

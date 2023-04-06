@@ -668,7 +668,7 @@
 	},
 	{
 		"abr": "resurrectormechserum",
-		"price": 2850,
+		"price": -10,
 		"category": "Misc",
 		"defname": "MechSerumResurrector"
 	},
@@ -17420,7 +17420,7 @@
 	},
 	{
 		"abr": "serum:supersoldier",
-		"price": 5725,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "BookOfSuperSoldier"
 	},
@@ -21080,7 +21080,7 @@
 	},
 	{
 		"abr": "mutagenichealermechserum",
-		"price": -10,
+		"price": 2167,
 		"category": "Items",
 		"defname": "MechSerumMutagenicHealer"
 	},
@@ -22790,13 +22790,13 @@
 	},
 	{
 		"abr": "mutaserum,exotic",
-		"price": 200,
+		"price": -10,
 		"category": "Serums",
 		"defname": "RandomExoticTransformer"
 	},
 	{
 		"abr": "mutaserum,simian",
-		"price": 200,
+		"price": -10,
 		"category": "Serums",
 		"defname": "RandomSimianTransformer"
 	},
@@ -23570,7 +23570,7 @@
 	},
 	{
 		"abr": "horan",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Horan"
 	},
@@ -23600,7 +23600,7 @@
 	},
 	{
 		"abr": "horanspirit",
-		"price": 8333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Horan_Spirit"
 	},
@@ -24206,7 +24206,7 @@
 	},
 	{
 		"abr": "idhale",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "HAR_Idhale"
 	},
@@ -24368,7 +24368,7 @@
 	},
 	{
 		"abr": "yuran",
-		"price": 2000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Yuran_Race"
 	},
@@ -24572,7 +24572,7 @@
 	},
 	{
 		"abr": "yuranmiko",
-		"price": 4667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Yuran_Race_Miko"
 	},
@@ -24665,7 +24665,85 @@
 		"price": 383,
 		"category": "Ranged weapons",
 		"defname": "YR_WP_Spear"
-	}
+	},
+	{
+		"abr": "yuranstaff",
+		"price": 263,
+		"category": "Ranged weapons",
+		"defname": "YR_WP_Staff"
+	},
+	{
+		"abr": "yuranstaff(bondage)",
+		"price": 263,
+		"category": "Ranged weapons",
+		"defname": "YR_WP_StaffB"
+	},
+	{
+		"abr": "yuranstaff(cooldown)",
+		"price": 263,
+		"category": "Ranged weapons",
+		"defname": "YR_WP_Staff_Cooldown"
+	},
+	{
+		"abr": "yuranstaff(disturbing)",
+		"price": 263,
+		"category": "Ranged weapons",
+		"defname": "YR_WP_StaffC"
+	},
+	{
+		"abr": "yurantalismanoftheearth",
+		"price": 270,
+		"category": "Yuran Apparel",
+		"defname": "YR_AP_Sharp"
+	},
+	{
+		"abr": "yurantalismanoftheforest",
+		"price": 270,
+		"category": "Yuran Apparel",
+		"defname": "YR_AP_Blunt"
+	},
+	{
+		"abr": "yurantalismanofwater",
+		"price": 270,
+		"category": "Yuran Apparel",
+		"defname": "YR_AP_Heat"
+	},
+	{
+		"abr": "yuranthorncorolla",
+		"price": 1333,
+		"category": "Yuran hat",
+		"defname": "YR_AP_Flower_AddonB"
+	},
+	{
+		"abr": "yuranunmu",
+		"price": 203,
+		"category": "Yuran Apparel",
+		"defname": "YR_AP_WhiteSeeCape"
+	},
+	{
+		"abr": "yuranwhitedressbox",
+		"price": 3667,
+		"category": "Manufactured",
+		"defname": "YR_ClothBox_AddonWhite"
+	},
+	{
+		"abr": "yuranwhitedressforornaments",
+		"price": 1833,
+		"category": "Yuran Apparel",
+		"defname": "YR_AP_Addon_WhiteDress"
+	},
+	{
+		"abr": "yuranyeonmu",
+		"price": 136,
+		"category": "Yuran Apparel",
+		"defname": "YR_AP_Child"
+	},
+	{
+		"abr": "zebramorph",
+		"price": 1958,
+		"category": "Animal",
+		"defname": "PME_ZebraMorphRace_Implied"
+	},
 	],
-	"total": 4124
+	"total": 4152
 }

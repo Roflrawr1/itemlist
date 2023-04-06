@@ -186,6 +186,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Roo",
+    "name": "Yuran race",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -1718,6 +1724,48 @@
   {
     "author": "peytonshow",
     "name": "[M.W]Super Machine Pistol",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ayameduki",
+    "name": "[1.4]Idhale Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "WRelicK",
+    "name": "WRelicK's English Ayameduki Race Translations - Chaoura, Idearn, Idhale, Littluna, Nearmare, Neclose, Nexaga, QL, SL, SK, SA, XO",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Foxy",
+    "name": "Really Custom Portraits",
+    "steamId": "2956572955",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "DerekBickley",
+    "name": "[LTO] Colony Groups",
+    "steamId": "2345493945",
+    "version": "1.0.06"
+  },
+  {
+    "author": "Iceman Studios",
+    "name": "Body Parts Textures",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "iFlash",
+    "name": "Clean Textures",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CopperMonster",
+    "name": "[CM] Ideology DLC Texture Upscale",
     "steamId": null,
     "version": null
   }
