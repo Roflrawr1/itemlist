@@ -18,12 +18,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki and Smash Phil",
-    "name": "Vanilla Achievements Expanded",
-    "steamId": "2288125657",
-    "version": "1.4.8315.17730"
-  },
-  {
     "author": "Oskar Potocki, Trunken and Sarg Bjornson",
     "name": "Vanilla Weapons Expanded",
     "steamId": null,
@@ -68,8 +62,8 @@
   {
     "author": "Oskar Potocki and Trunken",
     "name": "Vanilla Apparel Expanded",
-    "steamId": null,
-    "version": null
+    "steamId": "1814987817",
+    "version": "1.2.0"
   },
   {
     "author": "Oskar Potocki, Kikohi and Helixien",
@@ -1176,12 +1170,6 @@
     "version": null
   },
   {
-    "author": "Paul Freeman",
-    "name": "Free Will",
-    "steamId": "2580837227",
-    "version": "0.0.0.0"
-  },
-  {
     "author": "Oskar Potocki, xrushha, legodude17 and Allie",
     "name": "Vanilla Factions Expanded - Empire",
     "steamId": "2938820380",
@@ -1482,6 +1470,18 @@
     "version": "1.4.1"
   },
   {
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Systems",
+    "steamId": "2812826451",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Xenotech",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "AlleyBalley",
     "name": "[AB] Xenotype: Pillux",
     "steamId": null,
@@ -1544,6 +1544,180 @@
   {
     "author": "sunny",
     "name": "Rabbie The Moonrabbit - English Patch (1.4)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "3HST Limited",
+    "name": "Bill Doors' Framework",
+    "steamId": "2897160312",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "3HST Limited",
+    "name": "Bill Doors' Plasma Weapons",
+    "steamId": "2937054043",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Danimineiro",
+    "name": "[DN] Bundle Of Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dineful and Blazerik",
+    "name": "Dinefuls Counter Genes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Velc",
+    "name": "Trap Disable",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Darkborderman",
+    "name": "More Genes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Takel",
+    "name": "Pawnmorpher Transhumanist",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "The Pawnmorpher Team",
+    "name": "Pawnmorpher: VAE",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Tory",
+    "name": "Pawnmorpher Demuzzled",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "GoldenLumia and Beast(Original)",
+    "name": "Ultimate Storyteller (1.4)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Arekan",
+    "name": "Enhanced Combat Sounds",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Harkon",
+    "name": "HALO - UNSC Faction",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Random88",
+    "name": "Oblivion Storyteller",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "GoldenLumia and VPE Team",
+    "name": "Ultimate Storyteller (1.4) - Basilicus Patch (Reupload)",
+    "steamId": "2929279636",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "O Negative",
+    "name": "Halo - Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Geek",
+    "name": "Geeks Weapon Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Carny Senpai",
+    "name": "Enable Oversized Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PrinceOfPluto",
+    "name": "SRTS Trains",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "troopersmith1 - P-90-For-Retail",
+    "name": "Autism Spectrum Continued [1.0+]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PickSungYi",
+    "name": "Horan, The tiny tiger race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "m00nl1ght",
+    "name": "Map Preview",
+    "steamId": "2800857642",
+    "version": "1.12.4.0"
+  },
+  {
+    "author": "Roolo and Updated by Ogliss",
+    "name": "RunAndGun",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "amaoto",
+    "name": "Strain Tactics - Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Issac Zhuang",
+    "name": "Muzzle Flash",
+    "steamId": "2917732219",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Aoi_nasuko",
+    "name": "Forrepey GeneRace",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "zed_0xff",
+    "name": "Force Xenogerm Implantation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Benny Worm",
+    "name": "Filox Xenotype",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "peytonshow",
+    "name": "[M.W]Machine God's Blaster",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "peytonshow",
+    "name": "[M.W]Super Machine Pistol",
     "steamId": null,
     "version": null
   }

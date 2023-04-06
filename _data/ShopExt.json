@@ -15425,6 +15425,1162 @@
       },
       "defName": "BulliedHeart",
       "name": "bulliedheart"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy hates everyone equally.",
+      "stats": [],
+      "conflicts": [
+        "misandrist",
+        "misogynist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "misandrist",
+          "misogynist"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BOT_Misanthrope",
+      "name": "misanthrope"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy was born without a sense of taste and cannot enjoy food.",
+      "stats": [],
+      "conflicts": [
+        "gourmand",
+        "eclecticpalate",
+        "entomophagous",
+        "refinedpalate",
+        "gastronomist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "gourmand",
+          "eclecticpalate",
+          "entomophagous",
+          "refinedpalate",
+          "gastronomist"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BOT_Dysgeusia",
+      "name": "dysgeuisia"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy loves to eat food with a variety of ingredients but will be upset over bland food.",
+      "stats": [
+        "+2 cooking"
+      ],
+      "conflicts": [
+        "ascetic",
+        "dysgeuisia"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "ascetic",
+          "dysgeuisia"
+        ],
+        "stats": [
+          "+2 cooking"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BOT_Eclectic_Palate",
+      "name": "eclecticpalate"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy hates violence and wouldn't hurt a fly. They'll get upset if forced to do so.",
+      "stats": [
+        "Social fighting mental state disabled.",
+        "Berserk mental state disabled.",
+        "Slaughterer mental state disabled.",
+        "Murderous rage mental state disabled.",
+        "Sadistic rage mental state disabled.",
+        "Insulting spree mental state disabled.",
+        "Insulting spree mental state disabled."
+      ],
+      "conflicts": [
+        "bloodlust",
+        "psychopath",
+        "brawler",
+        "sadist",
+        "vengeful",
+        "madsurgeon"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "bloodlust",
+          "psychopath",
+          "brawler",
+          "sadist",
+          "vengeful",
+          "madsurgeon"
+        ],
+        "stats": [
+          "Social fighting mental state disabled.",
+          "Berserk mental state disabled.",
+          "Slaughterer mental state disabled.",
+          "Murderous rage mental state disabled.",
+          "Sadistic rage mental state disabled.",
+          "Insulting spree mental state disabled.",
+          "Insulting spree mental state disabled."
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BOT_Pacifist",
+      "name": "pacifist"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy suffers from a neurological disorder that makes he prone to randomly fall alseep anywhere.",
+      "stats": [],
+      "conflicts": [
+        "lovessleeping",
+        "insomniac"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "lovessleeping",
+          "insomniac"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BOT_Narcoleptic",
+      "name": "narcoleptic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is irrationally afraid of fire and will flee the scene if not drafted. he hates getting burns.",
+      "stats": [],
+      "conflicts": [
+        "pyromaniac"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "pyromaniac"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BOT_Pyrophobia",
+      "name": "pyrophobia"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is afraid of the dark. They'll will be extra unhappy when in darkness and has trouble sleeping without light.",
+      "stats": [],
+      "conflicts": [
+        "undergrounder",
+        "nightowl"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "undergrounder",
+          "nightowl"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BOT_Nyctophobia",
+      "name": "nyctophobia"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy loves to sleep in and will gladly ignore their schedule if it means they can lie in bed and sleep some more. ",
+      "stats": [],
+      "conflicts": [
+        "quicksleeper",
+        "insomniac"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "quicksleeper",
+          "insomniac"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BOT_Sleepyhead",
+      "name": "sleepyhead"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy always feels good after a good night's sleep.",
+      "stats": [],
+      "conflicts": [
+        "narcoleptic",
+        "insomniac"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "narcoleptic",
+          "insomniac"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BOT_Loves_Sleeping",
+      "name": "lovessleeping"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy was born with a strong, healthy body. They can carry more, mine faster, deal more damage in melee combat and take reduced damage from attacks.",
+      "stats": [
+        "+2 melee",
+        "+2 mining",
+        "+25 carrying capacity",
+        "-15% incoming damage multiplier",
+        "+15% immunity gain speed",
+        "+20% pain shock threshold",
+        "x120% mining speed"
+      ],
+      "conflicts": [
+        "poorconstitution",
+        "wimp"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "poorconstitution",
+          "wimp"
+        ],
+        "stats": [
+          "+2 melee",
+          "+2 mining",
+          "+25 carrying capacity",
+          "-15% incoming damage multiplier",
+          "+15% immunity gain speed",
+          "+20% pain shock threshold",
+          "x120% mining speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BOT_StrongBody",
+      "name": "goodconstitution"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy was unfortunately born with a weak, feeble body. They cannot carry as much as everyone else, mine slower, deal less damage in melee and take increased damage from attacks.",
+      "stats": [
+        "-2 melee",
+        "-2 mining",
+        "-25 carrying capacity",
+        "+15% incoming damage multiplier",
+        "-15% immunity gain speed",
+        "-20% pain shock threshold",
+        "x80% mining speed"
+      ],
+      "conflicts": [
+        "goodconstitution",
+        "tough",
+        "brawler"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "goodconstitution",
+          "tough",
+          "brawler"
+        ],
+        "stats": [
+          "-2 melee",
+          "-2 mining",
+          "-25 carrying capacity",
+          "+15% incoming damage multiplier",
+          "-15% immunity gain speed",
+          "-20% pain shock threshold",
+          "x80% mining speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BOT_WeakBody",
+      "name": "poorconstitution"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has no goals in life. No dreams, motivation or passions. It's going to take a lot to break what is left of them.",
+      "stats": [
+        "-24% mental break threshold"
+      ],
+      "conflicts": [
+        "iron-willed",
+        "steadfast",
+        "nervous",
+        "volatile",
+        "torturedartist",
+        "sanguine",
+        "optimist",
+        "pessimist",
+        "depressive",
+        "moody",
+        "anxious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "iron-willed",
+          "steadfast",
+          "nervous",
+          "volatile",
+          "torturedartist",
+          "sanguine",
+          "optimist",
+          "pessimist",
+          "depressive",
+          "moody",
+          "anxious"
+        ],
+        "stats": [
+          "-24% mental break threshold"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BOT_Apathetic",
+      "name": "apathetic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has an intense fear of insects and will not hesitate to run away upon spotting one.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BOT_Entomophobia",
+      "name": "entomophobia"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Having had easy access to insect meat during most of their life Timmy became accustomed to eating it to the point that he preferred it over normal meat.",
+      "stats": [],
+      "conflicts": [
+        "cannibal",
+        "dysgeuisia"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "cannibal",
+          "dysgeuisia"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BOT_Entomophagous",
+      "name": "entomophagous"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy loves the company of others. The more, the merrier.",
+      "stats": [],
+      "conflicts": [
+        "psychopath",
+        "anxious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "psychopath",
+          "anxious"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BOT_Gregarious",
+      "name": "gregarious"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy loves the rain. he doesn't mind being wet and gets happy during rainy weather.",
+      "stats": [],
+      "conflicts": [
+        "chionophile"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "chionophile"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BOT_Pluviophile",
+      "name": "pluviophile"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "There's nothing Timmy loves more than snow! No amount of snow is going to slow them down.",
+      "stats": [],
+      "conflicts": [
+        "pluviophile",
+        "thermophile",
+        "cryophile"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "pluviophile",
+          "thermophile",
+          "cryophile"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BOT_Chionophile",
+      "name": "chionophile"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "It doesn't take much to make Timmy either really excited or to bring his mood completely down.",
+      "stats": [],
+      "conflicts": [
+        "torturedartist",
+        "sanguine",
+        "optimist",
+        "pessimist",
+        "depressive",
+        "apathetic"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "torturedartist",
+          "sanguine",
+          "optimist",
+          "pessimist",
+          "depressive",
+          "apathetic"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BOT_Moody",
+      "name": "moody"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy prefers to wake up early in the day to get as much work done as possible during the day.\n\nhe gets a mood boost if awake during the early hours of a day (5h-12h) and mood loss if awake during the evening (17h-0h).",
+      "stats": [],
+      "conflicts": [
+        "nightowl"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "nightowl"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BOT_EarlyBird",
+      "name": "earlybird"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has grown accustomed to a tightly nit colony and loves sleeping in barracks. Preferably with many other pawns.",
+      "stats": [],
+      "conflicts": [
+        "jealous",
+        "greedy",
+        "anxious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "jealous",
+          "greedy",
+          "anxious"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BOT_Communal",
+      "name": "communal"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy likes seeing other pawns suffer and gets excited from causing damage.",
+      "stats": [
+        "+1 melee",
+        "+1 shooting"
+      ],
+      "conflicts": [
+        "pacifist",
+        "kind"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "pacifist",
+          "kind"
+        ],
+        "stats": [
+          "+1 melee",
+          "+1 shooting"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BOT_Sadist",
+      "name": "sadist"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "For whatever purpose, Timmy has taught himself every swear word in the dictionary and uses this profane knowledge unconsciously in his day-to-day life.",
+      "stats": [
+        "-2 social"
+      ],
+      "conflicts": [
+        "kind",
+        "comedian",
+        "abrasive"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "kind",
+          "comedian",
+          "abrasive"
+        ],
+        "stats": [
+          "-2 social"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BOT_Vulgar",
+      "name": "vulgar"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy always tries to raise their fellow pawns' mood by telling jokes. Or try to, at least.",
+      "stats": [
+        "+2 social"
+      ],
+      "conflicts": [
+        "vulgar",
+        "abrasive"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "vulgar",
+          "abrasive"
+        ],
+        "stats": [
+          "+2 social"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BOT_Comedian",
+      "name": "comedian"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy hates being in confined spaces.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BOT_Claustrophobic",
+      "name": "claustrophobic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy was born without the ability to feel pain. he is unable to experience psychic phenomena as a side effect.",
+      "stats": [
+        "x-100% psychic sensitivity"
+      ],
+      "conflicts": [
+        "wimp",
+        "masochist",
+        "psychicallyhypersensitive",
+        "psychicallysensitive",
+        "psychicallydull",
+        "psychicallydeaf"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "wimp",
+          "masochist",
+          "psychicallyhypersensitive",
+          "psychicallysensitive",
+          "psychicallydull",
+          "psychicallydeaf"
+        ],
+        "stats": [
+          "x-100% psychic sensitivity"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BOT_CongenitalAnalgesia",
+      "name": "congenitalanalgesia"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy loves guns! Especially shooting them. If he hits or not isn't important.",
+      "stats": [
+        "-12.0 shooting accuracy",
+        "-80% aiming time"
+      ],
+      "conflicts": [
+        "brawler",
+        "carefulshooter",
+        "trigger-happy"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "brawler",
+          "carefulshooter",
+          "trigger-happy"
+        ],
+        "stats": [
+          "-12.0 shooting accuracy",
+          "-80% aiming time"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BOT_GunCrazy",
+      "name": "guncrazy"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy's body works at a faster rate than a normal person, letting them heal faster at the cost of getting hungry quicker. ",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BOT_Metabolism",
+      "name": "fastmetabolism"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy's body works at a slower rate than a normal person, healing much slower as a result. At least they don't eat as much.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BOT_Metabolism",
+      "name": "slowmetabolism"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy just loves the heat and won't suffer any negative thoughts related to being warm. he despises being cold, though.",
+      "stats": [
+        "+9.0F [5.0C] Maximum comfortable temperature"
+      ],
+      "conflicts": [
+        "heatinclined",
+        "coldinclined"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "heatinclined",
+          "coldinclined"
+        ],
+        "stats": [
+          "+9.0F [5.0C] Maximum comfortable temperature"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BOT_Temperature_Love",
+      "name": "thermophile"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy just loves the cold and won't suffer any negative thoughts related to being cold. he despises being warm, though.",
+      "stats": [
+        "-9.0F [-5.0C] Minimum comfortable temperature"
+      ],
+      "conflicts": [
+        "heatinclined",
+        "coldinclined"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "heatinclined",
+          "coldinclined"
+        ],
+        "stats": [
+          "-9.0F [-5.0C] Minimum comfortable temperature"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BOT_Temperature_Love",
+      "name": "cryophile"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is aneurotypical. he has difficulites socialising with people, is sensitive to overstimuli, and requires less sleep. Timmy enjoys sticking to what he knows best and is psychically immune.",
+      "stats": [
+        "+2 intellectual",
+        "-4 social",
+        "-100% psychic sensitivity",
+        "+8% mental break threshold",
+        "-8% pain shock threshold",
+        "+80% rest rate multiplier",
+        "+70% global learning factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 intellectual",
+          "-4 social",
+          "-100% psychic sensitivity",
+          "+8% mental break threshold",
+          "-8% pain shock threshold",
+          "+80% rest rate multiplier",
+          "+70% global learning factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Autism Spectrum Continued [1.0+]",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Aspergers",
+      "name": "autism"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy is aneurotypical. he has difficulites socialising with people and would rather work on their art skills. Timmy enjoys sticking to what he knows best and is psychically immune.",
+      "stats": [
+        "+6 artistic",
+        "-5 social",
+        "-100% psychic sensitivity",
+        "+70% global learning factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+6 artistic",
+          "-5 social",
+          "-100% psychic sensitivity",
+          "+70% global learning factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Autism Spectrum Continued [1.0+]",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Aspergers",
+      "name": "autism"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy is aneurotypical. he has difficulites socialising with people and is sensitive to overstimuli, he has overcome his social difficulites recently . Timmy enjoys sticking to what he knows best and is psychically immune.",
+      "stats": [
+        "+2 intellectual",
+        "+2 artistic",
+        "-100% psychic sensitivity",
+        "+70% global learning factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 intellectual",
+          "+2 artistic",
+          "-100% psychic sensitivity",
+          "+70% global learning factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Autism Spectrum Continued [1.0+]",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Aspergers",
+      "name": "autism"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 3,
+      "description": "Timmy is very aneurotypical. he has much difficulty socialising with people, is sensitive to overstimuli, and would rather spend all day making cowboy hats. Timmy enjoys sticking to what he knows best and is psychically immune.",
+      "stats": [
+        "+4 crafting",
+        "-7 social",
+        "-100% psychic sensitivity",
+        "+9% mental break threshold",
+        "+70% global learning factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 crafting",
+          "-7 social",
+          "-100% psychic sensitivity",
+          "+9% mental break threshold",
+          "+70% global learning factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Autism Spectrum Continued [1.0+]",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Aspergers",
+      "name": "autism"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Spirit Trait",
+      "stats": [
+        "+20000.0% Armor - Heat",
+        "-36.0F [-20.0C] Minimum comfortable temperature",
+        "+180000.0F [100000.0C] Maximum comfortable temperature",
+        "+1000000% toxic environment resistance",
+        "x200% global learning factor",
+        "x200% melee dodge chance",
+        "x1000 pain shock threshold",
+        "x150% move speed",
+        "x200% global work speed",
+        "x50% aiming time",
+        "x200% rest rate multiplier",
+        "x200% shooting accuracy",
+        "x200 immunity gain speed",
+        "x-200% flammability",
+        "x200% social impact",
+        "x100% tame animal chance",
+        "x100% train animal chance",
+        "x10 carrying capacity",
+        "x100 Armor - Heat",
+        "x0% toxic resistance"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+20000.0% Armor - Heat",
+          "-36.0F [-20.0C] Minimum comfortable temperature",
+          "+180000.0F [100000.0C] Maximum comfortable temperature",
+          "+1000000% toxic environment resistance",
+          "x200% global learning factor",
+          "x200% melee dodge chance",
+          "x1000 pain shock threshold",
+          "x150% move speed",
+          "x200% global work speed",
+          "x50% aiming time",
+          "x200% rest rate multiplier",
+          "x200% shooting accuracy",
+          "x200 immunity gain speed",
+          "x-200% flammability",
+          "x200% social impact",
+          "x100% tame animal chance",
+          "x100% train animal chance",
+          "x10 carrying capacity",
+          "x100 Armor - Heat",
+          "x0% toxic resistance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Horan, The tiny tiger race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Horan_Spirit_Trait",
+      "name": "spirit"
     }
   ],
   "races": [
@@ -15469,7 +16625,7 @@
       },
       "description": "A mysterious ambulatory corpse that bleeds when struck. These creatures seem to be fueled by primal energies, requiring neither sleep nor food.\nCommon to dungeons, scholars theorize them to be either the remains of those unfortunate enough to run afoul of a dungeon’s hazards—risen to defend what they once sought to claim for themselves—or the cursed remains of those who built these structures.\nA few skeletons can be found outside the dungeons they roam, either captured and converted into tireless and expendable warriors, or turned to more esoteric pursuits.",
       "defName": "DF_Skeleton",
-      "enabled": true,
+      "enabled": false,
       "name": "Ancient Skeleton",
       "price": 500
     },
@@ -15554,7 +16710,262 @@
       "defName": "Rabbie",
       "enabled": true,
       "name": "Rabbie",
-      "price": 3333
+      "price": 1500
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+55.00 Mass",
+          "+$2000 Market value",
+          "+75% Flammability",
+          "+6.72 Move speed",
+          "+24% Mental break threshold",
+          "+64.8F [36.0C] Maximum comfortable temperature",
+          "-9.0F [-5.0C] Minimum comfortable temperature",
+          "+150% Immunity gain speed",
+          "+140 Carrying capacity",
+          "+90 Meat amount",
+          "+40 Leather amount",
+          "+95% Pain shock threshold",
+          "+125% Psychic sensitivity",
+          "+5.0 Melee dodge chance",
+          "+1.0 Melee hit chance",
+          "+100% Aiming time",
+          "+1.5 Shooting accuracy",
+          "+90.00% Negotiation ability",
+          "+100% Sell price multiplier",
+          "+100.00% Social impact",
+          "+100% Mechanoid shredding efficiency",
+          "+100% Mechanoid shredding speed",
+          "+100% Smelting speed",
+          "+100% General labor speed",
+          "+125% Butchery efficiency",
+          "+200% Butchery speed",
+          "+100.00% Food poison chance",
+          "+0.9 Cooking speed",
+          "+100% Rest rate multiplier",
+          "+100% Plant work speed",
+          "+100% Research speed",
+          "+100% Medical tend quality",
+          "+80% Drug synthesis speed",
+          "+100% Medical surgery success chance",
+          "+75% Mining speed",
+          "+100% Mining yield",
+          "+75% Toxic environment resistance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "It is a race with the genes of tigers, which is not well known on the planet, but has long formed a busy system. It is characterized by its small physique, high attack ability, and very quick agility.",
+      "defName": "Horan",
+      "enabled": true,
+      "name": "Horan",
+      "price": 1500
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+55.00 Mass",
+          "+$5000 Market value",
+          "+75% Flammability",
+          "+8.40 Move speed",
+          "+24% Mental break threshold",
+          "+90.0F [50.0C] Maximum comfortable temperature",
+          "-18.0F [-10.0C] Minimum comfortable temperature",
+          "+188% Immunity gain speed",
+          "+175 Carrying capacity",
+          "+90 Meat amount",
+          "+40 Leather amount",
+          "+99% Pain shock threshold",
+          "+300% Psychic sensitivity",
+          "+10.0 Melee dodge chance",
+          "+1.3 Melee hit chance",
+          "+100% Aiming time",
+          "+1.9 Shooting accuracy",
+          "+112.50% Negotiation ability",
+          "+125% Sell price multiplier",
+          "+300.00% Social impact",
+          "+125% Mechanoid shredding efficiency",
+          "+125% Mechanoid shredding speed",
+          "+125% Smelting speed",
+          "+125% General labor speed",
+          "+156% Butchery efficiency",
+          "+250% Butchery speed",
+          "+75.00% Food poison chance",
+          "+1.1 Cooking speed",
+          "+125% Rest rate multiplier",
+          "+200% Plant work speed",
+          "+125% Research speed",
+          "+125% Medical tend quality",
+          "+100% Drug synthesis speed",
+          "+125% Medical surgery success chance",
+          "+94% Mining speed",
+          "+125% Mining yield",
+          "+100% Toxic environment resistance",
+          "+25.0% Armor - Sharp",
+          "+30.0% Armor - Blunt",
+          "+100.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "It is a race with the genes of tigers, which is not well known on the planet, but has long formed a busy system. It is characterized by its small physique, high attack ability, and very quick agility.",
+      "defName": "Horan_Spirit",
+      "enabled": false,
+      "name": "Horan Spirit",
+      "price": 8333
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+150% Flammability",
+          "+$1200 Market value",
+          "+4.70 Move speed",
+          "+45.0F [25.0C] Maximum comfortable temperature",
+          "-9.0F [-5.0C] Minimum comfortable temperature",
+          "+100% Rest rate multiplier",
+          "+100% Eating speed",
+          "+75 Carrying capacity",
+          "+35 Meat amount",
+          "+45 Leather amount",
+          "+75% Pain shock threshold",
+          "+100% Psychic sensitivity",
+          "+40% Mental break threshold",
+          "+50% Toxic resistance",
+          "+50% Toxic environment resistance",
+          "+1.2 Melee dodge chance",
+          "+1.0 Melee hit chance",
+          "+100% Aiming time",
+          "+1.0 Shooting accuracy",
+          "+115.00% Negotiation ability",
+          "+100% Sell price multiplier",
+          "+125.00% Social impact",
+          "+115.00% Trade price improvement",
+          "+100% Mechanoid shredding efficiency",
+          "+100% Mechanoid shredding speed",
+          "+100% Smelting speed",
+          "+100% General labor speed",
+          "+100% Construction speed",
+          "+100% Butchery efficiency",
+          "+100% Butchery speed",
+          "+110.00% Food poison chance",
+          "+1.3 Cooking speed",
+          "+125% Plant work speed",
+          "+100% Global learning factor",
+          "+100% Research speed",
+          "+100% Medical tend quality",
+          "+150% Drug synthesis speed",
+          "+100% Medical surgery success chance",
+          "+105% Immunity gain speed",
+          "+90% Mining speed",
+          "+110% Mining yield",
+          "+0.0% Armor - Blunt",
+          "+0.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Yuran is an Ain race with the appearance of a rabbit, and its origin is not known precisely.\nAs a minority race with a small population, there are genetic problems and males do not exist. It continues.\nCentering on the Miko with special abilities that are passed on through blood lineage, they live in a small village-sized village and have faith in the large cherry tree in their hometown.",
+      "defName": "Yuran_Race",
+      "enabled": true,
+      "name": "Yuran",
+      "price": 2000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+52.00 Mass",
+          "+150% Flammability",
+          "+$2800 Market value",
+          "+4.75 Move speed",
+          "+45.0F [25.0C] Maximum comfortable temperature",
+          "+18.0F [10.0C] Minimum comfortable temperature",
+          "+100% Rest rate multiplier",
+          "+100% Eating speed",
+          "+75 Carrying capacity",
+          "+5 Meat amount",
+          "+5 Leather amount",
+          "+80% Pain shock threshold",
+          "+135% Psychic sensitivity",
+          "+25% Mental break threshold",
+          "+100% Toxic resistance",
+          "+100% Toxic environment resistance",
+          "+1.2 Melee dodge chance",
+          "+1.0 Melee hit chance",
+          "+100% Aiming time",
+          "+1.0 Shooting accuracy",
+          "+125.00% Negotiation ability",
+          "+100% Sell price multiplier",
+          "+150.00% Social impact",
+          "+115.00% Trade price improvement",
+          "+100% Mechanoid shredding efficiency",
+          "+100% Mechanoid shredding speed",
+          "+100% Smelting speed",
+          "+100% General labor speed",
+          "+100% Construction speed",
+          "+100% Butchery efficiency",
+          "+100% Butchery speed",
+          "+110.00% Food poison chance",
+          "+1.0 Cooking speed",
+          "+125% Plant work speed",
+          "+100% Global learning factor",
+          "+100% Research speed",
+          "+120% Medical tend quality",
+          "+150% Drug synthesis speed",
+          "+100% Medical surgery success chance",
+          "+105% Immunity gain speed",
+          "+50% Mining speed",
+          "+100% Mining yield",
+          "+0.0% Armor - Blunt",
+          "+0.0% Armor - Sharp",
+          "+220.00% Conversion power"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Miko serves and manages the village as a kind of duty for Yuran belonging to a family of special lineage.",
+      "defName": "Yuran_Race_Miko",
+      "enabled": true,
+      "name": "Yuran Miko",
+      "price": 4667
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+$2500 Market value",
+          "+10.00 Move speed",
+          "+85.00 Mass",
+          "+0% Flammability",
+          "-54000.0F [-30000.0C] Minimum comfortable temperature",
+          "+54000.0F [30000.0C] Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+110% Research speed",
+          "+115% Mining speed",
+          "+100.00% Social impact",
+          "+200% Psychic sensitivity",
+          "+80% Immunity gain speed",
+          "+0% Incoming damage multiplier",
+          "+1000.0% Armor - Blunt",
+          "+1000.0% Armor - Sharp",
+          "+1000.0% Armor - Heat",
+          "+80% Pain shock threshold",
+          "+70% General labor speed",
+          "+10% Eating speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Spectral and incorporeal humanoids - the idhale. They are genetic siblings of the nearmare, apparently produced as a byproduct during the latter's creation. By nature, idhale tend to be pacifistic, sensitive and altruistic. However, they have difficulties viewing themselves as anything but potential slaves.\n\nThe idhale are, for most intents and purposes, ghosts. Physical attacks pass straight through their bodies, and temperature extremes cannot affect them. Unfortunately, the idhale themselves find it difficult to intentionally touch any physical thing. They thus struggle to perform ordinary tasks, and have special difficulty wielding weapons.\n\nIn the age of the artifician Creator, the idhale were primarily relegated to sentry duty and common labor. Though the idhale have since spread throughout known space, they maintain a low population. Most now live as the property of slave traders, idly waiting for new masters.",
+      "defName": "HAR_Idhale",
+      "enabled": true,
+      "name": "idhale",
+      "price": 4167
     }
   ]
 }
