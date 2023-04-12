@@ -216,6 +216,48 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "name": "Vanilla Weapons Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Quickdraw",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Laser",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Weapons Expanded - Heavy Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, AveryTheKitty and Taranchuk",
+    "name": "Vanilla Weapons Expanded - Coilguns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Luizi and xrushha",
+    "name": "Vanilla Weapons Expanded - Frontier",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and XeoNovaDan",
+    "name": "Vanilla Factions Expanded - Medieval",
+    "steamId": "2023513450",
+    "version": "1.0.5.0"
+  },
+  {
     "author": "Lennoxicon",
     "name": "Biotech Expansion - Mammalia",
     "steamId": null,
@@ -318,16 +360,16 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki and Neronix17",
+    "name": "Vanilla Races Expanded - Saurid",
+    "steamId": "2880990495",
+    "version": "1.0.8369.37080"
+  },
+  {
     "author": "WalterHawkwood",
     "name": "Facial Animations Xenotype Compatibility",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Neceros and Updated by marceline",
-    "name": "Faster Smoothing (1.4)",
-    "steamId": "2879128253",
-    "version": "1.0.0.0"
   },
   {
     "author": "AobaKuma",
@@ -450,12 +492,6 @@
     "version": null
   },
   {
-    "author": "Roolo and Updated by Ogliss",
-    "name": "RunAndGun",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Roolo",
     "name": "Search and Destroy",
     "steamId": null,
@@ -516,12 +552,6 @@
     "version": "1.0.0.1"
   },
   {
-    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
-    "name": "Vanilla Weapons Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki",
     "name": "Vanilla Weapons Expanded - Tribal",
     "steamId": null,
@@ -570,12 +600,6 @@
     "version": "1.4.2"
   },
   {
-    "author": "Hen",
-    "name": "Style Revised - Animalist",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "WexMan",
     "name": "Mines",
     "steamId": null,
@@ -608,18 +632,6 @@
   {
     "author": "Xedos",
     "name": "Psysword",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Helixien",
-    "name": "Altered Carbon: Ultratech Unleashed",
-    "steamId": "2196278117",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Side1iner",
-    "name": "Ultratech Weapons Plus",
     "steamId": null,
     "version": null
   },
@@ -739,21 +751,9 @@
   },
   {
     "author": "Nals",
-    "name": "[NL] Compatible Body 2",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Nals",
     "name": "[NL] Custom Coordinate Offsets",
     "steamId": "1909870211",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Zaire82",
-    "name": "Compatible-Like Body | Children",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Zylle",
@@ -802,5 +802,125 @@
     "name": "ToolkitRaids",
     "steamId": "2091359241",
     "version": "1.0.5.0"
+  },
+  {
+    "author": "Yanzihko",
+    "name": "Archotech Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo and Updated by Ogliss",
+    "name": "RunAndGun",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and SmashPhil",
+    "name": "Vanilla Weapons Expanded - Makeshift",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neceros and Updated by marceline",
+    "name": "Faster Smoothing (1.4)",
+    "steamId": "2879128253",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Harkon",
+    "name": "HALO - UNSC Faction",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dr. Plantabyte",
+    "name": "Random Factions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Allie, Erin, Sir Van and Reann Shepard",
+    "name": "Vanilla Races Expanded - Phytokin",
+    "steamId": "2927323805",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Ideology Expanded - Icons and Symbols",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and xrushha",
+    "name": "Vanilla Ideology Expanded - Hats and Rags",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and legodude17",
+    "name": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Storytellers Expanded - Winston Waves",
+    "steamId": "2734032569",
+    "version": "1.0.2.2"
+  },
+  {
+    "author": "DeeMainiac",
+    "name": "Secure Contain Rimworld",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "The Pawnmorpher Team",
+    "name": "Pawnmorpher",
+    "steamId": "1786466855",
+    "version": "1.12.2"
+  },
+  {
+    "author": "Oskar Potocki, Kikohi and Sarg Bjornson",
+    "name": "Vanilla Factions Expanded - Insectoids",
+    "steamId": "2149755445",
+    "version": "1.2.3.1"
+  },
+  {
+    "author": "The Pawnmorpher Team",
+    "name": "Pawnmorpher: Insectoids",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Takel",
+    "name": "Pawnmorpher Transhumanist",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Animals Expanded",
+    "steamId": "2871933948",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "The Pawnmorpher Team",
+    "name": "Pawnmorpher: VAE",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Obi Vayne Kenobi",
+    "name": "Gene Ripper",
+    "steamId": "2885485814",
+    "version": "0.3.0"
+  },
+  {
+    "author": "PrivateGER",
+    "name": "[1.4] Nukes",
+    "steamId": null,
+    "version": null
   }
 ]

@@ -14870,50 +14870,6 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has always seen their body as nothing more than a vessel for the mind. he does not care about the gender, age or looks of their body.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Altered Carbon: Ultratech Unleashed",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VFEU_FreeMind",
-      "name": "freemind"
-    },
-    {
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy can change sleeves as easily as changing clothes. he doesn’t care how often he switches sleeves or what sleeve he is currently riding.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Altered Carbon: Ultratech Unleashed",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VFEU_Sleever",
-      "name": "sleever"
-    },
-    {
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
       "description": "Timmy is truly gigantic by the standards of their kind. They are sturdier than usual, but being significantly larger than normal for their kind does slow them down somewhat and make them more prone to early heart attacks and other health-issues.",
       "stats": [
         "x130% body size multipler",
@@ -19447,6 +19403,164 @@
       },
       "defName": "RT_TalentNoTalent",
       "name": "notalent"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has granite-like skin. he is quite durable and skilled with guns.",
+      "stats": [
+        "+4 shooting",
+        "+50% rest rate multiplier",
+        "x50% incoming damage multiplier",
+        "x50% stagger time multiplier"
+      ],
+      "conflicts": [
+        "wimp",
+        "brawler"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "wimp",
+          "brawler"
+        ],
+        "stats": [
+          "+4 shooting",
+          "+50% rest rate multiplier",
+          "x50% incoming damage multiplier",
+          "x50% stagger time multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Secure Contain Rimworld",
+        "karmaTypeForAdding": null
+      },
+      "defName": "SCR_SCP011R",
+      "name": "scp-011"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is now a natural hunter.",
+      "stats": [
+        "+1 shooting",
+        "+1 animals"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+1 shooting",
+          "+1 animals"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Pawnmorpher",
+        "karmaTypeForAdding": null
+      },
+      "defName": "NaturalHunter",
+      "name": "naturalhunter"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is intrigued by the idea of becoming something other than human.",
+      "stats": [],
+      "conflicts": [
+        "bodypurist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "bodypurist"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Pawnmorpher",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MutationAffinity",
+      "name": "mutationaffinity"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's sees himself as the natural leader of his pride and as a consequence looks down on others and is easily offended.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Pawnmorpher",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PM_PridefulTrait",
+      "name": "prideful"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has always seen their body as nothing more than a vessel for the mind. he does not care about the gender, age or looks of their body.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Altered Carbon: Ultratech Unleashed",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VFEU_FreeMind",
+      "name": "freemind"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy can change sleeves as easily as changing clothes. he doesn’t care how often he switches sleeves or what sleeve he is currently riding.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Altered Carbon: Ultratech Unleashed",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VFEU_Sleever",
+      "name": "sleever"
     }
   ],
   "races": [
