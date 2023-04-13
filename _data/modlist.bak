@@ -60,12 +60,6 @@
     "version": null
   },
   {
-    "author": "Wemd",
-    "name": "[WD] Realistic Darkness (Light)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -920,6 +914,18 @@
   {
     "author": "PrivateGER",
     "name": "[1.4] Nukes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien",
+    "name": "Altered Carbon: Ultratech Unleashed",
+    "steamId": "2196278117",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Side1iner",
+    "name": "Ultratech Weapons Plus",
     "steamId": null,
     "version": null
   }

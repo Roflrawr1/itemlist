@@ -30,18 +30,6 @@
     "version": null
   },
   {
-    "author": "Nals",
-    "name": "[NL] Facial Animation - WIP",
-    "steamId": "1635901197",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Nals",
-    "name": "[NL] Facial Animation - Experimentals",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Ricofox233",
     "name": "[RF]Berserk - Character Apparel Pack",
     "steamId": null,
@@ -56,12 +44,6 @@
   {
     "author": "Telkir and Rain",
     "name": "[T] MoreFloors 1.4",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Wemd",
-    "name": "[WD] Realistic Darkness (Light)",
     "steamId": null,
     "version": null
   },
@@ -364,12 +346,6 @@
     "name": "Vanilla Races Expanded - Saurid",
     "steamId": "2880990495",
     "version": "1.0.8369.37080"
-  },
-  {
-    "author": "WalterHawkwood",
-    "name": "Facial Animations Xenotype Compatibility",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "AobaKuma",
@@ -932,6 +908,48 @@
   {
     "author": "Side1iner",
     "name": "Ultratech Weapons Plus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dorutoruka",
+    "name": "Anime Gene",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ChJees",
+    "name": "Androids for RW 1.4",
+    "steamId": "2889326293",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Evelyn",
+    "name": "Rebecca Realistic",
+    "steamId": "2754769044",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitResearch",
+    "steamId": "2312827542",
+    "version": "1.0.3.2"
+  },
+  {
+    "author": "PunkyRoo",
+    "name": "Slime Rancher",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "hahayes",
+    "name": "Item Randomizer",
+    "steamId": "2563163989",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Daemon976",
+    "name": "More Android Backstories",
     "steamId": null,
     "version": null
   }
