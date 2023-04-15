@@ -30,18 +30,6 @@
     "version": null
   },
   {
-    "author": "Nals",
-    "name": "[NL] Facial Animation - WIP",
-    "steamId": "1635901197",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Nals",
-    "name": "[NL] Facial Animation - Experimentals",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Ricofox233",
     "name": "[RF]Berserk - Character Apparel Pack",
     "steamId": null,
@@ -150,6 +138,36 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Cooking Expanded",
+    "steamId": "2134308519",
+    "version": "1.4.8315.17730"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "The Pawnmorpher Team",
+    "name": "Pawnmorpher",
+    "steamId": "1786466855",
+    "version": "1.12.2"
+  },
+  {
+    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
+    "name": "Vanilla Psycasts Expanded",
+    "steamId": "2842502659",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Sarg Bjornson and AFriend",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Allie and Sarg",
     "name": "Alpha Genes",
     "steamId": "2891845502",
@@ -159,13 +177,7 @@
     "author": "Oskar Potocki and Sarg Bjornson",
     "name": "Vanilla Fishing Expanded",
     "steamId": "1914064942",
-    "version": "1.4.8315.17730"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Cooking Expanded",
-    "steamId": null,
-    "version": null
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
@@ -360,12 +372,6 @@
     "version": "1.0.8369.37080"
   },
   {
-    "author": "WalterHawkwood",
-    "name": "Facial Animations Xenotype Compatibility",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "AobaKuma",
     "name": "Fortifications - Medieval",
     "steamId": null,
@@ -420,9 +426,9 @@
     "version": "1.12.4.0"
   },
   {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
+    "author": "Nals",
+    "name": "[NL] Facial Animation - WIP",
+    "steamId": "1635901197",
     "version": "1.0.0.0"
   },
   {
@@ -528,12 +534,6 @@
     "version": null
   },
   {
-    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
-    "name": "Vanilla Psycasts Expanded",
-    "steamId": "2842502659",
-    "version": "1.1.0.0"
-  },
-  {
     "author": "legodude17 and Oskar Potocki",
     "name": "Vanilla Skills Expanded",
     "steamId": "2854967442",
@@ -594,12 +594,6 @@
     "version": "1.4.2"
   },
   {
-    "author": "WexMan",
-    "name": "Mines",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Uuugggg",
     "name": "Replace Stuff",
     "steamId": "1372003680",
@@ -626,12 +620,6 @@
   {
     "author": "Xedos",
     "name": "Psysword",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Farmradish",
-    "name": "Nyaron race",
     "steamId": null,
     "version": null
   },
@@ -828,12 +816,6 @@
     "version": null
   },
   {
-    "author": "Dr. Plantabyte",
-    "name": "Random Factions",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki, Sarg Bjornson, Allie, Erin, Sir Van and Reann Shepard",
     "name": "Vanilla Races Expanded - Phytokin",
     "steamId": "2927323805",
@@ -858,22 +840,10 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Storytellers Expanded - Winston Waves",
-    "steamId": "2734032569",
-    "version": "1.0.2.2"
-  },
-  {
     "author": "DeeMainiac",
     "name": "Secure Contain Rimworld",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "The Pawnmorpher Team",
-    "name": "Pawnmorpher",
-    "steamId": "1786466855",
-    "version": "1.12.2"
   },
   {
     "author": "Oskar Potocki, Kikohi and Sarg Bjornson",
@@ -882,28 +852,10 @@
     "version": "1.2.3.1"
   },
   {
-    "author": "The Pawnmorpher Team",
-    "name": "Pawnmorpher: Insectoids",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Takel",
-    "name": "Pawnmorpher Transhumanist",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Sarg Bjornson and Oskar Potocki",
     "name": "Vanilla Animals Expanded",
     "steamId": "2871933948",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "The Pawnmorpher Team",
-    "name": "Pawnmorpher: VAE",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Obi Vayne Kenobi",
@@ -926,6 +878,168 @@
   {
     "author": "Side1iner",
     "name": "Ultratech Weapons Plus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ChJees",
+    "name": "Androids for RW 1.4",
+    "steamId": "2889326293",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Evelyn",
+    "name": "Rebecca Realistic",
+    "steamId": "2754769044",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Daemon976",
+    "name": "More Android Backstories",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Odstriman",
+    "name": "SCP (Only Clothing)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Windows XP",
+    "name": "Realistic Planets Continued",
+    "steamId": "2557451791",
+    "version": "1.0.8349.34297"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitResearch",
+    "steamId": "2312827542",
+    "version": "1.0.3.2"
+  },
+  {
+    "author": "Takel",
+    "name": "Pawnmorpher Transhumanist",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "The Pawnmorpher Team",
+    "name": "Pawnmorpher: Insectoids",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "The Pawnmorpher Team",
+    "name": "Pawnmorpher: VAE",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "pb3n and Taranchuk",
+    "name": "[BETA] Simple Warrants",
+    "steamId": "2676828755",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "22、昏暗",
+    "name": "Biotech xenotype expanded - Rotfish",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Morphium",
+    "name": "Morphs Assorted: Tattoos",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Morphium",
+    "name": "Morphs Assorted Biotech Retex",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "StatistNo1, Scorpio, Rebel_Rabbit and Cain",
+    "name": "Mines 2.0",
+    "steamId": "2503894706",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "ksags",
+    "name": "Electromagnetic sniper gun",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "TheGoofyOne",
+    "name": "Charge Guns MKV",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AlumiRR",
+    "name": "Biotech: Reptilian Humanoids Mod",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "m00nl1ght",
+    "name": "Geological Landforms",
+    "steamId": "2773943594",
+    "version": "1.5.2.0"
+  },
+  {
+    "author": "m00nl1ght-dev",
+    "name": "Biome Transitions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Kentington, Sarg Bjornson, erdelf, Kikohi, Chowder, Taranchuk and ISOREX",
+    "name": "Vanilla Factions Expanded - Mechanoids",
+    "steamId": "2329011599",
+    "version": "1.0.1.2"
+  },
+  {
+    "author": "Torann",
+    "name": "Rim War",
+    "steamId": "2222935097",
+    "version": "0.9.8.10"
+  },
+  {
+    "author": "Seioch and MaroonToon",
+    "name": "Kurin HAR Edition",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "darkmiz",
+    "name": "Kurin HAR Facial Animation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Facial Animation - Experimentals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Raygne",
+    "name": "RG Eye Color Genes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Diana(Kitty)",
+    "name": "Orassans",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "WalterHawkwood",
+    "name": "Facial Animations Xenotype Compatibility",
     "steamId": null,
     "version": null
   }
