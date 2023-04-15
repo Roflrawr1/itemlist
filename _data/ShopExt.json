@@ -19582,7 +19582,7 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": true,
+      "enabled": false,
       "name": "human",
       "price": 1000
     },
@@ -19605,7 +19605,7 @@
       },
       "description": "A race of humanlike robots which are mostly female in model variety.\n\nThe origins of these machines are mostly unknown. Some speculate they are escapees from a civilization which used them for labor and some just suggest they are outdated pleasure machines which got dumped by a passing space freighter.\n\nBy design by their previous masters they are weak physically but their raw fortitude is enough to make up for it. Beware of their biological reactor and capacitors violently exploding, if they die by overheating.",
       "defName": "ChjAndroid",
-      "enabled": true,
+      "enabled": false,
       "name": "Android",
       "price": 2500
     },
@@ -19638,7 +19638,7 @@
       },
       "description": "A race of rudimentary humanlike worker robots.\n\nUsually found toiling around in colonies around the rim which got a resident tinkerer.\n\nNot capable of sapience, however their relative cheap cost and ability to work around the clock make them valuable workers.",
       "defName": "ChjDroid",
-      "enabled": true,
+      "enabled": false,
       "name": "Droid",
       "price": 1417
     },
@@ -19672,7 +19672,7 @@
       },
       "description": "A race of rudimentary humanlike warrior robots.\n\nUsually found guarding the homes of the wealthy and offices of mega corporations. They show no mercy upon targets who fail to identify themselves. Are traditionally armed with miniguns and core launchers.",
       "defName": "ChjBattleDroid",
-      "enabled": true,
+      "enabled": false,
       "name": "Battle droid",
       "price": 3167
     },
@@ -19714,7 +19714,7 @@
       "defName": "Kurin_Race",
       "enabled": true,
       "name": "Kurin",
-      "price": 5833
+      "price": 2000
     },
     {
       "data": {
@@ -19739,7 +19739,7 @@
       "defName": "Alien_Orassan",
       "enabled": true,
       "name": "orassan",
-      "price": 3167
+      "price": 2600
     },
     {
       "data": {
@@ -19762,7 +19762,7 @@
       },
       "description": "A hybrid with DNA from a human and an orassan. Typically created through careful genetic engineering in a lab, or the \"natural\" way from individuals with closely regulated gene mods, these hybrids combine some of the best traits from their parent species. The particular traits and physical characteristics that are being inherited are typically chosen by the parents having the child, but they almost always have two feline ears and a feline tail, both with fur sharing the same color as the hair on their head.",
       "defName": "Alien_OrassanHumanHybrid",
-      "enabled": true,
+      "enabled": false,
       "name": "neko",
       "price": 3167
     }
