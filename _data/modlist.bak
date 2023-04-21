@@ -144,6 +144,12 @@
     "version": "1.4.8315.17730"
   },
   {
+    "author": "Vectorial1024",
+    "name": "Elite Bionics Framework",
+    "steamId": "1665403571",
+    "version": "2.0.0.0"
+  },
+  {
     "author": "erdelf",
     "name": "Humanoid Alien Races",
     "steamId": "839005762",
@@ -729,7 +735,7 @@
     "author": "Mlie",
     "name": "Show Me Your Hands",
     "steamId": "2475965842",
-    "version": "1.4.11"
+    "version": "1.4.12"
   },
   {
     "author": "hodlhodl",
@@ -858,22 +864,10 @@
     "version": null
   },
   {
-    "author": "ChJees",
-    "name": "Androids for RW 1.4",
-    "steamId": "2889326293",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Evelyn",
     "name": "Rebecca Realistic",
     "steamId": "2754769044",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Daemon976",
-    "name": "More Android Backstories",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Odstriman",
@@ -1054,5 +1048,101 @@
     "name": "FrameRateControl",
     "steamId": "1591142767",
     "version": "0.0.0.0"
+  },
+  {
+    "author": "Limey Lassen",
+    "name": "Passive Cooler Don't Need Fuel",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Timuttie",
+    "name": "Just Leave Already",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "[O21] Thaumrim (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Garry Flowers",
+    "name": "More Slavery Stuff",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene Lite",
+    "steamId": "2570319432",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "Proximo",
+    "name": "Zealous Innocence",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BlueLeafy",
+    "name": "Sexuality Genes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oh God Spiders No",
+    "name": "Sexually Omnivorous Sanguophages",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Deon",
+    "name": "Borderlands: The Rim",
+    "steamId": "2963595062",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Aelanna",
+    "name": "A Rim Reborn - Core",
+    "steamId": "2659227786",
+    "version": "0.3.0"
+  },
+  {
+    "author": "Aelanna",
+    "name": "A Rim Reborn - Classes and Jobs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Deon",
+    "name": "Darkest Rim: Apparel",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "A Rim Reborn - Miqo'te Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "VexedTrees",
+    "name": "Rim-Robots_",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirVan",
+    "name": "Dark Ages - Crypts and Tombs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Sir Van",
+    "name": "Vanilla Animals Expanded — Waste Animals",
+    "steamId": null,
+    "version": null
   }
 ]

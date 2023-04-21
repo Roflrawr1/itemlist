@@ -281,11 +281,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "genderswap",
-		"price": 600,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "item",
 		"price": 1,
 		"karmatype": "Good"
@@ -421,5 +416,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 84
+	"total": 83
 }

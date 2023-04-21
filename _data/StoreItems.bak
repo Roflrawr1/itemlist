@@ -17959,6 +17959,30 @@
       "price": 2275
     },
     {
+      "abr": "crimsonculthood",
+      "category": "Headgear",
+      "defname": "CrimsonCultHood",
+      "price": 141
+    },
+    {
+      "abr": "crimsoncultrobe",
+      "category": "Clothing",
+      "defname": "CrimsonCultRobes",
+      "price": 327
+    },
+    {
+      "abr": "crimsonknightarmour",
+      "category": "Armour",
+      "defname": "CrimsonKnightArmour",
+      "price": 792
+    },
+    {
+      "abr": "crimsonknighthelmet",
+      "category": "Headgear",
+      "defname": "CrimsonKnightHelmet",
+      "price": 231
+    },
+    {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
@@ -18103,5 +18127,5 @@
       "price": 408
     }
   ],
-  "total": 3017
+  "total": 3021
 }

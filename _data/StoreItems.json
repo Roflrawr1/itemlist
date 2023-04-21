@@ -14215,60 +14215,6 @@
 		"defname": "AEXP_Zebra"
 	},
 	{
-		"abr": "android",
-		"price": -10,
-		"category": "Animal",
-		"defname": "ChjAndroid"
-	},
-	{
-		"abr": "androidleather",
-		"price": 9,
-		"category": "Leathers",
-		"defname": "Leather_ChJAndroid"
-	},
-	{
-		"abr": "androidmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_ChjAndroid"
-	},
-	{
-		"abr": "androidprinter",
-		"price": 7183,
-		"category": "Production",
-		"defname": "ChJAndroidPrinter"
-	},
-	{
-		"abr": "battledress",
-		"price": 1458,
-		"category": "Apparel",
-		"defname": "ChjAndroidMaidBattleDress"
-	},
-	{
-		"abr": "battledroid",
-		"price": -10,
-		"category": "Animal",
-		"defname": "ChjBattleDroid"
-	},
-	{
-		"abr": "battledroidassemblykit",
-		"price": 3958,
-		"category": "Items",
-		"defname": "ChjAndroidBattleDroidAssemblyKit"
-	},
-	{
-		"abr": "battlemaidhat",
-		"price": 450,
-		"category": "Headgear",
-		"defname": "ChjAndroidBattleMaidHat"
-	},
-	{
-		"abr": "corelauncher",
-		"price": 2283,
-		"category": "Ranged weapons",
-		"defname": "Gun_ChjCoreLauncher"
-	},
-	{
 		"abr": "adaptioncream",
 		"price": 83,
 		"category": "Medicine",
@@ -14395,54 +14341,6 @@
 		"defname": "GenekitColorPicker"
 	},
 	{
-		"abr": "droid",
-		"price": -10,
-		"category": "Animal",
-		"defname": "ChjDroid"
-	},
-	{
-		"abr": "droidassemblykit",
-		"price": 1775,
-		"category": "Items",
-		"defname": "ChjAndroidDroidAssemblyKit"
-	},
-	{
-		"abr": "droidbattery",
-		"price": 17,
-		"category": "Manufactured",
-		"defname": "ChjAndroidBattery"
-	},
-	{
-		"abr": "droidchemfuelgeneratorbelt",
-		"price": 327,
-		"category": "Apparel",
-		"defname": "ChjAndroid_ChemfuelGenerator"
-	},
-	{
-		"abr": "droidfabricator",
-		"price": 1825,
-		"category": "Misc",
-		"defname": "ChJDroidPrinter"
-	},
-	{
-		"abr": "droidrepairkit",
-		"price": 367,
-		"category": "Manufactured",
-		"defname": "ChjDroidRepairKit"
-	},
-	{
-		"abr": "droidrepairparts",
-		"price": 28,
-		"category": "Manufactured",
-		"defname": "ChjDroidRepairParts"
-	},
-	{
-		"abr": "droidsolarpanelduster",
-		"price": 650,
-		"category": "Apparel",
-		"defname": "ChjAndroid_SolarDuster"
-	},
-	{
 		"abr": "experimentalinjector",
 		"price": 133,
 		"category": "Injector",
@@ -14513,12 +14411,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_EtherHellhound"
-	},
-	{
-		"abr": "hibernationpad",
-		"price": 104,
-		"category": "Production",
-		"defname": "ChjDroidHibernationPad"
 	},
 	{
 		"abr": "iedmutagentrap",
@@ -14597,12 +14489,6 @@
 		"price": 332,
 		"category": "SCP suits",
 		"defname": "Apparel_SCPLabcoat"
-	},
-	{
-		"abr": "maiddress",
-		"price": 517,
-		"category": "Apparel",
-		"defname": "ChjAndroidMaidOutfit"
 	},
 	{
 		"abr": "mechaniteslurry",
@@ -15815,18 +15701,6 @@
 		"price": 1625,
 		"category": "Animal",
 		"defname": "PME_RattlesnakeMorphRace_Implied"
-	},
-	{
-		"abr": "rebelpistol",
-		"price": 323,
-		"category": "Ranged weapons",
-		"defname": "ChjAndroidGun_Rebelpistol"
-	},
-	{
-		"abr": "rebelrifle",
-		"price": 925,
-		"category": "Ranged weapons",
-		"defname": "ChjAndroidGun_RebelRifle"
 	},
 	{
 		"abr": "redfoxmorph",
@@ -17857,12 +17731,6 @@
 		"defname": "Table_SNS_PinnacleFabricator"
 	},
 	{
-		"abr": "thermalwrapping",
-		"price": 62,
-		"category": "Apparel",
-		"defname": "ChJAndroidThermalBandages"
-	},
-	{
 		"abr": "thrumbomorph",
 		"price": 4792,
 		"category": "Animal",
@@ -17958,6 +17826,1446 @@
 		"category": "Cybernetic",
 		"defname": "CONN_Zoom"
 	},
+	{
+		"abr": "crimsonculthood",
+		"price": 141,
+		"category": "Headgear",
+		"defname": "CrimsonCultHood"
+	},
+	{
+		"abr": "crimsoncultrobe",
+		"price": 327,
+		"category": "Clothing",
+		"defname": "CrimsonCultRobes"
+	},
+	{
+		"abr": "crimsonknightarmour",
+		"price": 792,
+		"category": "Armour",
+		"defname": "CrimsonKnightArmour"
+	},
+	{
+		"abr": "crimsonknighthelmet",
+		"price": 231,
+		"category": "Headgear",
+		"defname": "CrimsonKnightHelmet"
+	},
+	{
+		"abr": "basin",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "BasinStuff"
+	},
+	{
+		"abr": "bathmat",
+		"price": 71,
+		"category": "Furniture",
+		"defname": "BathMat"
+	},
+	{
+		"abr": "bathtub",
+		"price": 124,
+		"category": "Hygiene",
+		"defname": "BathtubStuff"
+	},
+	{
+		"abr": "bionicbladder",
+		"price": 1308,
+		"category": "Bionic",
+		"defname": "BionicBladder"
+	},
+	{
+		"abr": "bladder",
+		"price": 167,
+		"category": "Natural",
+		"defname": "Bladder"
+	},
+	{
+		"abr": "changingmat",
+		"price": 281,
+		"category": "Furniture",
+		"defname": "ChangingMat"
+	},
+	{
+		"abr": "cribwithapillow",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "CribPillow"
+	},
+	{
+		"abr": "diaper",
+		"price": 19,
+		"category": "Diapers",
+		"defname": "Apparel_Diaper"
+	},
+	{
+		"abr": "doublecribwithapillow",
+		"price": 310,
+		"category": "Furniture",
+		"defname": "DoubleCribPillow"
+	},
+	{
+		"abr": "electricsaunaheater",
+		"price": 725,
+		"category": "Hygiene",
+		"defname": "DBHSaunaHeaterElec"
+	},
+	{
+		"abr": "fueledsaunaheater",
+		"price": 675,
+		"category": "Hygiene",
+		"defname": "DBHSaunaHeaterLog"
+	},
+	{
+		"abr": "gunsie",
+		"price": 433,
+		"category": "Onesies",
+		"defname": "Apparel_Gunsie"
+	},
+	{
+		"abr": "hottub",
+		"price": 800,
+		"category": "Hygiene",
+		"defname": "HotTub"
+	},
+	{
+		"abr": "hygieneenhancer",
+		"price": 1308,
+		"category": "Bionic",
+		"defname": "HygieneEnhancer"
+	},
+	{
+		"abr": "latrine",
+		"price": 55,
+		"category": "Hygiene",
+		"defname": "PitLatrine"
+	},
+	{
+		"abr": "litterbox",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "LitterBox"
+	},
+	{
+		"abr": "onesie",
+		"price": 257,
+		"category": "Onesies",
+		"defname": "Apparel_Onesie"
+	},
+	{
+		"abr": "powershower",
+		"price": 170,
+		"category": "Hygiene",
+		"defname": "ShowerAdvStuff"
+	},
+	{
+		"abr": "premiumdiaper",
+		"price": 73,
+		"category": "Diapers",
+		"defname": "Apparel_Premium_Diaper"
+	},
+	{
+		"abr": "saunaseating",
+		"price": 9,
+		"category": "Furniture",
+		"defname": "DBHSaunaSeating"
+	},
+	{
+		"abr": "shower",
+		"price": 90,
+		"category": "Hygiene",
+		"defname": "ShowerStuff"
+	},
+	{
+		"abr": "simpleshower",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "ShowerSimple"
+	},
+	{
+		"abr": "simplie",
+		"price": 179,
+		"category": "Onesies",
+		"defname": "Apparel_Simplie"
+	},
+	{
+		"abr": "smarttoilet",
+		"price": 182,
+		"category": "Hygiene",
+		"defname": "ToiletAdvStuff"
+	},
+	{
+		"abr": "toilet",
+		"price": 72,
+		"category": "Hygiene",
+		"defname": "ToiletStuff"
+	},
+	{
+		"abr": "adaptivesuit",
+		"price": 3333,
+		"category": "Apparel",
+		"defname": "Apparel_CEOsuit"
+	},
+	{
+		"abr": "arcticskag",
+		"price": 750,
+		"category": "Animals",
+		"defname": "SkagArctic"
+	},
+	{
+		"abr": "atlascombatshotgun",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_AtlasCombatShotgun"
+	},
+	{
+		"abr": "atlasmachinepistol",
+		"price": 833,
+		"category": "Ranged weapons",
+		"defname": "Gun_AtlasMachinePistol"
+	},
+	{
+		"abr": "atlaspistol",
+		"price": 500,
+		"category": "Ranged weapons",
+		"defname": "Gun_AtlasPistol"
+	},
+	{
+		"abr": "atlaspulserifle",
+		"price": 1333,
+		"category": "Ranged weapons",
+		"defname": "Gun_AtlasRifle"
+	},
+	{
+		"abr": "atlassniperrifle",
+		"price": 1500,
+		"category": "Ranged weapons",
+		"defname": "Gun_AtlasSniperRifle"
+	},
+	{
+		"abr": "bullymong",
+		"price": 917,
+		"category": "Animals",
+		"defname": "Bullymong"
+	},
+	{
+		"abr": "bullymongmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Bullymong"
+	},
+	{
+		"abr": "causticskag",
+		"price": 750,
+		"category": "Animals",
+		"defname": "SkagSpitter"
+	},
+	{
+		"abr": "circularsaw",
+		"price": 250,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_ScavCircularSaw"
+	},
+	{
+		"abr": "crimsonlancearmor",
+		"price": 2000,
+		"category": "Apparel",
+		"defname": "Apparel_CrimsonLanceArmor"
+	},
+	{
+		"abr": "crimsonlancehelmet",
+		"price": 1250,
+		"category": "Headgear",
+		"defname": "Apparel_CrimsonLanceHelmet"
+	},
+	{
+		"abr": "crimsonlancelightarmor",
+		"price": 1667,
+		"category": "Apparel",
+		"defname": "Apparel_CrimsonLanceLightArmor"
+	},
+	{
+		"abr": "dahlassaultrifle",
+		"price": 1167,
+		"category": "Ranged weapons",
+		"defname": "Gun_DahlAssaultRifle"
+	},
+	{
+		"abr": "dahlmachinepistol",
+		"price": 833,
+		"category": "Ranged weapons",
+		"defname": "Gun_DahlMachinePistol"
+	},
+	{
+		"abr": "dahlmarinearmor",
+		"price": 1667,
+		"category": "Apparel",
+		"defname": "Apparel_DahlMarineArmor"
+	},
+	{
+		"abr": "dahlmarinehelmet",
+		"price": 1250,
+		"category": "Headgear",
+		"defname": "Apparel_DahlMarineHelmet"
+	},
+	{
+		"abr": "dahlpistol",
+		"price": 500,
+		"category": "Ranged weapons",
+		"defname": "Gun_DahlPistol"
+	},
+	{
+		"abr": "gaspipe",
+		"price": 167,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_ScavGaspipe"
+	},
+	{
+		"abr": "hyperionassaultrifle",
+		"price": 1167,
+		"category": "Ranged weapons",
+		"defname": "Gun_HyperionAssaultRifle"
+	},
+	{
+		"abr": "hyperioncombatshotgun",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_HyperionCombatShotgun"
+	},
+	{
+		"abr": "hyperionengineeringhelmet",
+		"price": 833,
+		"category": "Headgear",
+		"defname": "Apparel_HyperionEngineerHelmet"
+	},
+	{
+		"abr": "hyperionexosuit",
+		"price": 1250,
+		"category": "Apparel",
+		"defname": "Apparel_HyperionExosuit"
+	},
+	{
+		"abr": "hyperionmachinepistol",
+		"price": 833,
+		"category": "Ranged weapons",
+		"defname": "Gun_HyperionMachinePistol"
+	},
+	{
+		"abr": "hyperionpistol",
+		"price": 500,
+		"category": "Ranged weapons",
+		"defname": "Gun_HyperionPistol"
+	},
+	{
+		"abr": "hyperionscouthelmet",
+		"price": 500,
+		"category": "Headgear",
+		"defname": "Apparel_HyperionScoutHelmet"
+	},
+	{
+		"abr": "hyperionsoldierhelmet",
+		"price": 2083,
+		"category": "Headgear",
+		"defname": "Apparel_HyperionSoldierHelmet"
+	},
+	{
+		"abr": "hyperionuniform",
+		"price": 417,
+		"category": "Apparel",
+		"defname": "Apparel_HyperionUniform"
+	},
+	{
+		"abr": "rakk",
+		"price": 333,
+		"category": "Animals",
+		"defname": "Rakk"
+	},
+	{
+		"abr": "rakkegg(fert.)",
+		"price": 33,
+		"category": "Eggs (fert.)",
+		"defname": "EggRakkFertilized"
+	},
+	{
+		"abr": "ratch",
+		"price": 58,
+		"category": "Animals",
+		"defname": "Ratch"
+	},
+	{
+		"abr": "riggedpipebombs",
+		"price": 167,
+		"category": "Grenades",
+		"defname": "Weapon_RiggedPipebomb"
+	},
+	{
+		"abr": "roadkillarmor",
+		"price": 167,
+		"category": "Armor",
+		"defname": "Apparel_ScavRoadkillArmor"
+	},
+	{
+		"abr": "saurianmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Tyrant"
+	},
+	{
+		"abr": "scavassaultrifle",
+		"price": 833,
+		"category": "Ranged weapons",
+		"defname": "Gun_ScavAssaultRifle"
+	},
+	{
+		"abr": "scavboomstick",
+		"price": 1,
+		"category": "Ranged weapons",
+		"defname": "Gun_ScavBoomstick"
+	},
+	{
+		"abr": "scavcleaver",
+		"price": 250,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_ScavCleaver"
+	},
+	{
+		"abr": "scavhelmet",
+		"price": 417,
+		"category": "Headgear",
+		"defname": "Apparel_ScavHelmet"
+	},
+	{
+		"abr": "scavmachinepistol",
+		"price": 500,
+		"category": "Ranged weapons",
+		"defname": "Gun_ScavMachinePistol"
+	},
+	{
+		"abr": "scavmask",
+		"price": 333,
+		"category": "Headgear",
+		"defname": "Apparel_ScavMask"
+	},
+	{
+		"abr": "scavminigun",
+		"price": 167,
+		"category": "Ranged weapons",
+		"defname": "Gun_ScavMinigun"
+	},
+	{
+		"abr": "scavoutfit",
+		"price": 333,
+		"category": "Apparel",
+		"defname": "Apparel_ScavOutfit"
+	},
+	{
+		"abr": "scavpistol",
+		"price": 333,
+		"category": "Ranged weapons",
+		"defname": "Gun_ScavAutopistol"
+	},
+	{
+		"abr": "scavpowerarmor",
+		"price": 1667,
+		"category": "Armor",
+		"defname": "Apparel_ScavPowerArmor"
+	},
+	{
+		"abr": "scavrebreather",
+		"price": 333,
+		"category": "Headgear",
+		"defname": "Apparel_ScavRebreather"
+	},
+	{
+		"abr": "scavscraparmor",
+		"price": 167,
+		"category": "Apparel",
+		"defname": "Apparel_ScavScrapArmor"
+	},
+	{
+		"abr": "scavshotgun",
+		"price": 833,
+		"category": "Ranged weapons",
+		"defname": "Gun_ScavShotgun"
+	},
+	{
+		"abr": "scavsniperrifle",
+		"price": 833,
+		"category": "Ranged weapons",
+		"defname": "Gun_ScavSniperRifle"
+	},
+	{
+		"abr": "scavtrophyhelmet",
+		"price": 1250,
+		"category": "Headgear",
+		"defname": "Apparel_ScavTrophyHelmet"
+	},
+	{
+		"abr": "skag",
+		"price": 750,
+		"category": "Animals",
+		"defname": "Skag"
+	},
+	{
+		"abr": "skagmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Skag"
+	},
+	{
+		"abr": "skagmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_SkagSpitter"
+	},
+	{
+		"abr": "spiderant",
+		"price": 833,
+		"category": "Animals",
+		"defname": "Spiderant"
+	},
+	{
+		"abr": "towelrail",
+		"price": 85,
+		"category": "Hygiene",
+		"defname": "RadiatorTowelRail"
+	},
+	{
+		"abr": "tyrant",
+		"price": 2500,
+		"category": "Animals",
+		"defname": "Tyrant"
+	},
+	{
+		"abr": "advancedfissionreactor",
+		"price": 2300,
+		"category": "Synthetic body parts",
+		"defname": "RR_FissionReactorItem"
+	},
+	{
+		"abr": "aetherialrobe",
+		"price": 288,
+		"category": "A Rim Reborn",
+		"defname": "ARR_CasterRobeBasic"
+	},
+	{
+		"abr": "aethericcarbine",
+		"price": 433,
+		"category": "Ranged weapons",
+		"defname": "ARR_Carbine"
+	},
+	{
+		"abr": "aethericcompositebow",
+		"price": 163,
+		"category": "Ranged weapons",
+		"defname": "ARR_CompositeBow"
+	},
+	{
+		"abr": "aethericcooler",
+		"price": 128,
+		"category": "A Rim Reborn",
+		"defname": "ARR_AethericCooler"
+	},
+	{
+		"abr": "aethericcraftingtable",
+		"price": 408,
+		"category": "Production",
+		"defname": "ARR_AetherCraftTable"
+	},
+	{
+		"abr": "aethericcraftingtable(linked)",
+		"price": 517,
+		"category": "Production",
+		"defname": "ARR_AetherCraftTableLinked"
+	},
+	{
+		"abr": "aethericdoublepistol",
+		"price": 286,
+		"category": "Ranged weapons",
+		"defname": "ARR_DoublePistol"
+	},
+	{
+		"abr": "aethericfalchion",
+		"price": 248,
+		"category": "Melee weapons",
+		"defname": "ARR_Falchion"
+	},
+	{
+		"abr": "aethericheater",
+		"price": 160,
+		"category": "A Rim Reborn",
+		"defname": "ARR_AethericHeater"
+	},
+	{
+		"abr": "aethericicecooler",
+		"price": 191,
+		"category": "A Rim Reborn",
+		"defname": "ARR_AethericIceCooler"
+	},
+	{
+		"abr": "aethericlongbow",
+		"price": 195,
+		"category": "Ranged weapons",
+		"defname": "ARR_LongBow"
+	},
+	{
+		"abr": "aethericmachiningtable",
+		"price": 792,
+		"category": "Production",
+		"defname": "ARR_AetherMachineTable"
+	},
+	{
+		"abr": "aethericpreptable",
+		"price": 342,
+		"category": "Production",
+		"defname": "ARR_AetherPrepTable"
+	},
+	{
+		"abr": "aethericpreptable(linked)",
+		"price": 408,
+		"category": "Production",
+		"defname": "ARR_AetherPrepTableLinked"
+	},
+	{
+		"abr": "aethericspear",
+		"price": 331,
+		"category": "Melee weapons",
+		"defname": "ARR_Spear"
+	},
+	{
+		"abr": "aetherictailoringtable",
+		"price": 408,
+		"category": "Production",
+		"defname": "ARR_AetherTailorTable"
+	},
+	{
+		"abr": "aetherictailoringtable(linked)",
+		"price": 517,
+		"category": "Production",
+		"defname": "ARR_AetherTailorTableLinked"
+	},
+	{
+		"abr": "aethericthermostat",
+		"price": 425,
+		"category": "A Rim Reborn",
+		"defname": "ARR_AethericThermostat"
+	},
+	{
+		"abr": "aethericzweihander",
+		"price": 467,
+		"category": "Melee weapons",
+		"defname": "ARR_Zweihander"
+	},
+	{
+		"abr": "alchemicalmedicine",
+		"price": 27,
+		"category": "Medicine",
+		"defname": "ARR_MedicineAlchemical"
+	},
+	{
+		"abr": "aldenardbelladonna",
+		"price": 3,
+		"category": "Alchemical herbs",
+		"defname": "ARR_Belladonna"
+	},
+	{
+		"abr": "animapendant",
+		"price": 112,
+		"category": "Utility",
+		"defname": "ARR_AnimaPendant"
+	},
+	{
+		"abr": "antidote",
+		"price": 133,
+		"category": "Potions",
+		"defname": "ARR_PotionAntidote"
+	},
+	{
+		"abr": "archer'sbow",
+		"price": 392,
+		"category": "Disciple of war",
+		"defname": "ARR_Weapon_Archer_Basic"
+	},
+	{
+		"abr": "artemisbow",
+		"price": 5000,
+		"category": "Disciple of war",
+		"defname": "ARR_RelicWeapon_ArtemisBow"
+	},
+	{
+		"abr": "bloodshoremandrake",
+		"price": 3,
+		"category": "Alchemical herbs",
+		"defname": "ARR_Mandrake"
+	},
+	{
+		"abr": "bravura",
+		"price": 5000,
+		"category": "Disciple of war",
+		"defname": "ARR_RelicWeapon_Bravura"
+	},
+	{
+		"abr": "burialurn",
+		"price": 102,
+		"category": "Misc",
+		"defname": "DA_BurialUrn"
+	},
+	{
+		"abr": "coffin",
+		"price": 136,
+		"category": "Misc",
+		"defname": "DA_Coffin"
+	},
+	{
+		"abr": "cognitionlock",
+		"price": 278,
+		"category": "Synthetic body parts",
+		"defname": "RR_BoltedConciousnessItem"
+	},
+	{
+		"abr": "conjurer'scane",
+		"price": 327,
+		"category": "Disciple of magic",
+		"defname": "ARR_Weapon_Conjurer_Basic"
+	},
+	{
+		"abr": "controlsublink(high)",
+		"price": 2000,
+		"category": "Mechtech",
+		"defname": "ControlSublinkHighSynth"
+	},
+	{
+		"abr": "controlsublink(standard)",
+		"price": 2000,
+		"category": "Mechtech",
+		"defname": "ControlSublinkSynth"
+	},
+	{
+		"abr": "crusaderarmor",
+		"price": 683,
+		"category": "Armor",
+		"defname": "Apparel_PlateArmorCrusader"
+	},
+	{
+		"abr": "crusaderhelmet",
+		"price": 269,
+		"category": "Headgear",
+		"defname": "Apparel_CrusaderHelmet"
+	},
+	{
+		"abr": "crystalsand",
+		"price": 2,
+		"category": "Crystals",
+		"defname": "ARR_CrystalSand"
+	},
+	{
+		"abr": "cuirass",
+		"price": 327,
+		"category": "Armor",
+		"defname": "ARR_LeatherCuirass"
+	},
+	{
+		"abr": "cuirass",
+		"price": 350,
+		"category": "Armor",
+		"defname": "ARR_MetalCuirass"
+	},
+	{
+		"abr": "earthcrystal",
+		"price": 0,
+		"category": "Crystals",
+		"defname": "ARR_EarthCrystal"
+	},
+	{
+		"abr": "eorzeanknife",
+		"price": 110,
+		"category": "Melee weapons",
+		"defname": "ARR_Knife"
+	},
+	{
+		"abr": "eorzeanseedstock",
+		"price": 170,
+		"category": "A Rim Reborn",
+		"defname": "ARR_SeedStock"
+	},
+	{
+		"abr": "ether",
+		"price": 83,
+		"category": "Potions",
+		"defname": "ARR_PotionEther"
+	},
+	{
+		"abr": "firecrystal",
+		"price": 0,
+		"category": "Crystals",
+		"defname": "ARR_FireCrystal"
+	},
+	{
+		"abr": "fuelnode",
+		"price": 60,
+		"category": "Meals",
+		"defname": "FuelNode_SynthDiet"
+	},
+	{
+		"abr": "gaebolg",
+		"price": 5000,
+		"category": "Disciple of war",
+		"defname": "ARR_RelicWeapon_GaeBolg"
+	},
+	{
+		"abr": "gargoylestatue",
+		"price": 254,
+		"category": "Misc",
+		"defname": "DA_GargoyleStatue"
+	},
+	{
+		"abr": "gilbun",
+		"price": 2,
+		"category": "Alchemical herbs",
+		"defname": "ARR_GilBun"
+	},
+	{
+		"abr": "gladefloorlamp",
+		"price": 83,
+		"category": "A Rim Reborn",
+		"defname": "ARR_FloorLampGlade"
+	},
+	{
+		"abr": "glamourtable",
+		"price": 171,
+		"category": "Production",
+		"defname": "ARR_GlamourTable"
+	},
+	{
+		"abr": "glamouredduster",
+		"price": 331,
+		"category": "A Rim Reborn",
+		"defname": "ARR_DusterGlamoured"
+	},
+	{
+		"abr": "glamouredjacket",
+		"price": 271,
+		"category": "A Rim Reborn",
+		"defname": "ARR_JacketGlamoured"
+	},
+	{
+		"abr": "glamouredparka",
+		"price": 310,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ParkaGlamoured"
+	},
+	{
+		"abr": "glamouredpothelm",
+		"price": 151,
+		"category": "Headwear",
+		"defname": "ARR_PotHelmGlamoured"
+	},
+	{
+		"abr": "glamouredsallet",
+		"price": 169,
+		"category": "Headwear",
+		"defname": "ARR_SalletGlamoured"
+	},
+	{
+		"abr": "hauberk",
+		"price": 533,
+		"category": "Armor",
+		"defname": "ARR_Hauberk"
+	},
+	{
+		"abr": "heroicmemorial",
+		"price": 892,
+		"category": "Misc",
+		"defname": "DA_HeroicMemorial"
+	},
+	{
+		"abr": "highwaymanapparel",
+		"price": 292,
+		"category": "Apparel",
+		"defname": "Apparel_Highwayman"
+	},
+	{
+		"abr": "highwaymanmask",
+		"price": 75,
+		"category": "Headgear",
+		"defname": "Apparel_HighwaymanMask"
+	},
+	{
+		"abr": "hi-potion",
+		"price": 133,
+		"category": "Potions",
+		"defname": "ARR_PotionHi"
+	},
+	{
+		"abr": "hydra",
+		"price": 250,
+		"category": "Animals",
+		"defname": "VAEWaste_Hydra"
+	},
+	{
+		"abr": "hydraegg(fert.)",
+		"price": 33,
+		"category": "Eggs (fert.)",
+		"defname": "VAEWaste_EggHydraFertilized"
+	},
+	{
+		"abr": "icecrystal",
+		"price": 0,
+		"category": "Crystals",
+		"defname": "ARR_IceCrystal"
+	},
+	{
+		"abr": "impstatue",
+		"price": 179,
+		"category": "Misc",
+		"defname": "DA_ImpStatue"
+	},
+	{
+		"abr": "infusedanimapendant",
+		"price": 165,
+		"category": "Utility",
+		"defname": "ARR_AnimaPendantInfused"
+	},
+	{
+		"abr": "knitcap",
+		"price": 73,
+		"category": "Headwear",
+		"defname": "ARR_KnitCap"
+	},
+	{
+		"abr": "lancer'sspear",
+		"price": 392,
+		"category": "Disciple of war",
+		"defname": "ARR_Weapon_Lancer_Basic"
+	},
+	{
+		"abr": "lightningcrystal",
+		"price": 0,
+		"category": "Crystals",
+		"defname": "ARR_LightningCrystal"
+	},
+	{
+		"abr": "lightninggenerator",
+		"price": 442,
+		"category": "A Rim Reborn",
+		"defname": "ARR_LightningGenerator"
+	},
+	{
+		"abr": "marauder'saxe",
+		"price": 392,
+		"category": "Disciple of war",
+		"defname": "ARR_Weapon_Marauder_Basic"
+	},
+	{
+		"abr": "matron'smistletoe",
+		"price": 3,
+		"category": "Alchemical herbs",
+		"defname": "ARR_Mistletoe"
+	},
+	{
+		"abr": "mechgestationprocessor",
+		"price": 2000,
+		"category": "Mechtech",
+		"defname": "MechFormfeederSynth"
+	},
+	{
+		"abr": "mechanent",
+		"price": 7500,
+		"category": "Animal",
+		"defname": "Mechanent"
+	},
+	{
+		"abr": "mechanentcomponent",
+		"price": 3883,
+		"category": "Items",
+		"defname": "ComponentMechanent"
+	},
+	{
+		"abr": "mechanicalarm",
+		"price": 725,
+		"category": "Synthetic body parts",
+		"defname": "Item_MechArmSynth"
+	},
+	{
+		"abr": "mechanicaljaw",
+		"price": 658,
+		"category": "Synthetic body parts",
+		"defname": "Item_MechJawSynth"
+	},
+	{
+		"abr": "mechanicalleg",
+		"price": 725,
+		"category": "Synthetic body parts",
+		"defname": "Item_MechLegSynth"
+	},
+	{
+		"abr": "mechanoidvisualsensor",
+		"price": 1775,
+		"category": "Synthetic body parts",
+		"defname": "RR_MechanoidVisualSensorItem"
+	},
+	{
+		"abr": "mechanoid-casket",
+		"price": 4242,
+		"category": "Production",
+		"defname": "MechCreationCasket"
+	},
+	{
+		"abr": "mechlink",
+		"price": 833,
+		"category": "Mechtech",
+		"defname": "MechlinkSynth"
+	},
+	{
+		"abr": "megatardi",
+		"price": 583,
+		"category": "Animals",
+		"defname": "VAEWaste_Megatardi"
+	},
+	{
+		"abr": "miqo'te",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "ARR_MiqoteSeeker"
+	},
+	{
+		"abr": "miqo'te",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "ARR_MiqoteKeeper"
+	},
+	{
+		"abr": "miqo'teloincloth",
+		"price": 141,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelMiqoteBottomFemale"
+	},
+	{
+		"abr": "miqo'temeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_ARR_MiqoteSeeker"
+	},
+	{
+		"abr": "miqo'teseparates",
+		"price": 157,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelMiqoteTopFemale"
+	},
+	{
+		"abr": "miqo'tevest",
+		"price": 157,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelMiqoteTopMale"
+	},
+	{
+		"abr": "miqo'tezouaves",
+		"price": 141,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelMiqoteBottomMale"
+	},
+	{
+		"abr": "nervewirecoil",
+		"price": 263,
+		"category": "Synthetic body parts",
+		"defname": "RR_NerveWireItem"
+	},
+	{
+		"abr": "overengineeredpsylink-former",
+		"price": 4333,
+		"category": "Archotech",
+		"defname": "PsylinkFormerSynth"
+	},
+	{
+		"abr": "persona",
+		"price": 9167,
+		"category": "Animal",
+		"defname": "Personae_"
+	},
+	{
+		"abr": "personacomponent",
+		"price": 10417,
+		"category": "Items",
+		"defname": "ComponentPersona"
+	},
+	{
+		"abr": "pestigator",
+		"price": 1250,
+		"category": "Animals",
+		"defname": "VAEWaste_Pestigator"
+	},
+	{
+		"abr": "plaguedoctor'smaskandhood",
+		"price": 186,
+		"category": "Headgear",
+		"defname": "Apparel_PlagueMask"
+	},
+	{
+		"abr": "plaguedoctor'srobes",
+		"price": 292,
+		"category": "Apparel",
+		"defname": "Apparel_PlagueDoctor"
+	},
+	{
+		"abr": "plasteelscythe",
+		"price": 758,
+		"category": "Synthetic body parts",
+		"defname": "RR_AddedScythesItem"
+	},
+	{
+		"abr": "pointedhat",
+		"price": 112,
+		"category": "Headwear",
+		"defname": "ARR_PointedHat"
+	},
+	{
+		"abr": "pothelm",
+		"price": 151,
+		"category": "Headwear",
+		"defname": "ARR_PotHelm"
+	},
+	{
+		"abr": "potion",
+		"price": 83,
+		"category": "Potions",
+		"defname": "ARR_Potion"
+	},
+	{
+		"abr": "potionbelt",
+		"price": 74,
+		"category": "Utility",
+		"defname": "ARR_PotionBelt"
+	},
+	{
+		"abr": "potionofdexterity",
+		"price": 133,
+		"category": "Potions",
+		"defname": "ARR_PotionDexterity"
+	},
+	{
+		"abr": "potionofstrength",
+		"price": 133,
+		"category": "Potions",
+		"defname": "ARR_PotionStrength"
+	},
+	{
+		"abr": "potionofvitality",
+		"price": 133,
+		"category": "Potions",
+		"defname": "ARR_PotionVitality"
+	},
+	{
+		"abr": "remoterepairer",
+		"price": 2000,
+		"category": "Mechtech",
+		"defname": "RemoteRepairerSynth"
+	},
+	{
+		"abr": "remoteshielder",
+		"price": 2000,
+		"category": "Mechtech",
+		"defname": "RemoteShielderSynth"
+	},
+	{
+		"abr": "repairprobe",
+		"price": 2000,
+		"category": "Mechtech",
+		"defname": "RepairProbeSynth"
+	},
+	{
+		"abr": "riverafloorlamp",
+		"price": 83,
+		"category": "A Rim Reborn",
+		"defname": "ARR_FloorLampRiviera"
+	},
+	{
+		"abr": "sallet",
+		"price": 169,
+		"category": "Headwear",
+		"defname": "ARR_Sallet"
+	},
+	{
+		"abr": "self-alloyedplating",
+		"price": 2875,
+		"category": "Synthetic body parts",
+		"defname": "RR_SelfAlloyingPlatingItem"
+	},
+	{
+		"abr": "sepulchralbrazier",
+		"price": 211,
+		"category": "Furniture",
+		"defname": "DA_SepulchralBrazier"
+	},
+	{
+		"abr": "shroudlavender",
+		"price": 2,
+		"category": "Alchemical herbs",
+		"defname": "ARR_Lavender"
+	},
+	{
+		"abr": "skeletonstatue",
+		"price": 517,
+		"category": "Art",
+		"defname": "DA_SkeletonStatue"
+	},
+	{
+		"abr": "soulofthebard",
+		"price": 3333,
+		"category": "Soul crystals",
+		"defname": "ARR_SoulCrystal_Bard"
+	},
+	{
+		"abr": "souloftheblackmage",
+		"price": 3333,
+		"category": "Soul crystals",
+		"defname": "ARR_SoulCrystal_BlackMage"
+	},
+	{
+		"abr": "soulofthedragoon",
+		"price": 3333,
+		"category": "Soul crystals",
+		"defname": "ARR_SoulCrystal_Dragoon"
+	},
+	{
+		"abr": "soulofthewarrior",
+		"price": 3333,
+		"category": "Soul crystals",
+		"defname": "ARR_SoulCrystal_Warrior"
+	},
+	{
+		"abr": "soulofthewhitemage",
+		"price": 3333,
+		"category": "Soul crystals",
+		"defname": "ARR_SoulCrystal_WhiteMage"
+	},
+	{
+		"abr": "stardustrod",
+		"price": 5000,
+		"category": "Disciple of magic",
+		"defname": "ARR_RelicWeapon_StardustRod"
+	},
+	{
+		"abr": "syntheticarm",
+		"price": 1808,
+		"category": "Synthetic body parts",
+		"defname": "Item_SynthArmSynth"
+	},
+	{
+		"abr": "artificialbreasts",
+		"price": 433,
+		"category": "Prosthetic",
+		"defname": "breastImplant"
+	},
+	{
+		"abr": "aura",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "ARR_AuRaRaen"
+	},
+	{
+		"abr": "aura",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "ARR_AuRaXaela"
+	},
+	{
+		"abr": "aurameat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_ARR_AuRaRaen"
+	},
+	{
+		"abr": "auribreeches",
+		"price": 141,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelAuRaBottomMale"
+	},
+	{
+		"abr": "aurigown",
+		"price": 157,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelAuRaTopFemale"
+	},
+	{
+		"abr": "auripantalettes",
+		"price": 141,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelAuRaBottomFemale"
+	},
+	{
+		"abr": "aurivest",
+		"price": 157,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelAuRaTopMale"
+	},
+	{
+		"abr": "blahaj",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "RelicInertBlahaj"
+	},
+	{
+		"abr": "crudechestbinder",
+		"price": 143,
+		"category": "Apparel",
+		"defname": "ChestBinder"
+	},
+	{
+		"abr": "estradiolpill",
+		"price": 30,
+		"category": "Drugs",
+		"defname": "Estrogen"
+	},
+	{
+		"abr": "flarenmutagen",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "RelicInertToxin"
+	},
+	{
+		"abr": "hyur",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "ARR_HyurMidlander"
+	},
+	{
+		"abr": "hyur",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "ARR_HyurHighlander"
+	},
+	{
+		"abr": "hyurmeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_ARR_HyurMidlander"
+	},
+	{
+		"abr": "hyuranbreeches",
+		"price": 141,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelHyurBottomMale"
+	},
+	{
+		"abr": "hyuranchemisette",
+		"price": 157,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelHyurTopFemale"
+	},
+	{
+		"abr": "hyuranskirt",
+		"price": 141,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelHyurBottomFemale"
+	},
+	{
+		"abr": "hyurantunic",
+		"price": 157,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelHyurTopMale"
+	},
+	{
+		"abr": "lalafell",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "ARR_LalafellPlainsfolk"
+	},
+	{
+		"abr": "lalafell",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "ARR_LalafellDunesfolk"
+	},
+	{
+		"abr": "lalafellmeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_ARR_LalafellPlainsfolk"
+	},
+	{
+		"abr": "lalafellmeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_ARR_LalafellDunesfolk"
+	},
+	{
+		"abr": "lalafellinbloomers",
+		"price": 141,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelLalafellBottomFemale"
+	},
+	{
+		"abr": "lalafellingaskins",
+		"price": 141,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelLalafellBottomMale"
+	},
+	{
+		"abr": "lalafellinkaftan",
+		"price": 157,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelLalafellTopFemale"
+	},
+	{
+		"abr": "lalafellintunic",
+		"price": 157,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelLalafellTopMale"
+	},
+	{
+		"abr": "simplechoker",
+		"price": 26,
+		"category": "Apparel",
+		"defname": "Choker"
+	},
+	{
+		"abr": "syntheticeye",
+		"price": 717,
+		"category": "Synthetic body parts",
+		"defname": "Item_SynthEyeSynth"
+	},
+	{
+		"abr": "syntheticjaw",
+		"price": 717,
+		"category": "Synthetic body parts",
+		"defname": "Item_SynthJawSynth"
+	},
+	{
+		"abr": "syntheticleg",
+		"price": 1808,
+		"category": "Synthetic body parts",
+		"defname": "Item_SynthLegSynth"
+	},
+	{
+		"abr": "testosteronepill",
+		"price": 30,
+		"category": "Drugs",
+		"defname": "Testosterone"
+	},
+	{
+		"abr": "thaumaturge'sstaff",
+		"price": 315,
+		"category": "Disciple of magic",
+		"defname": "ARR_Weapon_Thaumaturge_Basic"
+	},
+	{
+		"abr": "thyrus",
+		"price": 5000,
+		"category": "Disciple of magic",
+		"defname": "ARR_RelicWeapon_Thyrus"
+	},
+	{
+		"abr": "toxafox",
+		"price": 417,
+		"category": "Animals",
+		"defname": "VAEWaste_Toxafox"
+	},
+	{
+		"abr": "toxbear",
+		"price": 1167,
+		"category": "Animals",
+		"defname": "VAEWaste_Toxbear"
+	}
 	],
-	"total": 3001
+	"total": 3236
 }
