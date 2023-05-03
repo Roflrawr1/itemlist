@@ -261,7 +261,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.6.0.6"
+    "version": "2.6.0.7"
   },
   {
     "author": "金兔子拉面",
@@ -294,18 +294,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Nals",
-    "name": "[NL] Facial Animation - WIP",
-    "steamId": "1635901197",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Nals",
-    "name": "[NL] Facial Animation - Experimentals",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "erdelf",
     "name": "Humanoid Alien Races",
     "steamId": "839005762",
@@ -336,16 +324,10 @@
     "version": null
   },
   {
-    "author": "darkmiz",
-    "name": "Kurin HAR Facial Animation",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.5.2.0"
+    "version": "1.6.3.0"
   },
   {
     "author": "Trojan - Troopersmith1 - Linq - deathrat",
@@ -648,8 +630,74 @@
     "version": "1.0.2.2"
   },
   {
-    "author": "void",
-    "name": "SpawnStory",
+    "author": "Baskerville",
+    "name": "Vampire Knight Armoury",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dorutoruka",
+    "name": "Anime Gene",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirVan",
+    "name": "Dark Ages - Crypts and Tombs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sea",
+    "name": "Hermaphrodite Gene",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "wagon",
+    "name": "More Monster Girls",
+    "steamId": "2014838309",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "GrillMaster",
+    "name": "More xenotypes and multicultural factions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Windows XP",
+    "name": "No Trap Friendly Fire",
+    "steamId": "2886952617",
+    "version": "1.0.8349.29134"
+  },
+  {
+    "author": "Xedos",
+    "name": "Psysword",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LoggerC4 and Taranchuk",
+    "name": "ProxyHeat",
+    "steamId": "2365526329",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Hatti",
+    "name": "QualityBuilder",
+    "steamId": "754637870",
+    "version": "1.0.17"
+  },
+  {
+    "author": "InfinitySamurai",
+    "name": "RimConnect",
+    "steamId": "1880784338",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Side1iner",
+    "name": "Ultratech Weapons Plus",
     "steamId": null,
     "version": null
   }
