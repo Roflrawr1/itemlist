@@ -398,7 +398,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is romantically and sexually attracted to people of his own gender.",
+      "description": "Timmy is romantically attracted to people of his own gender.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -420,7 +420,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is romantically and sexually attracted to people regardless of gender.",
+      "description": "Timmy is romantically attracted to both men and women.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -442,7 +442,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is uninterested in sexual or romantic engagements.",
+      "description": "Timmy has no sexual attraction to anyone at all.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -778,13 +778,17 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has a fantastic memory for detail. he will lose unused skills at half the rate of other people.",
-      "stats": [],
+      "description": "Timmy has a fantastic memory for detail. he will learn new skills slightly faster than other people.",
+      "stats": [
+        "+25% global learning factor"
+      ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [],
+        "stats": [
+          "+25% global learning factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -1794,1512 +1798,6 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy tends to occasionally allow their mind to drift, even in the middle of working.",
-      "stats": [],
-      "conflicts": [
-        "workaholic",
-        "industrious",
-        "hardworker",
-        "lazy",
-        "slothful"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "workaholic",
-          "industrious",
-          "hardworker",
-          "lazy",
-          "slothful"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_AbsentMinded",
-      "name": "absent-minded"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has a loose screw or two, a small trade off for being naturally scientifically inclined.",
-      "stats": [
-        "x115% research speed"
-      ],
-      "conflicts": [
-        "dunce"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "dunce"
-        ],
-        "stats": [
-          "x115% research speed"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Eccentric",
-      "name": "eccentric"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy strives for perfection in his work. They will naturally produce better quality products at the expense of time. However, making a low quality product will upset them. Additionally, they may very rarely quit a project mid attempt if they don't like the direction its going in.",
-      "stats": [
-        "x65% global work speed"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "x65% global work speed"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Perfectionist",
-      "name": "perfectionist"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "While fully capable of warfare in theory, Timmy's fight or flight instincts heavily lean towards flight, and he will try to hide or run as a first priority.",
-      "stats": [],
-      "conflicts": [
-        "brawler",
-        "brave",
-        "bloodlust"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "brawler",
-          "brave",
-          "bloodlust"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Coward",
-      "name": "coward"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has a higher mental and physical fortitude compared to most and can more readily adapt to harsh environments in the rimworlds.",
-      "stats": [
-        "-20% mental break threshold",
-        "+20% pain shock threshold"
-      ],
-      "conflicts": [
-        "wimp",
-        "coward"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "wimp",
-          "coward"
-        ],
-        "stats": [
-          "-20% mental break threshold",
-          "+20% pain shock threshold"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Brave",
-      "name": "brave"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Minor bruises and scrapes plague Timmy all too often, mostly due to uncoordinated tripping or falling.",
-      "stats": [],
-      "conflicts": [
-        "nimble"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "nimble"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Clumsy",
-      "name": "clumsy"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy loves the brightness and heat of a dry summer day. They don't mind working up a sweat or sleeping in the warmth either.",
-      "stats": [
-        "+18.0F [10.0C] Maximum comfortable temperature"
-      ],
-      "conflicts": [
-        "coldinclined"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "coldinclined"
-        ],
-        "stats": [
-          "+18.0F [10.0C] Maximum comfortable temperature"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_HeatInclined",
-      "name": "heatinclined"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy loves the overcast and cold of a brisk winter night. They don't mind getting chilly or sleeping in the cold either.",
-      "stats": [
-        "-18.0F [-10.0C] Minimum comfortable temperature"
-      ],
-      "conflicts": [
-        "heatinclined"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "heatinclined"
-        ],
-        "stats": [
-          "-18.0F [-10.0C] Minimum comfortable temperature"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_ColdInclined",
-      "name": "coldinclined"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "A bomb could go off next to Timmy while they sleep and they'd continue to do so. They can't be bothered to defend the colony mid catnap, either.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_HeavySleeper",
-      "name": "heavysleeper"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is naturally hygenic and organized. They will not track in dirt or throw trash anywhere, and feel happy while cleaning.",
-      "stats": [],
-      "conflicts": [
-        "slob"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "slob"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Neat",
-      "name": "neat"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is sloppy naturally and leaves trash and dirt everywhere it seems. At least they're not much bothered by messes.",
-      "stats": [],
-      "conflicts": [
-        "neat"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "neat"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Slob",
-      "name": "slob"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has problems taking breaks or resting mid job. he will continue to work even sacrificing their health or sleep.",
-      "stats": [],
-      "conflicts": [
-        "absent-minded",
-        "industrious",
-        "hardworker",
-        "lazy",
-        "slothful"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "absent-minded",
-          "industrious",
-          "hardworker",
-          "lazy",
-          "slothful"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Workaholic",
-      "name": "workaholic"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has never felt nausea in his life. Throwing up or food poisoning is foreign to him.",
-      "stats": [],
-      "conflicts": [
-        "squeamish"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "squeamish"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_IronStomach",
-      "name": "ironstomach"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy can't stand mistreatment of animals. he will feel happier being nuzzled or being a master to a bonded animal, but will be more deeply crushed when not master of a bonded animal or seeing one die. They also refuse to butcher.",
-      "stats": [],
-      "conflicts": [
-        "animalhater"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "animalhater"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_AnimalLover",
-      "name": "animallover"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy believes deeply in human superiority. Killing animals will please them and the colony losing an animal is a cherry on top according to them.",
-      "stats": [],
-      "conflicts": [
-        "animallover",
-        "menagerist"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "animallover",
-          "menagerist"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_AnimalHater",
-      "name": "animalhater"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Whether because they're a bit chunky or because they shift their weight oddly, Timmy has broken a few chairs in their time and is likely to break more.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_BigBoned",
-      "name": "big-boned"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do.",
-      "stats": [],
-      "conflicts": [
-        "submissive"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "submissive"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Rebel",
-      "name": "rebel"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy needs clear instructions on how, and when to do certain things and will only work at a normal speed when being forced to do something.",
-      "stats": [],
-      "conflicts": [
-        "rebel"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "rebel"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Submissive",
-      "name": "submissive"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending.",
-      "stats": [],
-      "conflicts": [
-        "kind"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "kind"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Vengeful",
-      "name": "vengeful"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Whether by past trauma or fear of change, Timmy rejects modernity. They may randomly punch or attack mechanical devices and refuse to learn or research anything about them. They also love killing mechanoids.",
-      "stats": [
-        "Only mental break \"VTE_TechnophobeTantrum\" allowed."
-      ],
-      "conflicts": [
-        "bodymodder"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "bodymodder"
-        ],
-        "stats": [
-          "Only mental break \"VTE_TechnophobeTantrum\" allowed."
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Technophobe",
-      "name": "technophobe"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy always recalls the good times and lives to party, any party attended will be remembered for many times longer than most.",
-      "stats": [],
-      "conflicts": [
-        "anxious"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "anxious"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_FunLoving",
-      "name": "fun-loving"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has hindered mental capacities. While slow to learn and hard to speak with, they tend to be much happier naturally.",
-      "stats": [
-        "-50% global learning factor",
-        "-50.00% social impact"
-      ],
-      "conflicts": [
-        "fastlearner",
-        "toosmart",
-        "eccentric",
-        "prodigy"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "fastlearner",
-          "toosmart",
-          "eccentric",
-          "prodigy"
-        ],
-        "stats": [
-          "-50% global learning factor",
-          "-50.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Dunce",
-      "name": "dunce"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy learned a specific move in melee combat which allows them to disarm opponents and will use it frequently.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_MartialArtist",
-      "name": "martialartist"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy believes they belong in high society, and loves nothing more than critiquing art and brushing elbows with royalty.",
-      "stats": [],
-      "conflicts": [
-        "ascetic"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "ascetic"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Snob",
-      "name": "snob"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Sour stomach plagues Timmy any time they're around too much blood or rotting corpses. Vomiting is just part of life for him.",
-      "stats": [],
-      "conflicts": [
-        "ironstomach",
-        "desensitized"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "ironstomach",
-          "desensitized"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Squeamish",
-      "name": "squeamish"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy feels naturally anxious, but especially from social situations. They will not attend any gatherings and may occasionally need alone time in their room to breathe.",
-      "stats": [
-        "Only mental break \"VTE_PanicFreezing\" allowed."
-      ],
-      "conflicts": [
-        "fun-loving"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "fun-loving"
-        ],
-        "stats": [
-          "Only mental break \"VTE_PanicFreezing\" allowed."
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Anxious",
-      "name": "anxious"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "No amount of lovin' is enough lovin' for Timmy. he will tend to jump from partner to partner and tumble between the sheets with them frequently.",
-      "stats": [],
-      "conflicts": [
-        "prude",
-        "asexual(aro)",
-        "nudist"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "prude",
-          "asexual(aro)",
-          "nudist"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Insatiable",
-      "name": "insatiable"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns.",
-      "stats": [],
-      "conflicts": [
-        "insatiable",
-        "nudist"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "insatiable",
-          "nudist"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Prude",
-      "name": "prude"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "An armchair and flatscreen is all Timmy needs to be happy. Even reruns or ancient commercials are entertaining to them, they will never grow bored of television and tend to watch it more, as well as feel pleased after doing so.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_CouchPotato",
-      "name": "couchpotato"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is mad for all things feline. They will naturally gravitate towards bonding with cats, however they're not a fan of dogs.",
-      "stats": [],
-      "conflicts": [
-        "dogperson"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "dogperson"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_CatPerson",
-      "name": "catperson"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is mad for all things canine. They will naturally gravitate towards bonding with dogs, however they're not a fan of cats.",
-      "stats": [],
-      "conflicts": [
-        "catperson"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "catperson"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_DogPerson",
-      "name": "dogperson"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a natural scientist. They research much faster and recall things better. However, they'll be upset without a laboratory dedicated to their work and tend to stress out more frequently.",
-      "stats": [
-        "+20% mental break threshold",
-        "x130% research speed"
-      ],
-      "conflicts": [
-        "dunce"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "dunce"
-        ],
-        "stats": [
-          "+20% mental break threshold",
-          "x130% research speed"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Prodigy",
-      "name": "prodigy"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy believes animals are integral to the way society and life functions from furry friends to sources of food. They love having as many as possible and are particularly good at taming and training them.",
-      "stats": [
-        "x120% tame animal chance",
-        "x120% train animal chance"
-      ],
-      "conflicts": [
-        "animalhater"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "animalhater"
-        ],
-        "stats": [
-          "x120% tame animal chance",
-          "x120% train animal chance"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Menagerist",
-      "name": "menagerist"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "The sea calls to Timmy. he feels happier just being near the ocean or a deep river.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_ChildOfSea",
-      "name": "oceanlover"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "The mountains call to Timmy. he feels happier just being near a large mountain.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_ChildOfMountain",
-      "name": "mountainlover"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has a twisted secret. he treats organ harvesting like a sick experiment, and does not even blink at the idea. While harvesting one will make them happy, going too long without giving in to their compulsion will upset them.",
-      "stats": [
-        "+20% surgery success chance factor"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+20% surgery success chance factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_MadSurgeon",
-      "name": "madsurgeon"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is supposedly a hand-to-hand combat specialist, but only when inebriated. They claim to become more talented the more drunk they are.",
-      "stats": [
-        "+4 melee"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+4 melee"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_DrunkenMaster",
-      "name": "drunkenmaster"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is compulsed to steal and take things that don't belong to them, even if it means angering the other party.",
-      "stats": [
-        "Only mental break \"VTE_Kleptomaniac\" allowed."
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "Only mental break \"VTE_Kleptomaniac\" allowed."
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Kleptomaniac",
-      "name": "kleptomaniac"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Smokeleaf culture is just part of life for Timmy. he absolutely adores smokeleaf and would rather die before giving it up.",
-      "stats": [],
-      "conflicts": [
-        "chemicalfascination",
-        "chemicalinterest",
-        "teetotaler",
-        "lush"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "chemicalfascination",
-          "chemicalinterest",
-          "teetotaler",
-          "lush"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Stoner",
-      "name": "stoner"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Alcohol culture is just part of life for Timmy. he absolutely adores booze and would rather die before giving it up.",
-      "stats": [],
-      "conflicts": [
-        "chemicalfascination",
-        "chemicalinterest",
-        "teetotaler",
-        "lush"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "chemicalfascination",
-          "chemicalinterest",
-          "teetotaler",
-          "lush"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Lush",
-      "name": "lush"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy loves to travel and does so swiftly, but can grow upset if they haven't done so in a while. They are also quite adept at foraging while traveling.",
-      "stats": [
-        "+0.2 foraged food amount"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+0.2 foraged food amount"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Wanderlust",
-      "name": "wanderlust"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is never really asleep or awake. he is almost zombie like, lurching along and working very slowly, and will only sleep once every three days or so.",
-      "stats": [
-        "x50% global work speed",
-        "x70% move speed"
-      ],
-      "conflicts": [
-        "heavysleeper"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "heavysleeper"
-        ],
-        "stats": [
-          "x50% global work speed",
-          "x70% move speed"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Insomniac",
-      "name": "insomniac"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has grown tired of the world and needs to be constantly distracted to stop dark thoughts. his bleak personality is a big downer and therefore it is very hard to become friends with them.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_WorldWeary",
-      "name": "worldweary"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies.",
-      "stats": [],
-      "conflicts": [
-        "squeamish"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "squeamish"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Desensitized",
-      "name": "desensitized"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Only the finest of culinary creations may grace the lips of Timmy. They feel neutral towards mundane meals, but will laud and savour lavish meals down to the last bite.",
-      "stats": [
-        "x70% eating speed"
-      ],
-      "conflicts": [
-        "ascetic"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "ascetic"
-        ],
-        "stats": [
-          "x70% eating speed"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_RefinedPalate",
-      "name": "refinedpalate"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Whether through studying ancient manuscripts or years of scholastic pursuit Timmy is surprisingly well read on a variety of topics, particularly science and medical practice.",
-      "stats": [
-        "+4 intellectual",
-        "+4 medical",
-        "+20% medical tend quality"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+4 intellectual",
-          "+4 medical",
-          "+20% medical tend quality"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Academian",
-      "name": "academian"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy strongly believes infrastucture rules all and is a natural born stoneworker.",
-      "stats": [
-        "+4 mining",
-        "+4 construction",
-        "+20% mining yield",
-        "+20% construction speed"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+4 mining",
-          "+4 construction",
-          "+20% mining yield",
-          "+20% construction speed"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Groundbreaker",
-      "name": "groundbreaker"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "In the eyes of Timmy food is art, their culinary creations are incredibly beautiful, amazing to taste, and almost always safe to eat.",
-      "stats": [
-        "+4 cooking",
-        "+4 artistic",
-        "-25.00% food poison chance"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+4 cooking",
-          "+4 artistic",
-          "-25.00% food poison chance"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Gastronomist",
-      "name": "gastronomist"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Flora and fauna are both vital to Timmy. They use all parts of plants and animals and strongly appreciate mother Gaia's blessings.",
-      "stats": [
-        "+4 animals",
-        "+4 plants",
-        "+20% plant harvest yield",
-        "+20% butchery efficiency"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+4 animals",
-          "+4 plants",
-          "+20% plant harvest yield",
-          "+20% butchery efficiency"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Ecologist",
-      "name": "ecologist"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has an eye for silver and a tongue made from it. They believe their products are the best products and he will likely convince you if given the chance.",
-      "stats": [
-        "+4 social",
-        "+4 crafting",
-        "+25.00% trade price improvement"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+4 social",
-          "+4 crafting",
-          "+25.00% trade price improvement"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Tycoon",
-      "name": "tycoon"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is strangely hypercoagulating and will bleed much more slowly than most.",
-      "stats": [],
-      "conflicts": [
-        "thinskinned"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "thinskinned"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_ThickSkinned",
-      "name": "thickskinned"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is strangely hemophilic and tends to bleed much more profusely than others.",
-      "stats": [],
-      "conflicts": [
-        "thickskinned"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "thickskinned"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_ThinSkinned",
-      "name": "thinskinned"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has trouble expressing themselves until its all too much to bear, whereafter they will have an utter meltdown.",
-      "stats": [],
-      "conflicts": [
-        "iron-willed",
-        "steadfast",
-        "nervous",
-        "volatile"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "iron-willed",
-          "steadfast",
-          "nervous",
-          "volatile"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_Schizoid",
-      "name": "schizoid"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Psycasts Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VPE_Thrall",
-      "name": "thrall"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
       "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
       "stats": [],
       "conflicts": [],
@@ -3322,50 +1820,6 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has always seen their body as nothing more than a vessel for the mind. he does not care about the gender, age or looks of their body.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Altered Carbon: Ultratech Unleashed",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VFEU_FreeMind",
-      "name": "freemind"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy can change sleeves as easily as changing clothes. he doesn’t care how often he switches sleeves or what sleeve he is currently riding.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Altered Carbon: Ultratech Unleashed",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VFEU_Sleever",
-      "name": "sleever"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
       "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
       "stats": [],
       "conflicts": [],
@@ -3381,6 +1835,294 @@
       },
       "defName": "VME_Elder",
       "name": "elder"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "A strict principle of nonviolence which applies to all living things.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Alpha Memes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AM_Ahimsa",
+      "name": "vowofnonviolence"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is entombed in a warcasket. No amount of pain will have an effect on them, and they can never go into a pain shock or drop unconscious due to pain. Because of how bulky the armor is and how much energy it takes to use it, Timmy is not capable of doing any work.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Factions Expanded - Pirates",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VFEP_WarcasketTrait",
+      "name": "warcasket"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy was entombed in a warcasket, and then brutally pulled out of one. The neural and nerve damage from being unplugged is so severe that Timmy is in constant, agonizing pain and can barely assemble his thoughts. Only installing Timmy back in a warcasket can cure the symptoms.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Factions Expanded - Pirates",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VFEP_Shellcasket",
+      "name": "shellcasket"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy always shies away from danger. he is usually the first to flee from battle.",
+      "stats": [
+        "+25% suppressability"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+25% suppressability"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Combat Extended",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bravery",
+      "name": "cowardly"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Few things scare Timmy. In battle he stands unfazed where others panic and flee.",
+      "stats": [
+        "-50% suppressability"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-50% suppressability"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Combat Extended",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bravery",
+      "name": "brave"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy laughs in the face of danger. Some ascribe it to bravery, others to stupidity. Either way, Timmy seems to lack any sense of self-preservation and will never flee from a threatening situation.",
+      "stats": [
+        "-100% suppressability"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-100% suppressability"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Combat Extended",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bravery",
+      "name": "fearless"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "germaphobe"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy is very hygienic and will wash more frequently.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "hygienic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy is very unhygienic and will wash less frequently.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "unhygienic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2,
+      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "slob"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy lives for the thrill of the action. he gets a rush from the adrenaline that flows throughout his veins.",
+      "stats": [],
+      "conflicts": [
+        "cool-headed"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "cool-headed"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[XND] Adrenaline! (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AdrenalineJunkie",
+      "name": "adrenalinejunkie"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy tends to keep calm in heated situations and generally doesn't get an adrenaline rush from them.",
+      "stats": [
+        "-100.0% adrenaline production"
+      ],
+      "conflicts": [
+        "adrenalinejunkie"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "adrenalinejunkie"
+        ],
+        "stats": [
+          "-100.0% adrenaline production"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[XND] Adrenaline! (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "CoolHeaded",
+      "name": "cool-headed"
     },
     {
       "canAdd": true,
@@ -3432,27 +2174,21 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is always ready with a flirtatious comment or a playful compliment, lifting the spirits of those around him. he has a knack for making others feel special and desired, however this may sometimes lead to complicated situations when he's playful intentions are misinterpreted.",
+      "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
       "stats": [],
-      "conflicts": [
-        "abrasive",
-        "psychopath"
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
-        "conflicts": [
-          "abrasive",
-          "psychopath"
-        ],
+        "conflicts": [],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Races Expanded - Highmate",
+        "mod": "Vanilla Psycasts Expanded",
         "karmaTypeForAdding": null
       },
-      "defName": "VRE_Flirty",
-      "name": "flirty"
+      "defName": "VPE_Thrall",
+      "name": "thrall"
     },
     {
       "canAdd": true,
@@ -3460,115 +2196,107 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is exceptionally empathetic and sensitive to the suffering of others. Whenever he witnesses pain or hardship, it deeply affects him, resulting in memories of these events haunting Timmy for a much longer time.",
-      "stats": [],
-      "conflicts": [
-        "bloodlust",
-        "psychopath"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "bloodlust",
-          "psychopath"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Races Expanded - Highmate",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VRE_Distressed",
-      "name": "distressed"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy spent his entire life among trees and wild animals. It definitely changed his behavior. Timmy won't be upset if he eats raw food without a table. he doesn't care about sleeping on the floor, outside or having damaged clothes, although he prefers to wear at least something.",
+      "description": "がんばりや Hardy",
       "stats": [
-        "Artistic meditation focus type disabled.",
-        "Natural meditation focus type allowed."
-      ],
-      "conflicts": [
-        "greedy",
-        "jealous",
-        "gourmand"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "greedy",
-          "jealous",
-          "gourmand"
-        ],
-        "stats": [
-          "Artistic meditation focus type disabled.",
-          "Natural meditation focus type allowed."
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Elders Faction",
-        "karmaTypeForAdding": null
-      },
-      "defName": "NatureHarmony",
-      "name": "inharmonywithnature"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 2,
-      "description": "Timmy possesses an unnatural, almost pristine beauty that makes him stand out among others of his kind.",
-      "stats": [
-        "+1.0 beauty"
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+2 shooting",
+        "+2 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "+1.0 beauty"
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+2 shooting",
+          "+2 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
         ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Alpha Genes",
+        "mod": "[LC]Lucario Race",
         "karmaTypeForAdding": null
       },
-      "defName": "AG_Beauty",
-      "name": "angelicbeauty"
+      "defName": "Hardy",
+      "name": "勤奮"
     },
     {
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": -2,
-      "description": "Timmy is so unfathomably ugly and grotesque that merely looking at him is enough to make other people nauseous.",
+      "degree": 0,
+      "description": "さみしがり Lonely",
       "stats": [
-        "-1.0 beauty"
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+4 melee",
+        "+2 shooting",
+        "+2 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "-1.0 beauty"
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+4 melee",
+          "+2 shooting",
+          "+2 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
         ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Alpha Genes",
+        "mod": "[LC]Lucario Race",
         "karmaTypeForAdding": null
       },
-      "defName": "AG_Beauty",
-      "name": "repulsive"
+      "defName": "Lonely",
+      "name": "怕寂寞"
     },
     {
       "canAdd": true,
@@ -3576,25 +2304,53 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy just doesn't give a shit what others think. he is unaffected by slights and insults, but also by kind words.",
+      "description": "いじっぱり Adamant",
       "stats": [
-        "x50% global certainty loss factor"
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+4 melee",
+        "+1 shooting",
+        "+2 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "x50% global certainty loss factor"
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+4 melee",
+          "+1 shooting",
+          "+2 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
         ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Cyanobot's Genes",
+        "mod": "[LC]Lucario Race",
         "karmaTypeForAdding": null
       },
-      "defName": "Unaffected",
-      "name": "unaffected"
+      "defName": "Adamant",
+      "name": "固執"
     },
     {
       "canAdd": true,
@@ -3602,113 +2358,53 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is romantically and sexually attracted to people of the opposite gender.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Way Better Romance",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Straight",
-      "name": "straight"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is uninterested in sexual engagements, but is romantically attracted to people of the opposite gender.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Way Better Romance",
-        "karmaTypeForAdding": null
-      },
-      "defName": "HeteroAce",
-      "name": "asexual(hetero)"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is uninterested in sexual engagements, but is romantically attracted to people of his own gender.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Way Better Romance",
-        "karmaTypeForAdding": null
-      },
-      "defName": "HomoAce",
-      "name": "asexual(homo)"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is uninterested in sexual engagements, but is romantically attracted to people regardless of gender.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Way Better Romance",
-        "karmaTypeForAdding": null
-      },
-      "defName": "BiAce",
-      "name": "asexual(bi)"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy will never cheat on a partner, no matter how bad the relationship gets.",
-      "stats": [],
-      "conflicts": [
-        "philanderer"
+      "description": "やんちゃ Naughty",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+4 melee",
+        "+2 shooting",
+        "+2 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
       ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
-        "conflicts": [
-          "philanderer"
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+4 melee",
+          "+2 shooting",
+          "+2 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
         ],
-        "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Way Better Romance",
+        "mod": "[LC]Lucario Race",
         "karmaTypeForAdding": null
       },
-      "defName": "Faithful",
-      "name": "faithful"
+      "defName": "Naughty",
+      "name": "頑皮"
     },
     {
       "canAdd": true,
@@ -3716,25 +2412,2483 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy just cannot be trusted to stay faithful to a partner.",
-      "stats": [],
-      "conflicts": [
-        "faithful"
+      "description": "ゆうかん Brave",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+4 melee",
+        "+2 shooting",
+        "+2 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
       ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
-        "conflicts": [
-          "faithful"
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+4 melee",
+          "+2 shooting",
+          "+2 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
         ],
-        "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Way Better Romance",
+        "mod": "[LC]Lucario Race",
         "karmaTypeForAdding": null
       },
-      "defName": "Philanderer",
-      "name": "philanderer"
+      "defName": "Brave",
+      "name": "勇敢"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "ずぶとい Bold",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+4 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+2 shooting",
+        "+4 crafting",
+        "+2 mining",
+        "+4 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+4 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+2 shooting",
+          "+4 crafting",
+          "+2 mining",
+          "+4 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Lucario Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bold",
+      "name": "大膽"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "すなお Docile",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+2 shooting",
+        "+2 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+2 shooting",
+          "+2 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Lucario Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Docile",
+      "name": "坦率"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "わんぱく Impish",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+4 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+2 shooting",
+        "+4 crafting",
+        "+2 mining",
+        "+4 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+4 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+2 shooting",
+          "+4 crafting",
+          "+2 mining",
+          "+4 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Lucario Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Impish",
+      "name": "淘氣"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "のうてんき Lax",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+4 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+2 shooting",
+        "+4 crafting",
+        "+2 mining",
+        "+4 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+4 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+2 shooting",
+          "+4 crafting",
+          "+2 mining",
+          "+4 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Lucario Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Lax",
+      "name": "樂天"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "のんき Relaxed",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+4 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+2 shooting",
+        "+4 crafting",
+        "+2 mining",
+        "+4 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+4 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+2 shooting",
+          "+4 crafting",
+          "+2 mining",
+          "+4 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Lucario Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Relaxed",
+      "name": "悠閒"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "ひかえめ Modest",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+4 shooting",
+        "+2 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+4 shooting",
+          "+2 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Lucario Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Modest",
+      "name": "內斂"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "おっとり Mild",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+4 shooting",
+        "+2 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+4 shooting",
+          "+2 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Lucario Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Mild",
+      "name": "慢吞吞"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "てれや Bashful",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+4 shooting",
+        "+2 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+4 shooting",
+          "+2 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Lucario Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bashful",
+      "name": "害羞"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "うっかりや Rash",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+4 shooting",
+        "+2 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+4 shooting",
+          "+2 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Lucario Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Rash",
+      "name": "馬虎"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "れいせい Quiet",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+4 shooting",
+        "+2 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+4 shooting",
+          "+2 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Lucario Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Quiet",
+      "name": "冷靜"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "おだやか Calm",
+      "stats": [
+        "+4 social",
+        "+4 intellectual",
+        "+4 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+2 shooting",
+        "+4 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 social",
+          "+4 intellectual",
+          "+4 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+2 shooting",
+          "+4 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Lucario Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Calm",
+      "name": "溫和"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "おとなしい Gentle",
+      "stats": [
+        "+4 social",
+        "+4 intellectual",
+        "+4 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+2 shooting",
+        "+4 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 social",
+          "+4 intellectual",
+          "+4 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+2 shooting",
+          "+4 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Lucario Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Gentle",
+      "name": "溫順"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "しんちょう Careful",
+      "stats": [
+        "+4 social",
+        "+4 intellectual",
+        "+4 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+2 shooting",
+        "+4 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 social",
+          "+4 intellectual",
+          "+4 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+2 shooting",
+          "+4 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Lucario Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Careful",
+      "name": "慎重"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "きまぐれ Quirky",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+2 shooting",
+        "+2 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+2 shooting",
+          "+2 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Lucario Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Quirky",
+      "name": "浮躁"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "なまいき Sassy",
+      "stats": [
+        "+4 social",
+        "+4 intellectual",
+        "+4 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+2 shooting",
+        "+4 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 social",
+          "+4 intellectual",
+          "+4 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+2 shooting",
+          "+4 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Lucario Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Sassy",
+      "name": "自大"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "おくびょう Timid",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+4 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+2 shooting",
+        "+2 crafting",
+        "+4 mining",
+        "+4 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+4 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+2 shooting",
+          "+2 crafting",
+          "+4 mining",
+          "+4 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Lucario Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Timid",
+      "name": "膽小"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "せっかち Hasty",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+4 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+2 shooting",
+        "+2 crafting",
+        "+4 mining",
+        "+4 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+4 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+2 shooting",
+          "+2 crafting",
+          "+4 mining",
+          "+4 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Lucario Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hasty",
+      "name": "急躁"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "ようき Jolly",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+4 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+2 shooting",
+        "+2 crafting",
+        "+4 mining",
+        "+4 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+4 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+2 shooting",
+          "+2 crafting",
+          "+4 mining",
+          "+4 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Lucario Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Jolly",
+      "name": "爽朗"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "むじゃき Naive",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+4 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+2 shooting",
+        "+2 crafting",
+        "+4 mining",
+        "+4 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+4 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+2 shooting",
+          "+2 crafting",
+          "+4 mining",
+          "+4 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Lucario Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Naive",
+      "name": "天真"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "まじめ Serious",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+2 shooting",
+        "+2 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+2 shooting",
+          "+2 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Lucario Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Serious",
+      "name": "認真"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "がんばりや Hardy",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+2 shooting",
+        "+2 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+2 shooting",
+          "+2 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Umbreon Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "UmbreonHardy",
+      "name": "勤奮"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "さみしがり Lonely",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+4 melee",
+        "+2 shooting",
+        "+2 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+4 melee",
+          "+2 shooting",
+          "+2 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Umbreon Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "UmbreonLonely",
+      "name": "怕寂寞"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "いじっぱり Adamant",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+4 melee",
+        "+1 shooting",
+        "+2 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+4 melee",
+          "+1 shooting",
+          "+2 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Umbreon Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "UmbreonAdamant",
+      "name": "固執"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "やんちゃ Naughty",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+4 melee",
+        "+2 shooting",
+        "+2 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+4 melee",
+          "+2 shooting",
+          "+2 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Umbreon Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "UmbreonNaughty",
+      "name": "頑皮"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "ゆうかん Brave",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+4 melee",
+        "+2 shooting",
+        "+2 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+4 melee",
+          "+2 shooting",
+          "+2 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Umbreon Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "UmbreonBrave",
+      "name": "勇敢"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "ずぶとい Bold",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+4 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+2 shooting",
+        "+4 crafting",
+        "+2 mining",
+        "+4 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+4 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+2 shooting",
+          "+4 crafting",
+          "+2 mining",
+          "+4 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Umbreon Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "UmbreonBold",
+      "name": "大膽"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "すなお Docile",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+2 shooting",
+        "+2 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+2 shooting",
+          "+2 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Umbreon Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "UmbreonDocile",
+      "name": "坦率"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "わんぱく Impish",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+4 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+2 shooting",
+        "+4 crafting",
+        "+2 mining",
+        "+4 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+4 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+2 shooting",
+          "+4 crafting",
+          "+2 mining",
+          "+4 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Umbreon Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "UmbreonImpish",
+      "name": "淘氣"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "のうてんき Lax",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+4 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+2 shooting",
+        "+4 crafting",
+        "+2 mining",
+        "+4 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+4 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+2 shooting",
+          "+4 crafting",
+          "+2 mining",
+          "+4 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Umbreon Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "UmbreonLax",
+      "name": "樂天"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "のんき Relaxed",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+4 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+2 shooting",
+        "+4 crafting",
+        "+2 mining",
+        "+4 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+4 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+2 shooting",
+          "+4 crafting",
+          "+2 mining",
+          "+4 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Umbreon Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "UmbreonRelaxed",
+      "name": "悠閒"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "ひかえめ Modest",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+4 shooting",
+        "+2 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+4 shooting",
+          "+2 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Umbreon Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "UmbreonModest",
+      "name": "內斂"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "おっとり Mild",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+4 shooting",
+        "+2 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+4 shooting",
+          "+2 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Umbreon Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "UmbreonMild",
+      "name": "慢吞吞"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "てれや Bashful",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+4 shooting",
+        "+2 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+4 shooting",
+          "+2 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Umbreon Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "UmbreonBashful",
+      "name": "害羞"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "うっかりや Rash",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+4 shooting",
+        "+2 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+4 shooting",
+          "+2 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Umbreon Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "UmbreonRash",
+      "name": "馬虎"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "れいせい Quiet",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+4 shooting",
+        "+2 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+4 shooting",
+          "+2 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Umbreon Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "UmbreonQuiet",
+      "name": "冷靜"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "おだやか Calm",
+      "stats": [
+        "+4 social",
+        "+4 intellectual",
+        "+4 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+2 shooting",
+        "+4 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 social",
+          "+4 intellectual",
+          "+4 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+2 shooting",
+          "+4 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Umbreon Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "UmbreonCalm",
+      "name": "溫和"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "おとなしい Gentle",
+      "stats": [
+        "+4 social",
+        "+4 intellectual",
+        "+4 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+2 shooting",
+        "+4 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 social",
+          "+4 intellectual",
+          "+4 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+2 shooting",
+          "+4 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Umbreon Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "UmbreonGentle",
+      "name": "溫順"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "しんちょう Careful",
+      "stats": [
+        "+4 social",
+        "+4 intellectual",
+        "+4 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+2 shooting",
+        "+4 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 social",
+          "+4 intellectual",
+          "+4 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+2 shooting",
+          "+4 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Umbreon Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "UmbreonCareful",
+      "name": "慎重"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "きまぐれ Quirky",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+2 shooting",
+        "+2 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+2 shooting",
+          "+2 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Umbreon Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "UmbreonQuirky",
+      "name": "浮躁"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "なまいき Sassy",
+      "stats": [
+        "+4 social",
+        "+4 intellectual",
+        "+4 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+2 shooting",
+        "+4 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 social",
+          "+4 intellectual",
+          "+4 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+2 shooting",
+          "+4 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Umbreon Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "UmbreonSassy",
+      "name": "自大"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "おくびょう Timid",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+4 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+2 shooting",
+        "+2 crafting",
+        "+4 mining",
+        "+4 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+4 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+2 shooting",
+          "+2 crafting",
+          "+4 mining",
+          "+4 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Umbreon Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "UmbreonTimid",
+      "name": "膽小"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "せっかち Hasty",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+4 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+2 shooting",
+        "+2 crafting",
+        "+4 mining",
+        "+4 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+4 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+2 shooting",
+          "+2 crafting",
+          "+4 mining",
+          "+4 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Umbreon Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "UmbreonHasty",
+      "name": "急躁"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "ようき Jolly",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+4 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+2 shooting",
+        "+2 crafting",
+        "+4 mining",
+        "+4 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+4 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+2 shooting",
+          "+2 crafting",
+          "+4 mining",
+          "+4 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Umbreon Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "UmbreonJolly",
+      "name": "爽朗"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "むじゃき Naive",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+4 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+2 shooting",
+        "+2 crafting",
+        "+4 mining",
+        "+4 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+4 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+2 shooting",
+          "+2 crafting",
+          "+4 mining",
+          "+4 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Umbreon Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "UmbreonNaive",
+      "name": "天真"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "まじめ Serious",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+2 medical",
+        "+2 cooking",
+        "+2 melee",
+        "+2 shooting",
+        "+2 crafting",
+        "+2 mining",
+        "+2 construction",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+2 medical",
+          "+2 cooking",
+          "+2 melee",
+          "+2 shooting",
+          "+2 crafting",
+          "+2 mining",
+          "+2 construction",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LC]Umbreon Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "UmbreonSerious",
+      "name": "認真"
     }
   ],
   "races": [
@@ -3744,10 +4898,13 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1.0 Melee dodge chance",
+          "+100% Melee critical chance",
+          "+100% Melee parry chance",
           "+$1750 Market value",
           "+4.60 Move speed",
-          "+28.8F [16.0C] Minimum comfortable temperature",
-          "+46.8F [26.0C] Maximum comfortable temperature",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
           "+75 Leather amount",
           "+3 Honor value"
         ],
@@ -3764,227 +4921,193 @@
       "data": {
         "customName": false,
         "stats": [
-          "+60.00 Mass",
-          "+150% Flammability",
-          "+$1200 Market value",
-          "+4.70 Move speed",
-          "+45.0F [25.0C] Maximum comfortable temperature",
-          "-9.0F [-5.0C] Minimum comfortable temperature",
-          "+100% Rest rate multiplier",
-          "+100% Eating speed",
-          "+75 Carrying capacity",
-          "+35 Meat amount",
-          "+45 Leather amount",
-          "+75% Pain shock threshold",
-          "+100% Psychic sensitivity",
-          "+40% Mental break threshold",
-          "+50% Toxic resistance",
-          "+50% Toxic environment resistance",
-          "+1.2 Melee dodge chance",
-          "+1.0 Melee hit chance",
-          "+100% Aiming time",
-          "+1.0 Shooting accuracy",
-          "+115.00% Negotiation ability",
-          "+100% Sell price multiplier",
-          "+125.00% Social impact",
-          "+115.00% Trade price improvement",
-          "+100% Mechanoid shredding efficiency",
-          "+100% Mechanoid shredding speed",
-          "+100% Smelting speed",
-          "+100% General labor speed",
-          "+100% Construction speed",
-          "+100% Butchery efficiency",
-          "+100% Butchery speed",
-          "+110.00% Food poison chance",
-          "+1.3 Cooking speed",
-          "+125% Plant work speed",
-          "+100% Global learning factor",
-          "+100% Research speed",
-          "+100% Medical tend quality",
-          "+150% Drug synthesis speed",
-          "+100% Medical surgery success chance",
-          "+105% Immunity gain speed",
-          "+90% Mining speed",
-          "+110% Mining yield",
-          "+0.0% Armor - Blunt",
-          "+0.0% Armor - Sharp"
+          "+75.00 Mass",
+          "+100% Flammability",
+          "+1.0 Melee dodge chance",
+          "+100% Melee critical chance",
+          "+100% Melee parry chance",
+          "+$1500 Market value",
+          "+4.61 Move speed",
+          "-90.0F Minimum comfortable temperature",
+          "+90.0F Maximum comfortable temperature",
+          "+80% Toxic resistance",
+          "+135% Immunity gain speed",
+          "+25 Leather amount",
+          "+100% Suppressability",
+          "+50% Smoke sensitivity"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "Yuran is an Ain race with the appearance of a rabbit, and its origin is not known precisely.\nAs a minority race with a small population, there are genetic problems and males do not exist. It continues.\nCentering on the Miko with special abilities that are passed on through blood lineage, they live in a small village-sized village and have faith in the large cherry tree in their hometown.",
-      "defName": "Yuran_Race",
+      "description": "A race of humanlike robots which are mostly female in model variety.\n\nThe origins of these machines are mostly unknown. Some speculate they are escapees from a civilization which used them for labor and some just suggest they are outdated pleasure machines which got dumped by a passing space freighter.\n\nBy design by their previous masters they are weak physically but their raw fortitude is enough to make up for it. Beware of their biological reactor and capacitors violently exploding, if they die by overheating.",
+      "defName": "ChjAndroid",
       "enabled": true,
-      "name": "Yuran",
-      "price": 1500
+      "name": "Android",
+      "price": 2500
     },
     {
       "data": {
         "customName": false,
         "stats": [
-          "+52.00 Mass",
-          "+150% Flammability",
-          "+$2800 Market value",
-          "+4.75 Move speed",
-          "+45.0F [25.0C] Maximum comfortable temperature",
-          "+18.0F [10.0C] Minimum comfortable temperature",
-          "+100% Rest rate multiplier",
-          "+100% Eating speed",
-          "+75 Carrying capacity",
-          "+5 Meat amount",
-          "+5 Leather amount",
-          "+80% Pain shock threshold",
-          "+135% Psychic sensitivity",
-          "+25% Mental break threshold",
-          "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+1.2 Melee dodge chance",
-          "+1.0 Melee hit chance",
-          "+100% Aiming time",
-          "+1.0 Shooting accuracy",
-          "+125.00% Negotiation ability",
-          "+100% Sell price multiplier",
-          "+150.00% Social impact",
-          "+115.00% Trade price improvement",
-          "+100% Mechanoid shredding efficiency",
-          "+100% Mechanoid shredding speed",
-          "+100% Smelting speed",
-          "+100% General labor speed",
-          "+100% Construction speed",
-          "+100% Butchery efficiency",
-          "+100% Butchery speed",
-          "+110.00% Food poison chance",
-          "+1.0 Cooking speed",
-          "+125% Plant work speed",
-          "+100% Global learning factor",
-          "+100% Research speed",
-          "+120% Medical tend quality",
-          "+150% Drug synthesis speed",
-          "+100% Medical surgery success chance",
-          "+105% Immunity gain speed",
-          "+50% Mining speed",
-          "+100% Mining yield",
-          "+0.0% Armor - Blunt",
-          "+0.0% Armor - Sharp",
-          "+220.00% Conversion power"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Miko serves and manages the village as a kind of duty for Yuran belonging to a family of special lineage.",
-      "defName": "Yuran_Race_Miko",
-      "enabled": false,
-      "name": "Yuran Miko",
-      "price": 4667
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+48.00 Mass",
+          "+60.00 Mass",
           "+0% Flammability",
-          "+$2800 Market value",
-          "+4.75 Move speed",
-          "+45.0F [25.0C] Maximum comfortable temperature",
-          "+18.0F [10.0C] Minimum comfortable temperature",
-          "+100% Rest rate multiplier",
-          "+100% Eating speed",
-          "+75 Carrying capacity",
-          "+5 Meat amount",
-          "+5 Leather amount",
-          "+90% Pain shock threshold",
-          "+185% Psychic sensitivity",
-          "+25% Mental break threshold",
+          "+1.0 Melee dodge chance",
+          "+95% Melee critical chance",
+          "+95% Melee parry chance",
+          "+$850 Market value",
+          "+5.21 Move speed",
+          "-360.0F Minimum comfortable temperature",
+          "+540.0F Maximum comfortable temperature",
           "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+1.2 Melee dodge chance",
-          "+1.0 Melee hit chance",
-          "+100% Aiming time",
-          "+1.0 Shooting accuracy",
-          "+175.00% Negotiation ability",
-          "+100% Sell price multiplier",
-          "+250.00% Social impact",
-          "+135.00% Trade price improvement",
-          "+100% Mechanoid shredding efficiency",
-          "+100% Mechanoid shredding speed",
-          "+100% Smelting speed",
-          "+100% General labor speed",
-          "+100% Construction speed",
-          "+100% Butchery efficiency",
-          "+100% Butchery speed",
-          "+110.00% Food poison chance",
-          "+1.0 Cooking speed",
-          "+125% Plant work speed",
-          "+120% Global learning factor",
-          "+100% Research speed",
-          "+120% Medical tend quality",
-          "+150% Drug synthesis speed",
-          "+100% Medical surgery success chance",
-          "+105% Immunity gain speed",
-          "+50% Mining speed",
-          "+100% Mining yield",
-          "+20.0% Armor - Blunt",
-          "+20.0% Armor - Sharp",
-          "+400.00% Conversion power",
-          "+4.0 Beauty"
+          "+0% Psychic sensitivity",
+          "+500% Pain shock threshold",
+          "+0% Mental break threshold",
+          "+0.00% Social impact",
+          "+0% Global learning factor",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+2 Armor - Sharp",
+          "+3 Armor - Blunt",
+          "+200.0% Armor - Heat",
+          "+75 Carrying capacity",
+          "+0% Smoke sensitivity"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "She is Miko who is fluent in curses.\nAccording to the record, she even overcame death.",
-      "defName": "Yuran_Race_Miko_BlackSnake",
-      "enabled": false,
-      "name": "Yuran BlackSnake",
-      "price": 4667
+      "description": "A race of rudimentary humanlike worker robots.\n\nUsually found toiling around in colonies around the rim which got a resident tinkerer.\n\nNot capable of sapience, however their relative cheap cost and ability to work around the clock make them valuable workers.",
+      "defName": "ChjDroid",
+      "enabled": true,
+      "name": "Droid",
+      "price": 1417
     },
     {
       "data": {
         "customName": false,
         "stats": [
           "+55.00 Mass",
-          "+$2500 Market value",
-          "+4.80 Move speed",
-          "+3.6F [2.0C] Minimum comfortable temperature",
-          "+63.0F [35.0C] Maximum comfortable temperature",
-          "+50 Leather amount",
-          "+60 Meat amount",
-          "+100% Immunity gain speed",
-          "+90 Carrying capacity",
-          "+80% Pain shock threshold",
-          "+100% Psychic sensitivity",
-          "+100% Flammability",
-          "+1.0 Melee dodge chance",
-          "+1.0 Melee hit chance",
-          "+90% Aiming time",
-          "+1.0 Shooting accuracy",
-          "+100.00% Negotiation ability",
-          "+100% Sell price multiplier",
-          "+100.00% Social impact",
-          "+100% Mechanoid shredding efficiency",
-          "+100% Mechanoid shredding speed",
-          "+100% Smelting speed",
-          "+100% General labor speed",
-          "+100% Butchery efficiency",
-          "+100% Butchery speed",
-          "+100.00% Food poison chance",
-          "+1.0 Cooking speed",
-          "+100% Rest rate multiplier",
-          "+100% Plant work speed",
-          "+120% Research speed",
-          "+110% Medical tend quality",
-          "+100% Drug synthesis speed",
-          "+100% Medical surgery success chance",
-          "+100% Mining speed",
-          "+100% Mining yield"
+          "+0% Flammability",
+          "-0.4 Melee dodge chance",
+          "+100% Melee critical chance",
+          "+100% Melee parry chance",
+          "+$1900 Market value",
+          "+4.00 Move speed",
+          "-360.0F Minimum comfortable temperature",
+          "+900.0F Maximum comfortable temperature",
+          "+100% Toxic resistance",
+          "+0% Psychic sensitivity",
+          "+500% Pain shock threshold",
+          "+0% Mental break threshold",
+          "+0.00% Social impact",
+          "+0% Global learning factor",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+8 Armor - Sharp",
+          "+12 Armor - Blunt",
+          "+200.0% Armor - Heat",
+          "+150 Carrying capacity",
+          "+0% Smoke sensitivity"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "A weird being.",
-      "defName": "Anthro",
+      "description": "A race of rudimentary humanlike warrior robots.\n\nUsually found guarding the homes of the wealthy and offices of mega corporations. They show no mercy upon targets who fail to identify themselves. Are traditionally armed with miniguns and core launchers.",
+      "defName": "ChjBattleDroid",
       "enabled": true,
-      "name": "Anthro",
-      "price": 1500
+      "name": "Battle droid",
+      "price": 3167
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+50.00 Mass",
+          "+200% Flammability",
+          "+1.0 Melee dodge chance",
+          "+115% Melee critical chance",
+          "+100% Melee parry chance",
+          "+1.5 Beauty",
+          "+100 Carrying capacity",
+          "+80% Pain shock threshold",
+          "+$600 Market value",
+          "+10.00 Move speed",
+          "+150% Immunity gain speed",
+          "-72.0F Minimum comfortable temperature",
+          "+72.0F Maximum comfortable temperature",
+          "+1.2 Armor - Blunt",
+          "+1.2 Armor - Sharp",
+          "+50.0% Armor - Heat",
+          "+100% Psychic sensitivity",
+          "+35 Leather amount",
+          "+50 Meat amount",
+          "+200% Global work speed",
+          "+600% Research speed",
+          "+200% Global learning factor",
+          "+100% Mining speed",
+          "+200.00% Social impact",
+          "+150% Construction speed",
+          "+125% Animal gather speed",
+          "+125% Animal gather yield",
+          "+4.0 Weapon handling",
+          "+100.00% Aiming accuracy",
+          "+100% Reload speed",
+          "+100% Suppressability"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "路卡利歐擁有偵測所有東西發出的波導的能力。\n通過偵測對方發出的波導，就能讀取其想法和行動，理解人類的語言，遠在1公里以外的對手的情緒也能學會。\n不想知道的事情也會知道，所以很容易累積壓力。\n據說通過捕捉波導，就能看見原本無法見其身影的對手。\n因為他能理解人類的想法，所以只會去親近內心端正的訓練家。\n它不僅僅是讀取，還獲得了操控波導的能力。\n它操縱波導的力量來進行狩獵，這種力量就連巨大的岩石也能擊得粉碎。",
+      "defName": "Lucario",
+      "enabled": true,
+      "name": "Lucario",
+      "price": 1000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+30.00 Mass",
+          "+50% Flammability",
+          "+1.0 Melee dodge chance",
+          "+115% Melee critical chance",
+          "+100% Melee parry chance",
+          "+1.5 Beauty",
+          "+65 Carrying capacity",
+          "+90% Pain shock threshold",
+          "+$600 Market value",
+          "+10.00 Move speed",
+          "+150% Immunity gain speed",
+          "-18.0F Minimum comfortable temperature",
+          "+72.0F Maximum comfortable temperature",
+          "+1 Armor - Blunt",
+          "+1 Armor - Sharp",
+          "+100.0% Armor - Heat",
+          "+100% Psychic sensitivity",
+          "+35 Leather amount",
+          "+50 Meat amount",
+          "+200% Global work speed",
+          "+600% Research speed",
+          "+200% Global learning factor",
+          "+100% Mining speed",
+          "+200.00% Social impact",
+          "+150% Construction speed",
+          "+125% Animal gather speed",
+          "+125% Animal gather yield",
+          "+4.0 Weapon handling",
+          "+100.00% Aiming accuracy",
+          "+100% Reload speed",
+          "+100% Suppressability"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "月亮伊布的毛是黑色的，眼睛是紅色的，身上的環狀花紋是耀眼的金色。\n它黑色體毛與黑暗融為一體，會一直潛伏在黑暗中等待獵物、觀察對手，大大的眼睛即使是在黑暗之中也能牢牢捕捉獵物的身影。\nUmbreon's fur is black, his eyes are red, and the ring pattern on his body is dazzling gold. Its black body hair is integrated with the darkness, and it will always lurk in the darkness waiting for its prey and observing its opponents. Its big eyes can firmly capture the figure of its prey even in the dark.",
+      "defName": "Umbreon",
+      "enabled": true,
+      "name": "月亮伊布/Umbreon/ブラッキー",
+      "price": 1000
     }
   ]
 }
