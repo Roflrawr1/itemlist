@@ -477,7 +477,7 @@
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.12.1.0"
+    "version": "1.13.0.0"
   },
   {
     "author": "Nova and Company",
@@ -543,13 +543,7 @@
     "author": "José Ángel Soler Ortiz",
     "name": "TraderGen",
     "steamId": "2804121197",
-    "version": "0.7.0.0"
-  },
-  {
-    "author": "hodlhodl",
-    "name": "TwitchToolkit - Lootboxes",
-    "steamId": "1720021578",
-    "version": "1.0.0.0"
+    "version": "0.7.1.0"
   },
   {
     "author": "Owlchemist",
@@ -856,5 +850,11 @@
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
     "version": "0.6.3.2421"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes",
+    "steamId": "1720021578",
+    "version": "1.0.0.0"
   }
 ]

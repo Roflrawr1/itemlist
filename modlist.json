@@ -543,7 +543,7 @@
     "author": "José Ángel Soler Ortiz",
     "name": "TraderGen",
     "steamId": "2804121197",
-    "version": "0.7.0.0"
+    "version": "0.7.1.0"
   },
   {
     "author": "hodlhodl",
@@ -554,6 +554,18 @@
   {
     "author": "Owlchemist",
     "name": "Underground Power Conduits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk, ISOREX and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Android",
+    "steamId": "2975771801",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "RedMattis",
+    "name": "VRE Android Tweak - Easier Research Prerequisite",
     "steamId": null,
     "version": null
   },
@@ -688,12 +700,6 @@
     "name": "Vanilla Plants Expanded - Mushrooms",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki, Taranchuk, ISOREX and Sarg Bjornson",
-    "name": "Vanilla Races Expanded - Android",
-    "steamId": "2975771801",
-    "version": "1.1.0.0"
   },
   {
     "author": "1trickPwnyta",
@@ -856,17 +862,5 @@
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
     "version": "0.6.3.2421"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitRaids",
-    "steamId": "2091359241",
-    "version": "1.0.5.0"
-  },
-  {
-    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
-    "name": "Vanilla Psycasts Expanded",
-    "steamId": "2842502659",
-    "version": "1.1.0.0"
   }
 ]
