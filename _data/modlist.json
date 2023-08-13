@@ -78,24 +78,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Nals",
-    "name": "[NL] Facial Animation - WIP",
-    "steamId": "1635901197",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "ChJees",
-    "name": "Androids for RW 1.4",
-    "steamId": "2889326293",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Haecriver",
     "name": "Assignment Copy",
     "steamId": null,
@@ -160,6 +142,12 @@
     "name": "Biotech Expansion - Core",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Rats!",
+    "steamId": "2496563418",
+    "version": "1.4.4"
   },
   {
     "author": "Oskar Potocki, xrushha and SmashPhil",
@@ -228,6 +216,12 @@
     "version": "0.0.0.0"
   },
   {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "2.5.2.0"
+  },
+  {
     "author": "Kopp",
     "name": "Caravan Formation Improvements",
     "steamId": "2927335733",
@@ -274,12 +268,6 @@
     "name": "Compressed Raid",
     "steamId": "2927368319",
     "version": "1.4"
-  },
-  {
-    "author": "Chris",
-    "name": "Cuter Biotech Cat/Dog Ear Replacer",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "SirVan",
@@ -366,6 +354,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Krypt",
+    "name": "RWLayout",
+    "steamId": "2209393954",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Krypt",
+    "name": "Grouped Pawns Lists",
+    "steamId": "2340773428",
+    "version": "1.0.0"
+  },
+  {
     "author": "aRandomKiwi",
     "name": "Guards For Me",
     "steamId": "1855885448",
@@ -408,10 +408,10 @@
     "version": "1.12.6.0"
   },
   {
-    "author": "noodlesking",
-    "name": "More Psycasts",
-    "steamId": "2460833332",
-    "version": "1.0.0.1"
+    "author": "alite",
+    "name": "More Biotech Style Genes - All in One",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Doug",
@@ -480,6 +480,24 @@
     "version": null
   },
   {
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "Twitch Toolkit",
+    "steamId": "1718525787",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "6.3.0.0.biotech.b12"
+  },
+  {
     "author": "Amnabi",
     "name": "Quality And Durability (Continued)",
     "steamId": "2572086023",
@@ -543,7 +561,7 @@
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.12.1.0"
+    "version": "1.13.0.0"
   },
   {
     "author": "Nova and Company",
@@ -588,18 +606,6 @@
     "version": null
   },
   {
-    "author": "hodlhodl",
-    "name": "ToolkitCore",
-    "steamId": "2018368654",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "hodlhodl",
-    "name": "Twitch Toolkit",
-    "steamId": "1718525787",
-    "version": "2.0.10.0"
-  },
-  {
     "author": "SirRandoo",
     "name": "ToolkitPolls",
     "steamId": "2435838514",
@@ -612,20 +618,38 @@
     "version": "1.0.5.0"
   },
   {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "6.3.0.0.biotech.b12"
-  },
-  {
     "author": "José Ángel Soler Ortiz",
     "name": "TraderGen",
     "steamId": "2804121197",
-    "version": "0.7.0.0"
+    "version": "0.7.1.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes",
+    "steamId": "1720021578",
+    "version": "1.0.0.0"
   },
   {
     "author": "Owlchemist",
     "name": "Underground Power Conduits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dhultgren",
+    "name": "Use Minified Buildings",
+    "steamId": "2185809028",
+    "version": "1.4.1.0"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk, ISOREX and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Android",
+    "steamId": "2975771801",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "RedMattis",
+    "name": "VRE Android Tweak - Easier Research Prerequisite",
     "steamId": null,
     "version": null
   },
@@ -762,12 +786,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, Taranchuk, ISOREX and Sarg Bjornson",
-    "name": "Vanilla Races Expanded - Android",
-    "steamId": "2975771801",
-    "version": "1.1.0.0"
-  },
-  {
     "author": "1trickPwnyta",
     "name": "Visible Raid Points",
     "steamId": "2562730174",
@@ -888,6 +906,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Nals",
+    "name": "[NL] Facial Animation - WIP",
+    "steamId": "1635901197",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "[CAF]XB路卡",
     "name": "[LC]Lucario Race",
     "steamId": null,
@@ -910,12 +940,6 @@
     "name": "[LC]Umbreon Race",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "DerekBickley",
-    "name": "[LTO] Colony Groups",
-    "steamId": "2345493945",
-    "version": "1.0.06"
   },
   {
     "author": "Chicken Plucker and Taranchuk",
@@ -952,5 +976,11 @@
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
     "version": "0.6.3.2421"
+  },
+  {
+    "author": "RimWorld-CrowdControl",
+    "name": "RimWorld CrowdControl",
+    "steamId": null,
+    "version": null
   }
 ]

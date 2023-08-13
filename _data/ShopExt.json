@@ -213,7 +213,9 @@
         "Shoot frenzy inspiration disabled.",
         "+4 melee",
         "-4 shooting",
-        "+4.0 melee hit chance"
+        "+4.0 melee hit chance",
+        "+25% melee critical chance",
+        "+25% melee parry chance"
       ],
       "conflicts": [
         "carefulshooter",
@@ -231,7 +233,9 @@
           "Shoot frenzy inspiration disabled.",
           "+4 melee",
           "-4 shooting",
-          "+4.0 melee hit chance"
+          "+4.0 melee hit chance",
+          "+25% melee critical chance",
+          "+25% melee parry chance"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -456,7 +460,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "Asexual",
-      "name": "asexual(aro)"
+      "name": "asexual"
     },
     {
       "canAdd": true,
@@ -572,7 +576,7 @@
       "degree": 0,
       "description": "Timmy has remarkable kinesthetic intelligence. he seems to dance around danger with preternatural grace.",
       "stats": [
-        "+15.0 melee dodge chance",
+        "+0.5 melee dodge chance",
         "x10% trap spring chance"
       ],
       "conflicts": [],
@@ -580,7 +584,7 @@
       "data": {
         "conflicts": [],
         "stats": [
-          "+15.0 melee dodge chance",
+          "+0.5 melee dodge chance",
           "x10% trap spring chance"
         ],
         "canBypassLimit": false,
@@ -806,14 +810,14 @@
       "degree": 0,
       "description": "Timmy has thick skin, dense flesh, and durable bones. he takes much less damage than other people from the same blows. he is extremely hard to kill.",
       "stats": [
-        "x50% incoming damage multiplier"
+        "x66% incoming damage multiplier"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "x50% incoming damage multiplier"
+          "x66% incoming damage multiplier"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1533,7 +1537,8 @@
       "description": "Timmy takes more time to aim when shooting. he shoots less often than others, but with more accuracy.",
       "stats": [
         "+25% aiming time",
-        "+5.0 shooting accuracy"
+        "x133% weapon handling",
+        "x125% aiming accuracy"
       ],
       "conflicts": [
         "brawler"
@@ -1545,7 +1550,8 @@
         ],
         "stats": [
           "+25% aiming time",
-          "+5.0 shooting accuracy"
+          "x133% weapon handling",
+          "x125% aiming accuracy"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1564,8 +1570,8 @@
       "degree": -1,
       "description": "Pew! Pew! Pew! Timmy just likes pulling the trigger. he shoots faster than others, but less accurately.",
       "stats": [
-        "-50% aiming time",
-        "-5.0 shooting accuracy"
+        "-25% aiming time",
+        "x75% weapon handling"
       ],
       "conflicts": [
         "brawler"
@@ -1576,8 +1582,8 @@
           "brawler"
         ],
         "stats": [
-          "-50% aiming time",
-          "-5.0 shooting accuracy"
+          "-25% aiming time",
+          "x75% weapon handling"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -2129,6 +2135,28 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
+      "degree": 0,
+      "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Psycasts Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VPE_Thrall",
+      "name": "thrall"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 1,
       "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
       "stats": [],
@@ -2167,28 +2195,6 @@
       },
       "defName": "Xenophobia",
       "name": "xenophile"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Psycasts Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VPE_Thrall",
-      "name": "thrall"
     },
     {
       "canAdd": true,
@@ -4915,109 +4921,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 1500
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+75.00 Mass",
-          "+100% Flammability",
-          "+1.0 Melee dodge chance",
-          "+100% Melee critical chance",
-          "+100% Melee parry chance",
-          "+$1500 Market value",
-          "+4.61 Move speed",
-          "-90.0F Minimum comfortable temperature",
-          "+90.0F Maximum comfortable temperature",
-          "+80% Toxic resistance",
-          "+135% Immunity gain speed",
-          "+25 Leather amount",
-          "+100% Suppressability",
-          "+50% Smoke sensitivity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A race of humanlike robots which are mostly female in model variety.\n\nThe origins of these machines are mostly unknown. Some speculate they are escapees from a civilization which used them for labor and some just suggest they are outdated pleasure machines which got dumped by a passing space freighter.\n\nBy design by their previous masters they are weak physically but their raw fortitude is enough to make up for it. Beware of their biological reactor and capacitors violently exploding, if they die by overheating.",
-      "defName": "ChjAndroid",
-      "enabled": true,
-      "name": "Android",
-      "price": 2500
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+1.0 Melee dodge chance",
-          "+95% Melee critical chance",
-          "+95% Melee parry chance",
-          "+$850 Market value",
-          "+5.21 Move speed",
-          "-360.0F Minimum comfortable temperature",
-          "+540.0F Maximum comfortable temperature",
-          "+100% Toxic resistance",
-          "+0% Psychic sensitivity",
-          "+500% Pain shock threshold",
-          "+0% Mental break threshold",
-          "+0.00% Social impact",
-          "+0% Global learning factor",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+2 Armor - Sharp",
-          "+3 Armor - Blunt",
-          "+200.0% Armor - Heat",
-          "+75 Carrying capacity",
-          "+0% Smoke sensitivity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A race of rudimentary humanlike worker robots.\n\nUsually found toiling around in colonies around the rim which got a resident tinkerer.\n\nNot capable of sapience, however their relative cheap cost and ability to work around the clock make them valuable workers.",
-      "defName": "ChjDroid",
-      "enabled": true,
-      "name": "Droid",
-      "price": 1417
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+55.00 Mass",
-          "+0% Flammability",
-          "-0.4 Melee dodge chance",
-          "+100% Melee critical chance",
-          "+100% Melee parry chance",
-          "+$1900 Market value",
-          "+4.00 Move speed",
-          "-360.0F Minimum comfortable temperature",
-          "+900.0F Maximum comfortable temperature",
-          "+100% Toxic resistance",
-          "+0% Psychic sensitivity",
-          "+500% Pain shock threshold",
-          "+0% Mental break threshold",
-          "+0.00% Social impact",
-          "+0% Global learning factor",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+8 Armor - Sharp",
-          "+12 Armor - Blunt",
-          "+200.0% Armor - Heat",
-          "+150 Carrying capacity",
-          "+0% Smoke sensitivity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A race of rudimentary humanlike warrior robots.\n\nUsually found guarding the homes of the wealthy and offices of mega corporations. They show no mercy upon targets who fail to identify themselves. Are traditionally armed with miniguns and core launchers.",
-      "defName": "ChjBattleDroid",
-      "enabled": true,
-      "name": "Battle droid",
-      "price": 3167
+      "price": 2917
     },
     {
       "data": {
