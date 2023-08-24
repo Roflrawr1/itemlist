@@ -19539,7 +19539,7 @@
     "Mod": "Dubs Rimatomics",
     "KarmaType": null
   },
-  "BionicBladder": {
+  "ArchotechPenis": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19556,10 +19556,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "HygieneEnhancer": {
+  "BionicAnus": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19576,10 +19576,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "plumbingValve": {
+  "BionicBreasts": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19596,10 +19596,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "PitLatrine": {
+  "BionicVagina": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19616,10 +19616,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "WashBucket": {
+  "BionicPenis": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19636,10 +19636,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "LitterBox": {
+  "HydraulicAnus": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19656,10 +19656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "BasinStuff": {
+  "HydraulicBreasts": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19676,10 +19676,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "Fountain": {
+  "HydraulicVagina": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19696,10 +19696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "KitchenSink": {
+  "HydraulicPenis": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19716,10 +19716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "ToiletStuff": {
+  "PegDick": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19736,10 +19736,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "ToiletAdvStuff": {
+  "FeaturelessChest": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19756,10 +19756,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "BathMat": {
+  "Anus": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19776,10 +19776,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "BathtubStuff": {
+  "Breasts": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19796,10 +19796,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "ShowerStuff": {
+  "Vagina": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19816,10 +19816,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "ShowerSimple": {
+  "Penis": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19836,10 +19836,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "ShowerAdvStuff": {
+  "DemonAnus": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19856,10 +19856,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "HotTub": {
+  "DemonVagina": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19876,10 +19876,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "WashingMachine": {
+  "DemonPenis": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19896,10 +19896,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "DBHSaunaHeaterLog": {
+  "DemonTentaclePenis": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19916,10 +19916,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "DBHSaunaHeaterElec": {
+  "CloacalAnus": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19936,10 +19936,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "DBHSaunaSeating": {
+  "UdderBreasts": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19956,10 +19956,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "ElectricPump": {
+  "CloacalVagina": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19976,10 +19976,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "Thermostat": {
+  "CloacalPenis": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19996,10 +19996,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "LogBoiler": {
+  "RodentPenis": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20016,10 +20016,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "GasBoiler": {
+  "RodentVagina": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20036,10 +20036,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "ElectricBoiler": {
+  "NeedlePenis": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20056,10 +20056,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "HotWaterTank": {
+  "NarrowVagina": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20076,10 +20076,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "RadiatorStuffed": {
+  "CrocodilianPenis": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20096,10 +20096,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "RadiatorLarge": {
+  "HemiPenis": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20116,10 +20116,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "RadiatorTowelRail": {
+  "RaccoonPenis": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20136,10 +20136,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "CeilingFan": {
+  "DragonVagina": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20156,10 +20156,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "CeilingFanS": {
+  "DragonPenis": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20176,10 +20176,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "AirConOutdoorUnit": {
+  "DogVagina": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20196,10 +20196,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "AirconIndoorUnit": {
+  "DogPenis": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20216,10 +20216,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "FreezerUnit": {
+  "CatVagina": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20236,10 +20236,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "IrrigationSprinkler": {
+  "CatPenis": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20256,10 +20256,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "FireSprinkler": {
+  "HorseVagina": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20276,10 +20276,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "BiosolidsComposter": {
+  "HorsePenis": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20296,10 +20296,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "Biosolids": {
+  "RJW_EggInsectFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20316,7 +20316,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
   "Building_RTCircuitBreaker": {
@@ -27399,7 +27399,7 @@
     "Mod": "Vanilla Plants Expanded - Mushrooms",
     "KarmaType": null
   },
-  "VREA_NeuroPump": {
+  "RJW_EggInsectUnfertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -27416,10 +27416,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Android",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "VREA_AirFilter": {
+  "RJW_EggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -27436,10 +27436,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Android",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "VREA_Neutrofilter": {
+  "RJW_EggUnfertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -27456,10 +27456,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Android",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "VREA_MetabolismRegulator": {
+  "PrisonerChains": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -27476,10 +27476,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Android",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "VREA_Reactor": {
+  "Holokey": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -27496,10 +27496,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Android",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "VREA_OpticalUnit": {
+  "Hololock": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -27516,10 +27516,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Android",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "VREA_AudioProcessor": {
+  "UsedCondom": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -27536,10 +27536,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Android",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "VREA_ArtificialNose": {
+  "Condom": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -27556,10 +27556,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Android",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "VREA_ArtificialJaw": {
+  "HumpShroom": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -27576,10 +27576,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Android",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "VREA_ArtificialRibcage": {
+  "RJW_FertPill": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -27596,10 +27596,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Android",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "VREA_ArtificialSpine": {
+  "RJW_Contraceptive": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -27616,10 +27616,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Android",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "VREA_AndroidLeg": {
+  "Aphrodisiac": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -27636,10 +27636,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Android",
+    "Mod": "SafeJobWorld",
     "KarmaType": null
   },
-  "VREA_AndroidFoot": {
+  "Bowab_Pinata": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -27656,10 +27656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Android",
+    "Mod": "Pinata",
     "KarmaType": null
   },
-  "VREA_AndroidArm": {
+  "Delphox": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -27676,10 +27676,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Android",
+    "Mod": "Braixen and Delphox - Fire Pokemon [1.4]",
     "KarmaType": null
   },
-  "VREA_AndroidHand": {
+  "Braixen": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -27696,10 +27696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Android",
+    "Mod": "Braixen and Delphox - Fire Pokemon [1.4]",
     "KarmaType": null
   },
-  "VREA_NeutroTap": {
+  "Delphox_leather": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -27716,10 +27716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Android",
+    "Mod": "Braixen and Delphox - Fire Pokemon [1.4]",
     "KarmaType": null
   },
-  "VREA_NeutroDrain": {
+  "Braixen_leather": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -27736,16 +27736,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Android",
+    "Mod": "Braixen and Delphox - Fire Pokemon [1.4]",
     "KarmaType": null
   },
-  "VREA_AndroidPartWorkbench": {
+  "Gun_ChjCoreLauncher": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -27756,16 +27756,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Android",
+    "Mod": "Androids for RW 1.4",
     "KarmaType": null
   },
-  "VREA_AndroidCreationStation": {
+  "ChjAndroidGun_Rebelpistol": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -27776,16 +27776,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Android",
+    "Mod": "Androids for RW 1.4",
     "KarmaType": null
   },
-  "VREA_AndroidBehavioristStation": {
+  "ChjAndroidGun_RebelRifle": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -27796,10 +27796,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Android",
+    "Mod": "Androids for RW 1.4",
     "KarmaType": null
   },
-  "VREA_NeutroCasket": {
+  "ChjAndroidBattleDroidAssemblyKit": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -27809,17 +27809,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": true,
+    "IsUsable": false,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Android",
+    "Mod": "Androids for RW 1.4",
     "KarmaType": null
   },
-  "VREA_PersonaSubcore": {
+  "ChjAndroidDroidAssemblyKit": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -27829,14 +27829,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": true,
+    "IsUsable": false,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Android",
+    "Mod": "Androids for RW 1.4",
     "KarmaType": null
   },
   "Lighting_MURWallLight": {
@@ -35059,7 +35059,7 @@
     "Mod": null,
     "KarmaType": null
   },
-  "VREA_Sternum": {
+  "ChjAndroid_ChemfuelGenerator": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -35076,10 +35076,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Androids for RW 1.4",
     "KarmaType": null
   },
-  "VREA_Pelvis": {
+  "ChjAndroid_SolarDuster": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -35096,10 +35096,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Androids for RW 1.4",
     "KarmaType": null
   },
-  "VREA_Neck": {
+  "ChjDroidRepairKit": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -35116,10 +35116,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Androids for RW 1.4",
     "KarmaType": null
   },
-  "VREA_Tongue": {
+  "ChjDroidRepairParts": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -35136,10 +35136,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Androids for RW 1.4",
     "KarmaType": null
   },
-  "VREA_Shoulder": {
+  "ChjAndroidBattery": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -35156,10 +35156,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Androids for RW 1.4",
     "KarmaType": null
   },
-  "VREA_Clavicle": {
+  "ChjDroidHibernationPad": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -35176,10 +35176,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Androids for RW 1.4",
     "KarmaType": null
   },
-  "VREA_Humerus": {
+  "ChJDroidPrinter": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -35196,10 +35196,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Androids for RW 1.4",
     "KarmaType": null
   },
-  "VREA_Radius": {
+  "ChJAndroidPrinter": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -35216,10 +35216,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Androids for RW 1.4",
     "KarmaType": null
   },
-  "VREA_Finger": {
+  "ChjAndroidBattleMaidHat": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -35236,10 +35236,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Androids for RW 1.4",
     "KarmaType": null
   },
-  "VREA_Waist": {
+  "ChjAndroidMaidBattleDress": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -35256,10 +35256,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Androids for RW 1.4",
     "KarmaType": null
   },
-  "VREA_Femur": {
+  "ChjAndroidMaidOutfit": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -35276,10 +35276,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Androids for RW 1.4",
     "KarmaType": null
   },
-  "VREA_Tibia": {
+  "ChJAndroidThermalBandages": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -35296,10 +35296,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Androids for RW 1.4",
     "KarmaType": null
   },
-  "VREA_Toe": {
+  "ChjBattleDroid": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -35316,7 +35316,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Androids for RW 1.4",
     "KarmaType": null
   },
   "Meat_Bear_Grizzly": {
@@ -37659,7 +37659,7 @@
     "Mod": "Biotech",
     "KarmaType": null
   },
-  "Xenogerm_VREA_AndroidAwakened": {
+  "ChjDroid": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -37669,17 +37669,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Android",
+    "Mod": "Androids for RW 1.4",
     "KarmaType": null
   },
-  "Xenogerm_VREA_AndroidBasic": {
+  "Leather_ChJAndroid": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -37689,14 +37689,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Android",
+    "Mod": "Androids for RW 1.4",
     "KarmaType": null
   },
   "VAEA_Apparel_Backpack": {
@@ -38199,7 +38199,7 @@
     "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "VREA_Tail": {
+  "ChjAndroid": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -38216,7 +38216,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Androids for RW 1.4",
     "KarmaType": null
   },
   "Umbreon": {
@@ -41757,6 +41757,326 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Biotech Expansion - Mythic",
+    "KarmaType": null
+  },
+  "ArchotechVagina": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "SafeJobWorld",
+    "KarmaType": null
+  },
+  "ArchotechBreasts": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "SafeJobWorld",
+    "KarmaType": null
+  },
+  "ArchotechAnus": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "SafeJobWorld",
+    "KarmaType": null
+  },
+  "OvipositorM": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "SafeJobWorld",
+    "KarmaType": null
+  },
+  "OvipositorF": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "SafeJobWorld",
+    "KarmaType": null
+  },
+  "InsectAnus": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "SafeJobWorld",
+    "KarmaType": null
+  },
+  "SlimeGlob": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "SafeJobWorld",
+    "KarmaType": null
+  },
+  "CyberVapTail": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vaporeon - Water Pokemon [1.4]",
+    "KarmaType": null
+  },
+  "BionicVaporeonFin": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vaporeon - Water Pokemon [1.4]",
+    "KarmaType": null
+  },
+  "Vaporeon_leather": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vaporeon - Water Pokemon [1.4]",
+    "KarmaType": null
+  },
+  "Vaporeon": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vaporeon - Water Pokemon [1.4]",
+    "KarmaType": null
+  },
+  "Zoroark_leather": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Zoroark - Illusion Pokemon [1.4]",
+    "KarmaType": null
+  },
+  "BZoroark": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Zoroark - Illusion Pokemon [1.4]",
+    "KarmaType": null
+  },
+  "WZoroark": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Zoroark - Illusion Pokemon [1.4]",
+    "KarmaType": null
+  },
+  "Meat_ChjAndroid": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Androids for RW 1.4",
+    "KarmaType": null
+  },
+  "Meat_Bowab_Pinata": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Pinata",
     "KarmaType": null
   }
 }

@@ -713,7 +713,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy believes the human body is limited for a reason. To him, artificial body parts and xenogenes are unethical and disgusting.",
-      "stats": [],
+      "stats": [
+        "-10.00% handholding drive"
+      ],
       "conflicts": [
         "bodymodder"
       ],
@@ -722,7 +724,9 @@
         "conflicts": [
           "bodymodder"
         ],
-        "stats": [],
+        "stats": [
+          "-10.00% handholding drive"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -1985,94 +1989,6 @@
       },
       "defName": "Bravery",
       "name": "fearless"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 2,
-      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "germaphobe"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmy is very hygienic and will wash more frequently.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "hygienic"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmy is very unhygienic and will wash less frequently.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "unhygienic"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -2,
-      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "slob"
     },
     {
       "canAdd": true,
@@ -4895,6 +4811,346 @@
       },
       "defName": "UmbreonSerious",
       "name": "認真"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a Braixen. Timmy has an incredible natural inclination towards psionics and manipulation of life essence. he can easily read emotions of humans, animals and even plants.",
+      "stats": [
+        "+5 social",
+        "+3 animals",
+        "+3 plants",
+        "+25.00% train animal chance",
+        "+25.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+5 social",
+          "+3 animals",
+          "+3 plants",
+          "+25.00% train animal chance",
+          "+25.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Braixen and Delphox - Fire Pokemon [1.4]",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BDFP_Braixen",
+      "name": "braixen"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a Delphox. Timmy is a powerful psychic and is inclined towards manipulation of life essence. he can easily read emotions of humans, animals and even plants.",
+      "stats": [
+        "+5 social",
+        "+3 animals",
+        "+3 plants",
+        "+25.00% train animal chance",
+        "+25.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+5 social",
+          "+3 animals",
+          "+3 plants",
+          "+25.00% train animal chance",
+          "+25.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Braixen and Delphox - Fire Pokemon [1.4]",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BDFP_Delphox",
+      "name": "delphox"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy doesn't take \"No\" as an answer.",
+      "stats": [
+        "+10.00% handholding drive"
+      ],
+      "conflicts": [
+        "kind"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "kind"
+        ],
+        "stats": [
+          "+10.00% handholding drive"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "SafeJobWorld",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Rapist",
+      "name": "aggressivehandholder"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Prefers handholding with dead people.",
+      "stats": [
+        "Morbid meditation focus type allowed.",
+        "+10.00% handholding drive"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Morbid meditation focus type allowed.",
+          "+10.00% handholding drive"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "SafeJobWorld",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Necrophiliac",
+      "name": "necrophiliac"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy likes to walk on the wild side.",
+      "stats": [
+        "+10.00% handholding drive"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+10.00% handholding drive"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "SafeJobWorld",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Zoophile",
+      "name": "pawphile"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy loves handholding and always wants more. Can regain psyfocus only through handholding.",
+      "stats": [
+        "Handholding meditation focus type allowed.",
+        "+10.00% handholding vulnerability",
+        "+200.00% handholding drive"
+      ],
+      "conflicts": [
+        "misandrist",
+        "misogynist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "misandrist",
+          "misogynist"
+        ],
+        "stats": [
+          "Handholding meditation focus type allowed.",
+          "+10.00% handholding vulnerability",
+          "+200.00% handholding drive"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "SafeJobWorld",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Nymphomaniac",
+      "name": "hyperhandholder"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy really likes feet and prefers feetholding.",
+      "stats": [
+        "+10.00% handholding vulnerability"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+10.00% handholding vulnerability"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "SafeJobWorld",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FootSlut",
+      "name": "feetholder"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy really likes giving loose grip handholding.",
+      "stats": [
+        "+10.00% handholding vulnerability"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+10.00% handholding vulnerability"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "SafeJobWorld",
+        "karmaTypeForAdding": null
+      },
+      "defName": "CumSlut",
+      "name": "loosegriphh"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy really likes getting backhand-handholded.",
+      "stats": [
+        "+10.00% handholding vulnerability"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+10.00% handholding vulnerability"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "SafeJobWorld",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ButtSlut",
+      "name": "backhandhh"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a Vaporeon, and he is absolutely adorable, despite having such exotic appearance. Vaporeons, due to their aquatic origin and natural ascetism, tend to be in tune with nature, making them wonderful farmers.",
+      "stats": [
+        "+5 social",
+        "+5 plants",
+        "+5 animals",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+5 social",
+          "+5 plants",
+          "+5 animals",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vaporeon - Water Pokemon [1.4]",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VWP_Vaporeon",
+      "name": "vaporeon"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a Zoroark, and he is absolutely adorable, as expected from gene-engineered servitor. Zoroark are intelligent creatures, and they tend to have developed social and problem-solving skills.",
+      "stats": [
+        "+3 social",
+        "+3 intellectual",
+        "+10.00% trade price improvement",
+        "+10.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+3 social",
+          "+3 intellectual",
+          "+10.00% trade price improvement",
+          "+10.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Zoroark - Illusion Pokemon [1.4]",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ZIP_Zoroark",
+      "name": "zoroark"
     }
   ],
   "races": [
@@ -4919,9 +5175,9 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": true,
+      "enabled": false,
       "name": "human",
-      "price": 2917
+      "price": 1600
     },
     {
       "data": {
@@ -5012,6 +5268,309 @@
       "enabled": true,
       "name": "月亮伊布/Umbreon/ブラッキー",
       "price": 1000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+75.00 Mass",
+          "+100% Flammability",
+          "+1.0 Melee dodge chance",
+          "+100% Melee critical chance",
+          "+100% Melee parry chance",
+          "+$1500 Market value",
+          "+4.61 Move speed",
+          "-90.0F Minimum comfortable temperature",
+          "+90.0F Maximum comfortable temperature",
+          "+80% Toxic resistance",
+          "+135% Immunity gain speed",
+          "+25 Leather amount",
+          "+100% Suppressability",
+          "+50% Smoke sensitivity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A race of humanlike robots which are mostly female in model variety.\n\nThe origins of these machines are mostly unknown. Some speculate they are escapees from a civilization which used them for labor and some just suggest they are outdated pleasure machines which got dumped by a passing space freighter.\n\nBy design by their previous masters they are weak physically but their raw fortitude is enough to make up for it. Beware of their biological reactor and capacitors violently exploding, if they die by overheating.",
+      "defName": "ChjAndroid",
+      "enabled": false,
+      "name": "Android",
+      "price": 2500
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+1.0 Melee dodge chance",
+          "+95% Melee critical chance",
+          "+95% Melee parry chance",
+          "+$850 Market value",
+          "+5.21 Move speed",
+          "-360.0F Minimum comfortable temperature",
+          "+540.0F Maximum comfortable temperature",
+          "+100% Toxic resistance",
+          "+0% Psychic sensitivity",
+          "+500% Pain shock threshold",
+          "+0% Mental break threshold",
+          "+0.00% Social impact",
+          "+0% Global learning factor",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+2 Armor - Sharp",
+          "+3 Armor - Blunt",
+          "+200.0% Armor - Heat",
+          "+75 Carrying capacity",
+          "+0% Smoke sensitivity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A race of rudimentary humanlike worker robots.\n\nUsually found toiling around in colonies around the rim which got a resident tinkerer.\n\nNot capable of sapience, however their relative cheap cost and ability to work around the clock make them valuable workers.",
+      "defName": "ChjDroid",
+      "enabled": false,
+      "name": "Droid",
+      "price": 1417
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+55.00 Mass",
+          "+0% Flammability",
+          "-0.4 Melee dodge chance",
+          "+100% Melee critical chance",
+          "+100% Melee parry chance",
+          "+$1900 Market value",
+          "+4.00 Move speed",
+          "-360.0F Minimum comfortable temperature",
+          "+900.0F Maximum comfortable temperature",
+          "+100% Toxic resistance",
+          "+0% Psychic sensitivity",
+          "+500% Pain shock threshold",
+          "+0% Mental break threshold",
+          "+0.00% Social impact",
+          "+0% Global learning factor",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+8 Armor - Sharp",
+          "+12 Armor - Blunt",
+          "+200.0% Armor - Heat",
+          "+150 Carrying capacity",
+          "+0% Smoke sensitivity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A race of rudimentary humanlike warrior robots.\n\nUsually found guarding the homes of the wealthy and offices of mega corporations. They show no mercy upon targets who fail to identify themselves. Are traditionally armed with miniguns and core launchers.",
+      "defName": "ChjBattleDroid",
+      "enabled": false,
+      "name": "Battle droid",
+      "price": 3167
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+40.00 Mass",
+          "+0% Flammability",
+          "+1.0 Melee dodge chance",
+          "+115% Melee critical chance",
+          "+100% Melee parry chance",
+          "+1.0 Beauty",
+          "+50 Carrying capacity",
+          "+80% Pain shock threshold",
+          "+$2600 Market value",
+          "+5.00 Move speed",
+          "+160% Immunity gain speed",
+          "-54.0F Minimum comfortable temperature",
+          "+144.0F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+50 Meat amount",
+          "+100% Research speed",
+          "+140% Global learning factor",
+          "+160% Psychic sensitivity",
+          "+50% Mining speed",
+          "+120.00% Social impact",
+          "+70% Construction speed",
+          "+130% Animal gather speed",
+          "+130% Animal gather yield",
+          "+4.0 Weapon handling",
+          "+200.0% Armor - Heat",
+          "+100.00% Aiming accuracy",
+          "+100% Reload speed",
+          "+100% Suppressability"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A small, bipedal, Fox-like humanoid that has a natural affinity to fire and psychic capabilities. It's unknown what kind of gene-engineering magic the Glitterworld that originally produced them used, but their bodies have almost a complete resistance to fire and high temperatures. These creatures are able to consciously regulate temperature of their bodies. Before collapse of it's original solar system, this species was mainly used as domestic servants, entertainers, or just a beauteful and kind friend to have around. Braixen is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates.",
+      "defName": "Braixen",
+      "enabled": true,
+      "name": "Braixen",
+      "price": 4333
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+0.0 Melee dodge chance",
+          "+0% Melee critical chance",
+          "+0% Melee parry chance",
+          "+1.0 Beauty",
+          "+50 Carrying capacity",
+          "+80% Pain shock threshold",
+          "+$3000 Market value",
+          "+4.60 Move speed",
+          "+160% Immunity gain speed",
+          "-72.0F Minimum comfortable temperature",
+          "+180.0F Maximum comfortable temperature",
+          "+45 Leather amount",
+          "+60 Meat amount",
+          "+110% Research speed",
+          "+150% Global learning factor",
+          "+160% Psychic sensitivity",
+          "+50% Mining speed",
+          "+120.00% Social impact",
+          "+60% Construction speed",
+          "+130% Animal gather speed",
+          "+130% Animal gather yield",
+          "+4.0 Weapon handling",
+          "+200.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A medium-sized, bipedal, Fox-like humanoid that has a natural affinity to fire and psychic capabilities. Related to Delphox and can be considered as a more \"mature\" version of it from standpoint of whoever originally designed them. It's unknown what kind of gene-engineering magic the Glitterworld that originally produced them used, but their bodies have almost a complete resistance to fire and high temperatures. These creatures are able to consciously regulate temperature of their bodies. Before collapse of it's original solar system, this species was mainly used as domestic servants, entertainers, or just a beauteful and kind friend to have around. Delphox is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates.",
+      "defName": "Delphox",
+      "enabled": true,
+      "name": "Delphox",
+      "price": 5000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+1.0 Melee dodge chance",
+          "+115% Melee critical chance",
+          "+100% Melee parry chance",
+          "+2.0 Beauty",
+          "+50 Carrying capacity",
+          "+80% Pain shock threshold",
+          "+$5000 Market value",
+          "+6.00 Move speed",
+          "+200% Immunity gain speed",
+          "+9.0F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+50 Meat amount",
+          "+100% Global work speed",
+          "+100% Research speed",
+          "+100% Global learning factor",
+          "+100% Psychic sensitivity",
+          "+150% Mining speed",
+          "+100.00% Social impact",
+          "+100% Construction speed",
+          "+100% Animal gather speed",
+          "+100% Animal gather yield",
+          "+1.0 Weapon handling",
+          "+100.00% Aiming accuracy",
+          "+100% Reload speed",
+          "+100% Suppressability"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Genetically modified species, closely related to Sylveons. Their origin is barely known, but there's rumors that they come from a group of Sylveons that managed to escape from slavery at colony ship a few hundred years ago. Said ship crashed at aquatic world and survivors had to gene-engineer themselves with barely functioning genepods to survive. Despite its appearence, this species has strong physical strength and are easily able to win a brawl fight against average human. Vaporeons is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates.",
+      "defName": "Vaporeon",
+      "enabled": true,
+      "name": "Vaporeon",
+      "price": 8333
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+0.0 Melee dodge chance",
+          "+0% Melee critical chance",
+          "+0% Melee parry chance",
+          "+1.0 Beauty",
+          "+50 Carrying capacity",
+          "+80% Pain shock threshold",
+          "+$2200 Market value",
+          "+5.20 Move speed",
+          "+100% Immunity gain speed",
+          "-32.4F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+50 Meat amount",
+          "+100% Global work speed",
+          "+100% Research speed",
+          "+120% Global learning factor",
+          "+100% Psychic sensitivity",
+          "+110% Mining speed",
+          "+100.00% Social impact",
+          "+100% Construction speed",
+          "+100% Animal gather speed",
+          "+100% Animal gather yield",
+          "+1.1 Weapon handling"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Zoroark is a race of adorable genetically engineered foxes with slightly enchanted mental capabilities and agility. Originally designed by conglomerate of megacorporations in their home system as an advertisment tool for products, and as entertainers for selected few. These creatures became highly popular among elites in all neighouring systems. This particular subspecies of Zoroark is black in color. Zoroark is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates.",
+      "defName": "BZoroark",
+      "enabled": true,
+      "name": "Zoroark",
+      "price": 3667
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+0.0 Melee dodge chance",
+          "+0% Melee critical chance",
+          "+0% Melee parry chance",
+          "+1.0 Beauty",
+          "+50 Carrying capacity",
+          "+80% Pain shock threshold",
+          "+$2200 Market value",
+          "+5.20 Move speed",
+          "+100% Immunity gain speed",
+          "-32.4F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+50 Meat amount",
+          "+100% Global work speed",
+          "+100% Research speed",
+          "+120% Global learning factor",
+          "+100% Psychic sensitivity",
+          "+110% Mining speed",
+          "+100.00% Social impact",
+          "+100% Construction speed",
+          "+100% Animal gather speed",
+          "+100% Animal gather yield",
+          "+1.1 Weapon handling"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Zoroark is a race of adorable genetically engineered foxes with slightly enchanted mental capabilities and agility. Originally designed by conglomerate of megacorporations in their home system as an advertisment tool for products, and as entertainers for selected few. These creatures became highly popular among elites in all neighouring systems. This particular subspecies of Zoroark is white in color. Zoroark is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates.",
+      "defName": "WZoroark",
+      "enabled": true,
+      "name": "Zoroark",
+      "price": 3667
     }
   ]
 }

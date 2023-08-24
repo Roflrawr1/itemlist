@@ -498,12 +498,6 @@
     "version": "6.3.0.0.biotech.b12"
   },
   {
-    "author": "Andreas Pardeike and BleuSquid",
-    "name": "Puppeteer",
-    "steamId": "2594873651",
-    "version": "1.6.3.0"
-  },
-  {
     "author": "Amnabi",
     "name": "Quality And Durability (Continued)",
     "steamId": "2572086023",
@@ -948,12 +942,6 @@
     "version": null
   },
   {
-    "author": "DerekBickley",
-    "name": "[LTO] Colony Groups",
-    "steamId": "2345493945",
-    "version": "1.0.06"
-  },
-  {
     "author": "Chicken Plucker and Taranchuk",
     "name": "[RH2] CPERS: Arrest Here!",
     "steamId": null,
@@ -988,5 +976,11 @@
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
     "version": "0.6.3.2421"
+  },
+  {
+    "author": "RimWorld-CrowdControl",
+    "name": "RimWorld CrowdControl",
+    "steamId": null,
+    "version": null
   }
 ]
