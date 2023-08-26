@@ -5222,7 +5222,7 @@
       "defName": "Lucario",
       "enabled": true,
       "name": "Lucario",
-      "price": 1000
+      "price": 1500
     },
     {
       "data": {
@@ -5267,7 +5267,7 @@
       "defName": "Umbreon",
       "enabled": true,
       "name": "月亮伊布/Umbreon/ブラッキー",
-      "price": 1000
+      "price": 1500
     },
     {
       "data": {
@@ -5411,7 +5411,7 @@
       "defName": "Braixen",
       "enabled": true,
       "name": "Braixen",
-      "price": 4333
+      "price": 1500
     },
     {
       "data": {
@@ -5450,7 +5450,7 @@
       "defName": "Delphox",
       "enabled": true,
       "name": "Delphox",
-      "price": 5000
+      "price": 1500
     },
     {
       "data": {
@@ -5492,11 +5492,11 @@
       "defName": "Vaporeon",
       "enabled": true,
       "name": "Vaporeon",
-      "price": 8333
+      "price": 1500
     },
     {
       "data": {
-        "customName": false,
+        "customName": true,
         "stats": [
           "+50.00 Mass",
           "+70% Flammability",
@@ -5529,13 +5529,13 @@
       },
       "description": "Zoroark is a race of adorable genetically engineered foxes with slightly enchanted mental capabilities and agility. Originally designed by conglomerate of megacorporations in their home system as an advertisment tool for products, and as entertainers for selected few. These creatures became highly popular among elites in all neighouring systems. This particular subspecies of Zoroark is black in color. Zoroark is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates.",
       "defName": "BZoroark",
-      "enabled": true,
-      "name": "Zoroark",
-      "price": 3667
+      "enabled": false,
+      "name": "\nzoroark",
+      "price": 1500
     },
     {
       "data": {
-        "customName": false,
+        "customName": true,
         "stats": [
           "+50.00 Mass",
           "+70% Flammability",
@@ -5569,8 +5569,8 @@
       "description": "Zoroark is a race of adorable genetically engineered foxes with slightly enchanted mental capabilities and agility. Originally designed by conglomerate of megacorporations in their home system as an advertisment tool for products, and as entertainers for selected few. These creatures became highly popular among elites in all neighouring systems. This particular subspecies of Zoroark is white in color. Zoroark is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates.",
       "defName": "WZoroark",
       "enabled": true,
-      "name": "Zoroark",
-      "price": 3667
+      "name": "zoroark1\n",
+      "price": 1500
     }
   ]
 }
