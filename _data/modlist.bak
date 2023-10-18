@@ -234,12 +234,6 @@
     "version": "1.0.0"
   },
   {
-    "author": "Yanzihko",
-    "name": "Braixen and Delphox - Fire Pokemon [1.4]",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Vaniat",
     "name": "Bulk Carrier",
     "steamId": "1428989232",
@@ -858,12 +852,6 @@
     "version": null
   },
   {
-    "author": "Yanzihko",
-    "name": "Vaporeon - Water Pokemon [1.4]",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "1trickPwnyta",
     "name": "Visible Raid Points",
     "steamId": "2562730174",
@@ -886,12 +874,6 @@
     "name": "Xenotype Xenogerms",
     "steamId": "3001581390",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Yanzihko",
-    "name": "Zoroark - Illusion Pokemon [1.4]",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "FrozenSnowFox",
@@ -1054,5 +1036,17 @@
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
     "version": "0.6.3.2421"
+  },
+  {
+    "author": "Oskar Potocki, xrushha and legodude17",
+    "name": "Vanilla Factions Expanded - Deserters",
+    "steamId": "3025493377",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.4.1242.0"
   }
 ]
